@@ -1,0 +1,1277 @@
+SaleID,RetailerCountry,OrderMethod,RetailerType,ProductLine,ProductType,Product,Year,Quarter,Revenue,Quantity,GrossMargin
+SaleID_1,United States,Fax,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q1 2018,59728.66,491,0.35754797
+SaleID_2,United States,Fax,Outdoors Shop,Sports Equipment,Cooking Gear,TrailChef Double Flame,2018,Q1 2018,36050.32,254,0.4842745
+SaleID_3,United States,Fax,Outdoors Shop,,Tents,Star Dome,2018,Q1 2018,90040.48,149,
+SaleID_4,United States,Fax,Outdoors Shop,,Tents,Star Gazer 2,2018,Q1 2018,,305,0.29293788
+SaleID_5,United States,,Outdoors Shop,Personal Accessories,First Aid,Compact Relief Kit,2018,Q1 2018,,182,0.61070985
+SaleID_6,United States,Fax,Outdoors Shop,Camping Equipment,First Aid,Aloe Relief,2018,Q1 2018,811.28,138,0.64288719
+SaleID_7,United States,Phone,Mall,Camping Equipment,Watches,Infinity,2018,Q1 2018,11100,52,0.48472727
+SaleID_8,United States,Phone,Mall,Camping Equipment,Watches,TX,2018,Q1 2018,14104,74,0.47098543
+SaleID_9,United States,Phone,Mall,Camping Equipment,Watches,Legend,2018,Q1 2018,14027,60,0.45401666
+SaleID_10,United States,Mail,Department Store,Personal Accessories,Sunscreen,Sun Shield,2018,Q1 2018,7456.48,1266,0.5357732
+SaleID_11,United States,Mail,Department Store,Mountaineering Equipment,First Aid,Aloe Relief,2018,Q1 2018,811.28,138,0.64288719
+SaleID_12,United States,Mail,Department Store,Outdoor Protection,Irons,Hailstorm Steel Irons,2018,Q1 2018,87422.62,239,0.41018978
+SaleID_13,United States,Web,Mall,Camping Equipment,Eyewear,Trendi,2018,Q1 2018,21678.7,431,0.40525921
+SaleID_14,United States,Web,Mall,Sports Equipment,Eyewear,Zone,2018,Q1 2018,70564.7,2304,0.33717588
+SaleID_15,United States,Web,Mall,Personal Accessories,Eyewear,Hawk Eye,2018,Q1 2018,29584,730,0.41053453
+SaleID_16,United States,Web,Mall,Camping Equipment,Knives,Max Gizmo,2018,Q1 2018,12362.2,323,0.54979058
+SaleID_17,United States,Web,Mall,Camping Equipment,Knives,Pocket Gizmo,2018,Q1 2018,16911.6,1380,0.60992148
+SaleID_18,United States,Web,Mall,Personal Accessories,Binoculars,Opera Vision,2018,Q1 2018,15170,139,0.551
+SaleID_19,United States,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2018,Q1 2018,169077.94,680,0.40814629
+SaleID_20,United States,Sales visit,Outdoors Shop,Camping Equipment,Rope,Husky Rope 200,2018,Q1 2018,115762.72,216,0.32477575
+SaleID_21,United States,Sales visit,Outdoors Shop,Outdoor Protection,Safety,Granite Climbing Helmet,2018,Q1 2018,97970.92,1409,0.25468085
+SaleID_22,United States,Sales visit,Outdoors Shop,Camping Equipment,Safety,Husky Harness,2018,Q1 2018,69448.5,1137,0.29363339
+SaleID_23,United States,Sales visit,Outdoors Shop,Camping Equipment,Safety,Husky Harness Extreme,2018,Q1 2018,155406.8,1504,0.48843327
+SaleID_24,United States,Sales visit,Outdoors Shop,Sports Equipment,Safety,Granite Signal Mirror,2018,Q1 2018,16981.48,524,0.52422387
+SaleID_25,United States,Sales visit,Outdoors Shop,Camping Equipment,Climbing Accessories,Granite Carabiner,2018,Q1 2018,51961.68,13758,0.49012174
+SaleID_26,United States,Other,Outdoors Shop,Mountaineering Equipment,Tools,Granite Ice,2018,Q1 2018,25442.4,339,0.49178191
+SaleID_27,United States,Other,Outdoors Shop,Personal Accessories,Tools,Granite Axe,2018,Q1 2018,36464.8,949,0.50166667
+SaleID_28,United States,Other,Outdoors Shop,Mountaineering Equipment,Tools,Granite Extreme,2018,Q1 2018,45671.2,608,0.39138298
+SaleID_29,United States,Other,Outdoors Shop,Camping Equipment,Watches,Mountain Man Digital,2018,Q1 2018,4216.72,104,0.51445986
+SaleID_30,United States,Other,Outdoors Shop,Personal Accessories,Watches,Mountain Man Deluxe,2018,Q1 2018,9375.86,123,0.50126011
+SaleID_31,United States,Other,Outdoors Shop,Personal Accessories,Insect Repellents,BugShield Extreme,2018,Q1 2018,24715.78,3743,0.64221884
+SaleID_32,United States,Other,Outdoors Shop,Mountaineering Equipment,First Aid,Compact Relief Kit,2018,Q1 2018,3661.32,160,0.61070985
+SaleID_33,Canada,Fax,Outdoors Shop,Outdoor Protection,Watches,Venue,2018,Q1 2018,,167,0.42863014
+SaleID_34,Canada,Fax,Outdoors Shop,Personal Accessories,Watches,TX,2018,Q1 2018,21060,116,0.46054389
+SaleID_35,Canada,Fax,Outdoors Shop,Camping Equipment,Watches,Legend,2018,Q1 2018,3840,19,0.48345455
+SaleID_36,Canada,Fax,Outdoors Shop,Mountaineering Equipment,Watches,Kodiak,2018,Q1 2018,33545.2,273,0.46531676
+SaleID_37,Canada,Fax,Outdoors Shop,Mountaineering Equipment,Eyewear,Capri,2018,Q1 2018,23884.3,623,0.35070668
+SaleID_38,Canada,E-mail,Mall,Outdoor Protection,Navigation,Trail Master,2018,Q1 2018,9225,27,0.3592274
+SaleID_39,Canada,E-mail,Mall,Mountaineering Equipment,Woods,Hailstorm Titanium Woods Set,2018,Q1 2018,72984.02,63,0.43250716
+SaleID_40,Canada,E-mail,Mall,Outdoor Protection,Woods,Lady Hailstorm Steel Woods Set,2018,Q1 2018,35202.97,43,0.45845066
+SaleID_41,Canada,E-mail,Mall,Mountaineering Equipment,Putters,Course Pro Putter,2018,Q1 2018,36875.25,511,0.52695502
+SaleID_42,Canada,E-mail,Mall,Camping Equipment,Putters,Blue Steel Max Putter,2018,Q1 2018,29643.46,176,0.46933212
+SaleID_43,Canada,E-mail,Department Store,Personal Accessories,Cooking Gear,TrailChef Water Bag,2018,Q1 2018,12688.86,2013,0.54194888
+SaleID_44,Canada,Web,Sports Store,Camping Equipment,Knives,Edge Extreme,2018,Q1 2018,41166.15,367,0.29895209
+SaleID_45,Canada,Web,Sports Store,Sports Equipment,Knives,Bear Edge,2018,Q1 2018,32326,822,0.41127226
+SaleID_46,Canada,Web,Sports Store,Camping Equipment,Knives,Bear Survival Edge,2018,Q1 2018,13293.6,153,0.49497756
+SaleID_47,Canada,Web,Sports Store,Camping Equipment,Knives,Max Gizmo,2018,Q1 2018,6021,157,0.54881101
+SaleID_48,Canada,Web,Sports Store,Sports Equipment,Knives,Pocket Gizmo,2018,Q1 2018,51815.8,4241,0.61459705
+SaleID_49,Canada,Web,Sports Store,Camping Equipment,Binoculars,Seeker 35,2018,Q1 2018,17914.6,182,0.29069112
+SaleID_50,Canada,Web,Sports Store,Mountaineering Equipment,Binoculars,Seeker 50,2018,Q1 2018,11067.22,89,0.27558782
+SaleID_51,Canada,Web,Sports Store,Camping Equipment,Binoculars,Seeker Extreme,2018,Q1 2018,30149.25,177,0.46186652
+SaleID_52,Canada,Web,Sports Store,Personal Accessories,Binoculars,Seeker Mini,2018,Q1 2018,24309.43,303,0.51267313
+SaleID_53,Canada,Web,Sports Store,Camping Equipment,Binoculars,Opera Vision,2018,Q1 2018,13850,127,0.554
+SaleID_54,Canada,Web,Sports Store,Camping Equipment,Binoculars,Ranger Vision,2018,Q1 2018,12260,78,0.42500658
+SaleID_55,Canada,Web,Sports Store,Mountaineering Equipment,Navigation,Glacier Basic,2018,Q1 2018,52851.88,1664,0.37988028
+SaleID_56,Canada,Web,Sports Store,Camping Equipment,Navigation,Glacier Deluxe,2018,Q1 2018,7895.9,88,0.38970215
+SaleID_57,Canada,Web,Sports Store,Mountaineering Equipment,Navigation,Glacier GPS,2018,Q1 2018,46076.87,421,0.29415201
+SaleID_58,Canada,Sales visit,Outdoors Shop,Personal Accessories,Watches,Mountain Man Digital,2018,Q1 2018,2913.82,71,0.51956351
+SaleID_59,Canada,Sales visit,Outdoors Shop,Sports Equipment,Watches,Mountain Man Deluxe,2018,Q1 2018,11424.91,149,0.50377081
+SaleID_60,Canada,Sales visit,Outdoors Shop,Sports Equipment,Eyewear,Polar Sun,2018,Q1 2018,3253.84,53,0.58713454
+SaleID_61,Canada,Sales visit,Outdoors Shop,Personal Accessories,Eyewear,Polar Ice,2018,Q1 2018,2845.6,28,0.53945076
+SaleID_62,Canada,Sales visit,Outdoors Shop,Personal Accessories,Eyewear,Polar Extreme,2018,Q1 2018,1731.3,13,0.5211261
+SaleID_63,Canada,Sales visit,Outdoors Shop,Mountaineering Equipment,Knives,Edge Extreme,2018,Q1 2018,20126.78,180,0.29895209
+SaleID_64,Canada,Sales visit,Outdoors Shop,Outdoor Protection,Binoculars,Seeker 50,2018,Q1 2018,10562.98,85,0.27558782
+SaleID_65,Canada,Sales visit,Outdoors Shop,Sports Equipment,Binoculars,Seeker Extreme,2018,Q1 2018,9372.34,56,0.46186652
+SaleID_66,Canada,Sales visit,Outdoors Shop,Personal Accessories,Navigation,Glacier Deluxe,2018,Q1 2018,8077.2,90,0.38970215
+SaleID_67,Canada,Sales visit,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS,2018,Q1 2018,23801.68,218,0.29415201
+SaleID_68,Canada,Sales visit,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS Extreme,2018,Q1 2018,50126.96,150,0.4879303
+SaleID_69,Canada,Sales visit,Outdoors Shop,Camping Equipment,Insect Repellents,BugShield Extreme,2018,Q1 2018,32897.59,4961,0.64409568
+SaleID_70,Canada,Sales visit,Outdoors Shop,Sports Equipment,Sunscreen,Sun Shelter Stick,2018,Q1 2018,4069,812,0.61
+SaleID_71,Austria,Web,Mall,Personal Accessories,Putters,Blue Steel Max Putter,2018,Q2 2018,46962.04,278,0.46933212
+SaleID_72,Austria,Web,Mall,Camping Equipment,Golf Accessories,Course Pro Golf and Tee Set,2018,Q2 2018,10349.07,990,0.74008283
+SaleID_73,Austria,Web,Mall,Sports Equipment,Golf Accessories,Course Pro Umbrella,2018,Q2 2018,14332.35,1147,
+SaleID_74,Austria,Web,Mall,Mountaineering Equipment,Golf Accessories,Course Pro Golf Bag,2018,Q2 2018,23187.68,114,0.62336955
+SaleID_75,Austria,Web,Mall,Camping Equipment,Golf Accessories,Course Pro Gloves,2018,Q2 2018,3827.5,357,0.78047619
+SaleID_76,Austria,Web,Department Store,Sports Equipment,Watches,Venue,2018,Q2 2018,12218,168,0.42205479
+SaleID_77,Austria,Web,Department Store,Camping Equipment,Watches,Infinity,2018,Q2 2018,24760,108,0.44783049
+SaleID_78,Austria,Web,Department Store,Mountaineering Equipment,Watches,Sam,2018,Q2 2018,11818.9,263,0.39218263
+SaleID_79,Austria,Web,Warehouse Store,Mountaineering Equipment,Lanterns,Firefly Multi-light,2018,Q2 2018,3637.36,138,0.32641676
+SaleID_80,Austria,Web,Warehouse Store,Personal Accessories,Lanterns,EverGlow Single,2018,Q2 2018,12065.92,516,0.3656701
+SaleID_81,Austria,Web,Warehouse Store,Camping Equipment,Lanterns,EverGlow Kerosene,2018,Q2 2018,4954.44,159,0.36316947
+SaleID_82,Austria,Web,Outdoors Shop,Personal Accessories,Watches,TX,2018,Q2 2018,103824,543,0.46542748
+SaleID_83,Austria,Web,Outdoors Shop,Camping Equipment,Watches,Legend,2018,Q2 2018,59319.8,232,0.45312882
+SaleID_84,Austria,Web,Outdoors Shop,Personal Accessories,Watches,Kodiak,2018,Q2 2018,15997,131,0.45947097
+SaleID_85,Austria,Web,Outdoors Shop,Camping Equipment,Eyewear,Polar Sun,2018,Q2 2018,6495.4,106,0.58475686
+SaleID_86,Austria,Web,Outdoors Shop,Personal Accessories,Eyewear,Polar Extreme,2018,Q2 2018,1434.7,11,0.5211261
+SaleID_87,Austria,Web,Sports Store,Personal Accessories,Tents,Star Peg,2018,Q2 2018,3325.94,1599,
+SaleID_88,Austria,Web,Sports Store,Camping Equipment,Sleeping Bags,Hibernator,2018,Q2 2018,37641.44,274,0.3869019
+SaleID_89,Austria,,Sports Store,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2018,Q2 2018,43525.69,365,0.5540107
+SaleID_90,Austria,,Sports Store,Personal Accessories,Sleeping Bags,Hibernator Pad,2018,Q2 2018,9129.47,231,0.52382196
+SaleID_91,Austria,,Sports Store,Outdoor Protection,Packs,Canyon Mule Weekender Backpack,2018,Q2 2018,36648.64,138,0.38984669
+SaleID_92,Austria,Web,Sports Store,Personal Accessories,Packs,Canyon Mule Extreme Backpack,2018,Q2 2018,26939.18,64,0.4581739
+SaleID_93,Austria,Web,Sports Store,Mountaineering Equipment,Lanterns,Firefly Mapreader,2018,Q2 2018,5526.4,342,0.54007519
+SaleID_94,Austria,Web,Sports Store,Camping Equipment,Lanterns,Firefly 4,2018,Q2 2018,3677.4,126,0.38608319
+SaleID_95,Austria,Web,Sports Store,Camping Equipment,Watches,Mountain Man Deluxe,2018,Q2 2018,4640.82,60,0.51185209
+SaleID_96,Austria,Web,Sports Store,Camping Equipment,Watches,Mountain Man Extreme,2018,Q2 2018,3561.88,14,0.60724774
+SaleID_97,Austria,Web,Sports Store,Sports Equipment,Watches,Venue,2018,Q2 2018,81422,1116,0.42362387
+SaleID_98,Austria,Sales visit,Sports Store,Sports Equipment,Woods,Hailstorm Titanium Woods Set,2018,Q2 2018,56256.54,49,0.43250716
+SaleID_99,Austria,Sales visit,Sports Store,Personal Accessories,Putters,Course Pro Putter,2018,Q2 2018,29578,410,0.52695502
+SaleID_100,Italy,Fax,Outdoors Shop,Outdoor Protection,Cooking Gear,TrailChef Cook Set,2018,Q2 2018,93062.99,1765,0.34681016
+SaleID_101,Italy,Fax,Outdoors Shop,Camping Equipment,Tents,Star Dome,2018,Q2 2018,51494.56,86,0.36277197
+SaleID_102,Italy,Fax,Outdoors Shop,Personal Accessories,Tents,Star Gazer 3,2018,Q2 2018,54194.85,87,0.3406202
+SaleID_103,Italy,Fax,Outdoors Shop,Personal Accessories,Sleeping Bags,Hibernator Self - Inflating Mat,2018,Q2 2018,34074.92,286,0.5540107
+SaleID_104,Italy,Fax,Outdoors Shop,Outdoor Protection,Packs,Canyon Mule Carryall,2018,Q2 2018,28012.36,406,0.41396584
+SaleID_105,Italy,,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2018,Q2 2018,,178,0.38608319
+SaleID_106,Italy,Fax,Outdoors Shop,Sports Equipment,Rope,Husky Rope 50,2018,Q2 2018,51085.6,341,0.33905585
+SaleID_107,Italy,Fax,Outdoors Shop,Outdoor Protection,Safety,Granite Signal Mirror,2018,Q2 2018,8439.1,363,0.39787879
+SaleID_108,Italy,Fax,Outdoors Shop,Personal Accessories,Climbing Accessories,Granite Carabiner,2018,Q2 2018,9902.32,2609,0.4887234
+SaleID_109,Italy,Fax,Outdoors Shop,Sports Equipment,Tools,Granite Grip,2018,Q2 2018,7195.2,364,0.50540816
+SaleID_110,Italy,Fax,Outdoors Shop,Personal Accessories,Tools,Granite Axe,2018,Q2 2018,26020,677,0.50166667
+SaleID_111,Italy,Fax,Outdoors Shop,Sports Equipment,Tools,Granite Extreme,2018,Q2 2018,34541.6,460,0.39138298
+SaleID_112,Italy,Fax,Outdoors Shop,Mountaineering Equipment,Watches,Mountain Man Analog,2018,Q2 2018,5125.46,108,0.37722211
+SaleID_113,Italy,Fax,Outdoors Shop,Outdoor Protection,Eyewear,Polar Sun,2018,Q2 2018,3455.32,57,0.58135236
+SaleID_114,Italy,Fax,Outdoors Shop,Sports Equipment,Sunscreen,Sun Shield,2018,Q2 2018,5897.68,988,0.54061224
+SaleID_115,Italy,E-mail,Sports Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2018,Q2 2018,20062.45,1645,0.46514403
+SaleID_116,Italy,E-mail,Sports Store,Personal Accessories,Cooking Gear,TrailChef Cup,2018,Q2 2018,7839.6,3520,0.62363636
+SaleID_117,Italy,E-mail,Sports Store,Outdoor Protection,Cooking Gear,TrailChef Cook Set,2018,Q2 2018,0,668,
+SaleID_118,Italy,E-mail,Sports Store,Personal Accessories,Irons,Lady Hailstorm Titanium Irons,2018,Q2 2018,44391.04,55,0.45955007
+SaleID_119,Italy,E-mail,Sports Store,Outdoor Protection,Woods,Hailstorm Titanium Woods Set,2018,Q2 2018,71789.2,62,0.43250716
+SaleID_120,Italy,Web,Mall,Mountaineering Equipment,Watches,Venue,2018,Q2 2018,15503,213,0.42629033
+SaleID_121,Italy,Web,Mall,Camping Equipment,Watches,Infinity,2018,Q2 2018,56329,250,0.47276548
+SaleID_122,Italy,Web,Mall,Camping Equipment,Watches,Lux,2018,Q2 2018,35993.2,212,0.48558702
+SaleID_123,Italy,Web,Mall,Mountaineering Equipment,Putters,Course Pro Putter,2018,Q2 2018,43666.75,605,0.52695502
+SaleID_124,Italy,Web,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2018,Q2 2018,17032.25,763,0.5605618
+SaleID_125,Italy,Web,Department Store,Outdoor Protection,Navigation,Astro Pilot,2018,Q2 2018,15035,105,0.38662069
+SaleID_126,Italy,Web,Department Store,Outdoor Protection,Navigation,Sky Pilot,2018,Q2 2018,18000,52,0.34706704
+SaleID_127,Italy,Web,Department Store,Mountaineering Equipment,Insect Repellents,BugShield Spray,2018,Q2 2018,4276.01,711,0.6993039
+SaleID_128,Italy,Web,Department Store,Camping Equipment,Insect Repellents,BugShield Lotion Lite,2018,Q2 2018,5007,703,0.74142857
+SaleID_129,Italy,Web,Department Store,Camping Equipment,Insect Repellents,BugShield Lotion,2018,Q2 2018,9889.22,1429,0.67034985
+SaleID_130,Italy,Web,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Cook Set,2018,Q2 2018,0,202,
+SaleID_131,Italy,Web,Outdoors Shop,Personal Accessories,Tools,Granite Grip,2018,Q2 2018,16407.2,834,0.50540816
+SaleID_132,Italy,Web,Outdoors Shop,Camping Equipment,Tools,Granite Axe,2018,Q2 2018,46756,1217,0.50166667
+SaleID_133,Italy,Web,Outdoors Shop,Camping Equipment,Navigation,Trail Master,2018,Q2 2018,7765,23,0.36082192
+SaleID_134,Italy,Web,Discount Retailer,Mountaineering Equipment,Eyewear,Retro,2018,Q2 2018,11377,182,0.45070231
+SaleID_135,Italy,Web,Sports Store,Mountaineering Equipment,Cooking Gear,TrailChef Single Flame,2018,Q2 2018,35622.16,568,0.27099426
+SaleID_136,Italy,Web,Sports Store,Sports Equipment,Cooking Gear,TrailChef Double Flame,2018,Q2 2018,28061.36,198,0.4842745
+SaleID_137,Italy,Web,Sports Store,Outdoor Protection,Tents,Star Lite,2018,Q2 2018,23758.56,70,0.29144401
+SaleID_138,Italy,Web,Sports Store,Mountaineering Equipment,Packs,Canyon Mule Extreme Backpack,2018,Q2 2018,45553.45,107,0.4581739
+SaleID_139,Italy,Web,Sports Store,Personal Accessories,Lanterns,EverGlow Kerosene,2018,Q2 2018,6778.72,218,0.36316947
+SaleID_140,Italy,Web,Sports Store,Sports Equipment,Watches,Venue,2018,Q2 2018,19591,269,0.42558873
+SaleID_141,Italy,Sales visit,Warehouse Store,Mountaineering Equipment,Cooking Gear,TrailChef Water Bag,2018,Q2 2018,17716.74,2848,0.5366559
+SaleID_142,Italy,Sales visit,Warehouse Store,Personal Accessories,Cooking Gear,TrailChef Canteen,2018,Q2 2018,10573.3,864,0.46514403
+SaleID_143,Italy,Sales visit,Warehouse Store,Personal Accessories,Cooking Gear,TrailChef Double Flame,2018,Q2 2018,27062.74,191,0.4842745
+SaleID_144,Italy,Sales visit,Warehouse Store,Personal Accessories,Tents,Star Lite,2018,Q2 2018,116305.28,336,0.29144401
+SaleID_145,Italy,Sales visit,Warehouse Store,Personal Accessories,Tents,Star Gazer 2,2018,Q2 2018,99192.07,183,0.29293788
+SaleID_146,Italy,Other,Mall,Camping Equipment,Woods,Lady Hailstorm Titanium Woods Set,2018,Q2 2018,51225.6,42,0.49311609
+SaleID_147,Italy,Other,Mall,Mountaineering Equipment,Woods,Lady Hailstorm Steel Woods Set,2018,Q2 2018,39483.82,48,0.45845066
+SaleID_148,Spain,Phone,Department Store,Personal Accessories,Cooking Gear,TrailChef Canteen,2018,Q2 2018,9273.25,757,0.46514403
+SaleID_149,Spain,Phone,Department Store,Camping Equipment,Cooking Gear,TrailChef Kettle,2018,Q2 2018,49339.07,3946,0.60069414
+SaleID_150,Spain,Phone,Department Store,Camping Equipment,Tents,Star Lite,2018,Q2 2018,19235.6,57,0.29144401
+SaleID_151,Spain,Phone,Department Store,Outdoor Protection,Tents,Star Dome,2018,Q2 2018,12597,22,0.3762479
+SaleID_152,Spain,Web,Mall,Outdoor Protection,Eyewear,Cat Eye,2018,Q2 2018,16432.95,551,0.3307063
+SaleID_153,Spain,Web,Mall,Personal Accessories,Eyewear,Dante,2018,Q2 2018,17464.6,398,0.35648653
+SaleID_154,Spain,Web,Mall,Sports Equipment,Eyewear,Fairway,2018,Q2 2018,,,
+SaleID_155,Spain,Web,Mall,Camping Equipment,Eyewear,Inferno,2018,Q2 2018,5040,78,0.40307692
+SaleID_156,Spain,Web,Mall,Camping Equipment,Eyewear,Maximus,2018,Q2 2018,8020,101,0.499625
+SaleID_157,Spain,Web,Mall,Mountaineering Equipment,Eyewear,Trendi,2018,Q2 2018,9908.5,197,0.4044334
+SaleID_158,Spain,Web,Mall,Personal Accessories,Eyewear,Zone,2018,Q2 2018,14879.6,486,0.32737259
+SaleID_159,United States,Fax,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2018,Q3 2018,72376.7,292,0.40814629
+SaleID_160,United States,Fax,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2018,Q3 2018,38860.12,326,0.5540107
+SaleID_161,United States,Phone,Department Store,Camping Equipment,Eyewear,Polar Sports,2018,Q3 2018,7943.12,70,0.49950928
+SaleID_162,United States,Phone,Department Store,Personal Accessories,Eyewear,Polar Wave,2018,Q3 2018,4735.72,51,0.5753577
+SaleID_163,United States,Phone,Warehouse Store,Outdoor Protection,Sleeping Bags,Hibernator Extreme,2018,Q3 2018,82345.9,332,0.40814629
+SaleID_164,United States,Phone,Warehouse Store,Sports Equipment,Packs,Canyon Mule Extreme Backpack,2018,Q3 2018,55509.92,130,0.4581739
+SaleID_165,United States,Phone,Outdoors Shop,Mountaineering Equipment,Tools,Granite Grip,2018,Q3 2018,26870.6,1373,0.50350444
+SaleID_166,United States,Phone,Outdoors Shop,Camping Equipment,Tools,Granite Axe,2018,Q3 2018,80701.6,2101,0.50166667
+SaleID_167,United States,Phone,Outdoors Shop,Sports Equipment,Tools,Granite Extreme,2018,Q3 2018,111170.4,1479,0.39138298
+SaleID_168,United States,Phone,Outdoors Shop,Mountaineering Equipment,First Aid,Calamine Relief,2018,Q3 2018,634,91,0.53833333
+SaleID_169,United States,Phone,Outdoors Shop,Mountaineering Equipment,First Aid,Insect Bite Relief,2018,Q3 2018,1960,312,0.55
+SaleID_170,United States,Phone,Discount Retailer,Personal Accessories,Watches,Mountain Man Analog,2018,Q3 2018,31810.67,669,0.37898211
+SaleID_171,United States,Phone,Sports Store,Sports Equipment,Eyewear,Maximus,2018,Q3 2018,40590,495,0.51347888
+SaleID_172,United States,Phone,Sports Store,Personal Accessories,Eyewear,Trendi,2018,Q3 2018,22181.7,441,0.40069456
+SaleID_173,United States,Mail,Warehouse Store,Outdoor Protection,Binoculars,Seeker Mini,2018,Q3 2018,4121.5,52,0.51267313
+SaleID_174,United States,Sales visit,Outdoors Shop,Sports Equipment,Rope,Husky Rope 50,2018,Q3 2018,7920.8,54,0.33905585
+SaleID_175,United States,Sales visit,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 60,2018,Q3 2018,6237,36,0.30911357
+SaleID_176,United States,Sales visit,Outdoors Shop,Personal Accessories,First Aid,Insect Bite Relief,2018,Q3 2018,586,83,0.55
+SaleID_177,United States,Other,Outdoors Shop,Outdoor Protection,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q3 2018,50583.16,416,0.35754797
+SaleID_178,United States,Other,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2018,Q3 2018,23687.68,1880,0.60315287
+SaleID_179,United States,Other,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2018,Q3 2018,18679.03,995,0.47552646
+SaleID_180,United States,Other,Outdoors Shop,Outdoor Protection,Climbing Accessories,Granite Carabiner,2018,Q3 2018,23976,6352,0.4887234
+SaleID_181,United States,Other,Outdoors Shop,Outdoor Protection,Climbing Accessories,Granite Belay,2018,Q3 2018,38658.8,588,0.48613982
+SaleID_182,United States,Other,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Pulley,2018,Q3 2018,33675.66,923,0.50664876
+SaleID_183,United States,Other,Outdoors Shop,Personal Accessories,Watches,Mountain Man Combination,2018,Q3 2018,5965.93,65,0.52670068
+SaleID_184,United States,Other,Outdoors Shop,Camping Equipment,Watches,Mountain Man Extreme,2018,Q3 2018,6599.8,25,0.5988535
+SaleID_185,United States,Other,Outdoors Shop,Personal Accessories,Eyewear,Polar Sun,2018,Q3 2018,2559.18,43,0.57402134
+SaleID_186,United States,Other,Outdoors Shop,Personal Accessories,Knives,Bear Survival Edge,2018,Q3 2018,8341.25,97,0.49126801
+SaleID_187,United States,Other,Outdoors Shop,Camping Equipment,Navigation,Glacier Deluxe,2018,Q3 2018,12881.65,143,0.38970215
+SaleID_188,United States,Other,Outdoors Shop,Sports Equipment,Navigation,Glacier GPS Extreme,2018,Q3 2018,36606.16,110,0.4879303
+SaleID_189,United States,Other,Outdoors Shop,Sports Equipment,Sunscreen,Sun Shelter 15,2018,Q3 2018,6880.3,1400,0.64092784
+SaleID_190,Canada,Phone,Warehouse Store,Camping Equipment,Watches,TX,2018,Q3 2018,34880,187,0.44702128
+SaleID_191,Canada,Phone,Sports Store,Outdoor Protection,Cooking Gear,TrailChef Single Flame,2018,Q3 2018,25266.76,403,0.27099426
+SaleID_192,Canada,Phone,Sports Store,Sports Equipment,Tents,Star Gazer 2,2018,Q3 2018,104119.3,192,0.29293788
+SaleID_193,Canada,Phone,Sports Store,Camping Equipment,Tents,Star Peg,2018,Q3 2018,3099.7,1517,0.50494949
+SaleID_194,Canada,Phone,Sports Store,Camping Equipment,Lanterns,EverGlow Kerosene,2018,Q3 2018,5541.92,178,0.36316947
+SaleID_195,Canada,Phone,Sports Store,Personal Accessories,Eyewear,Polar Sun,2018,Q3 2018,1918,32,0.57848185
+SaleID_196,Canada,Phone,Sports Store,Camping Equipment,Insect Repellents,BugShield Spray,2018,Q3 2018,4087.53,679,0.6993039
+SaleID_197,Canada,Phone,Sports Store,Sports Equipment,First Aid,Calamine Relief,2018,Q3 2018,,71,0.53833333
+SaleID_198,Canada,Phone,Sports Store,Personal Accessories,Woods,Hailstorm Titanium Woods Set,2018,Q3 2018,72984.02,63,0.43250716
+SaleID_199,Canada,Phone,Sports Store,Mountaineering Equipment,Woods,Lady Hailstorm Steel Woods Set,2018,Q3 2018,31778.29,39,0.45845066
+SaleID_200,Canada,Mail,Outdoors Shop,Sports Equipment,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,13625.15,2187,0.5366559
+SaleID_201,Canada,Mail,Outdoors Shop,Outdoor Protection,Cooking Gear,TrailChef Canteen,2018,Q3 2018,6575.95,535,0.46514403
+SaleID_202,Canada,Mail,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2018,Q3 2018,15746.77,1235,0.60732072
+SaleID_203,Canada,Mail,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Utensils,2018,Q3 2018,12280.21,653,0.47552646
+SaleID_204,Canada,Mail,Outdoors Shop,Camping Equipment,Tents,Star Lite,2018,Q3 2018,117349.04,339,0.29144401
+SaleID_205,Canada,Mail,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2018,Q3 2018,55467.67,89,0.3406202
+SaleID_206,Canada,Mail,Outdoors Shop,Personal Accessories,Packs,Canyon Mule Extreme Backpack,2018,Q3 2018,37328.54,88,0.4581739
+SaleID_207,Canada,Mail,Sports Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2018,Q3 2018,49548.16,186,0.38984669
+SaleID_208,Canada,Mail,Sports Store,Outdoor Protection,Watches,Mountain Man Extreme,2018,Q3 2018,4427.35,17,0.60724774
+SaleID_209,Canada,Mail,Sports Store,Outdoor Protection,Eyewear,Polar Sun,2018,Q3 2018,1027.6,17,0.58713454
+SaleID_210,Canada,Mail,Sports Store,Personal Accessories,Knives,Double Edge,2018,Q3 2018,7455.81,453,0.30920294
+SaleID_211,Canada,E-mail,Department Store,Personal Accessories,Cooking Gear,TrailChef Kettle,2018,Q3 2018,13064.49,1045,0.59889783
+SaleID_212,Canada,E-mail,Department Store,Sports Equipment,Cooking Gear,TrailChef Utensils,2018,Q3 2018,9526.68,511,0.4700432
+SaleID_213,Canada,E-mail,Department Store,Sports Equipment,Tents,Star Gazer 2,2018,Q3 2018,77840.74,144,0.29293788
+SaleID_214,Canada,E-mail,Department Store,Personal Accessories,Sleeping Bags,Hibernator Pad,2018,Q3 2018,9444.91,239,0.52382196
+SaleID_215,Canada,E-mail,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pillow,2018,Q3 2018,8231,472,0.53947977
+SaleID_216,Canada,E-mail,Department Store,Camping Equipment,Lanterns,EverGlow Double,2018,Q3 2018,1612.35,31,0.45870566
+SaleID_217,Canada,E-mail,Department Store,Personal Accessories,Lanterns,Flicker Lantern,2018,Q3 2018,6057,177,0.55112808
+SaleID_218,Mexico,Mail,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q3 2018,47656.6,392,0.35754797
+SaleID_219,Mexico,Mail,Outdoors Shop,Mountaineering Equipment,Sleeping Bags,Hibernator,2018,Q3 2018,64003.26,465,0.3869019
+SaleID_220,Mexico,Mail,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2018,Q3 2018,83841.28,338,0.40814629
+SaleID_221,Mexico,Mail,Outdoors Shop,Mountaineering Equipment,Packs,Canyon Mule Journey Backpack,2018,Q3 2018,114916.88,346,0.37084729
+SaleID_222,Mexico,Mail,Outdoors Shop,Personal Accessories,Rope,Husky Rope 50,2018,Q3 2018,21156,142,0.33905585
+SaleID_223,Mexico,Mail,Outdoors Shop,Personal Accessories,Rope,Husky Rope 60,2018,Q3 2018,12602,72,0.30165733
+SaleID_224,Mexico,Mail,Outdoors Shop,Personal Accessories,Rope,Husky Rope 100,2018,Q3 2018,35944.6,112,0.31126435
+SaleID_225,Mexico,Mail,Outdoors Shop,Personal Accessories,Safety,Granite Signal Mirror,2018,Q3 2018,4304.2,132,0.52422387
+SaleID_226,Mexico,Mail,Outdoors Shop,Sports Equipment,Insect Repellents,BugShield Extreme,2018,Q3 2018,20215.06,3059,0.64221884
+SaleID_227,Mexico,Mail,Outdoors Shop,Personal Accessories,Sunscreen,Sun Shelter Stick,2018,Q3 2018,5905.45,1199,0.60587629
+SaleID_228,Mexico,Mail,Outdoors Shop,Camping Equipment,Sunscreen,Sun Shelter 30,2018,Q3 2018,12587.9,2659,0.61638298
+SaleID_229,Mexico,Mail,Outdoors Shop,Personal Accessories,First Aid,Compact Relief Kit,2018,Q3 2018,3368.3,147,0.61070985
+SaleID_230,Mexico,Web,Mall,Personal Accessories,Watches,Mountain Man Digital,2018,Q3 2018,4137.22,101,0.51956351
+SaleID_231,Mexico,Web,Mall,Personal Accessories,Watches,Infinity,2018,Q3 2018,340,1,0.42575
+SaleID_232,Mexico,Web,Mall,Personal Accessories,Watches,TX,2018,Q3 2018,11944,65,0.453769
+SaleID_233,Mexico,Web,Mall,Personal Accessories,Eyewear,Cat Eye,2018,Q3 2018,19526.8,620,0.33391542
+SaleID_234,Mexico,Web,Mall,Personal Accessories,Eyewear,Dante,2018,Q3 2018,18320.55,425,
+SaleID_235,Mexico,Web,Mall,Personal Accessories,Eyewear,Fairway,2018,Q3 2018,12331.05,609,0.40465786
+SaleID_236,Mexico,Web,Mall,Camping Equipment,Binoculars,Ranger Vision,2018,Q3 2018,5700,37,0.37
+SaleID_237,Mexico,Web,Mall,Camping Equipment,Navigation,Trail Scout,2018,Q3 2018,4384,20,0.35747899
+SaleID_238,Mexico,Web,Mall,Personal Accessories,Irons,Hailstorm Steel Irons,2018,Q3 2018,115368.44,268,0.50000785
+SaleID_239,Mexico,Web,Mall,Camping Equipment,Golf Accessories,Course Pro Umbrella,2018,Q3 2018,21703.34,1740,0.52729686
+SaleID_240,Mexico,Web,Mall,Camping Equipment,Golf Accessories,Course Pro Golf Bag,2018,Q3 2018,36380.64,178,0.62336955
+SaleID_241,Mexico,Web,Mall,Camping Equipment,Golf Accessories,Course Pro Gloves,2018,Q3 2018,5357.34,508,0.7780462
+SaleID_242,Mexico,Web,Department Store,Personal Accessories,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,17456.76,2806,0.5366559
+SaleID_243,Mexico,Web,Department Store,Personal Accessories,Cooking Gear,TrailChef Kitchen Kit,2018,Q3 2018,16863.34,728,0.32009095
+SaleID_244,Mexico,Web,Department Store,Sports Equipment,Cooking Gear,TrailChef Cook Set,2018,Q3 2018,35007.26,664,0.34681016
+SaleID_245,Mexico,Web,Department Store,Personal Accessories,Tents,Star Gazer 2,2018,Q3 2018,164888.47,303,0.29293788
+SaleID_246,Mexico,Web,Department Store,Personal Accessories,Watches,Mountain Man Analog,2018,Q3 2018,6405.53,135,0.37722211
+SaleID_247,Mexico,Web,Department Store,Outdoor Protection,Watches,Venue,2018,Q3 2018,28059,385,0.42153475
+SaleID_248,Mexico,Web,Department Store,Outdoor Protection,Watches,Infinity,2018,Q3 2018,41319,184,0.46689852
+SaleID_249,Mexico,Web,Department Store,Personal Accessories,Eyewear,Polar Ice,2018,Q3 2018,5805.7,56,0.53972291
+SaleID_250,Mexico,Web,Department Store,Personal Accessories,Eyewear,Capri,2018,Q3 2018,4427.9,115,0.34315927
+SaleID_251,Mexico,Sales visit,Department Store,Camping Equipment,Tents,Star Gazer 6,2018,Q3 2018,12877.6,18,0.39642625
+SaleID_252,Mexico,Sales visit,Department Store,Mountaineering Equipment,Packs,Canyon Mule Journey Backpack,2018,Q3 2018,114583.11,345,0.37084729
+SaleID_253,Mexico,Sales visit,Department Store,Personal Accessories,Packs,Canyon Mule Carryall,2018,Q3 2018,41208.55,597,0.41396584
+SaleID_254,Mexico,Sales visit,Department Store,Personal Accessories,Lanterns,Firefly Multi-light,2018,Q3 2018,,255,0.32641676
+SaleID_255,Brazil,Web,Mall,Camping Equipment,Watches,Venue,2018,Q3 2018,22876,314,0.4217255
+SaleID_256,Brazil,Web,Mall,Sports Equipment,Eyewear,Zone,2018,Q3 2018,26181.8,858,0.32811915
+SaleID_257,Brazil,Web,Mall,Personal Accessories,Eyewear,Hawk Eye,2018,Q3 2018,20633.5,509,0.40330801
+SaleID_258,Brazil,Web,Department Store,Camping Equipment,Lanterns,EverGlow Double,2018,Q3 2018,5680.05,109,0.45870566
+SaleID_259,Brazil,Web,Department Store,Personal Accessories,Sunscreen,Sun Shield,2018,Q3 2018,5943.28,1006,0.5357732
+SaleID_260,Brazil,Web,Department Store,Personal Accessories,First Aid,Deluxe Family Relief Kit,2018,Q3 2018,6717.8,196,0.59841911
+SaleID_261,Brazil,Web,Department Store,Camping Equipment,Irons,Lady Hailstorm Steel Irons,2018,Q3 2018,61196.38,124,0.45535634
+SaleID_262,Brazil,Web,Department Store,Sports Equipment,Irons,Lady Hailstorm Titanium Irons,2018,Q3 2018,60268.96,74,0.45955007
+SaleID_263,Japan,Fax,Outdoors Shop,Camping Equipment,Climbing Accessories,Granite Carabiner,2018,Q3 2018,9334,2432,0.49421053
+SaleID_264,Japan,Fax,Outdoors Shop,Personal Accessories,Climbing Accessories,Granite Belay,2018,Q3 2018,13194.2,201,0.48613982
+SaleID_265,Japan,Fax,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Pulley,2018,Q3 2018,10383.94,281,0.51217037
+SaleID_266,Japan,Fax,Outdoors Shop,Camping Equipment,Climbing Accessories,Firefly Rechargeable Battery,2018,Q3 2018,7383.36,931,
+SaleID_267,Japan,Mail,Online Retailer,Mountaineering Equipment,Cooking Gear,TrailChef Single Flame,2018,Q3 2018,33425.56,533,0.27099426
+SaleID_268,Japan,Mail,Online Retailer,Camping Equipment,Packs,Canyon Mule Journey Backpack,2018,Q3 2018,77200.87,233,0.37084729
+SaleID_269,Japan,Mail,Online Retailer,Mountaineering Equipment,Lanterns,EverGlow Butane,2018,Q3 2018,4475.12,70,0.37851104
+SaleID_270,Japan,Mail,Online Retailer,Sports Equipment,Insect Repellents,BugShield Natural,2018,Q3 2018,7555.42,1283,0.69041237
+SaleID_271,Japan,Mail,Sports Store,Camping Equipment,Cooking Gear,TrailChef Cup,2018,Q3 2018,4849.9,1340,0.77056338
+SaleID_272,Japan,Mail,Sports Store,Personal Accessories,Cooking Gear,TrailChef Single Flame,2018,Q3 2018,32797.96,523,0.27099426
+SaleID_273,Japan,Mail,Sports Store,Personal Accessories,First Aid,Calamine Relief,2018,Q3 2018,586,83,0.53833333
+SaleID_274,Japan,Mail,Sports Store,Camping Equipment,Irons,Hailstorm Titanium Irons,2018,Q3 2018,55960.48,66,0.44751289
+SaleID_275,Japan,Mail,Sports Store,Outdoor Protection,Woods,Hailstorm Titanium Woods Set,2018,Q3 2018,83737.4,72,0.43250716
+SaleID_276,Japan,Mail,Sports Store,Personal Accessories,Woods,Lady Hailstorm Steel Woods Set,2018,Q3 2018,36059.14,44,0.45845066
+SaleID_277,Japan,Mail,Sports Store,Personal Accessories,Golf Accessories,Course Pro Gloves,2018,Q3 2018,4370.29,413,0.7780462
+SaleID_278,Japan,E-mail,Department Store,Personal Accessories,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,15487.08,2460,0.54194888
+SaleID_279,Japan,E-mail,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2018,Q3 2018,13792.37,595,0.32009095
+SaleID_280,Japan,E-mail,Department Store,Camping Equipment,Cooking Gear,TrailChef Cup,2018,Q3 2018,3660.65,1005,0.77056338
+SaleID_281,Japan,E-mail,Department Store,Personal Accessories,Cooking Gear,TrailChef Cook Set,2018,Q3 2018,30419.75,577,0.34681016
+SaleID_282,Japan,E-mail,Department Store,Mountaineering Equipment,Cooking Gear,TrailChef Single Flame,2018,Q3 2018,,498,0.27099426
+SaleID_283,Japan,E-mail,Department Store,Personal Accessories,Cooking Gear,TrailChef Kettle,2018,Q3 2018,16419.34,1288,0.60732072
+SaleID_284,Japan,E-mail,Department Store,Personal Accessories,Cooking Gear,TrailChef Utensils,2018,Q3 2018,13103.45,697,0.47552646
+SaleID_285,Japan,E-mail,Department Store,Camping Equipment,Tents,Star Lite,2018,Q3 2018,122915.76,355,0.29144401
+SaleID_286,Japan,E-mail,Direct Marketing,Personal Accessories,Lanterns,EverGlow Single,2018,Q3 2018,13876.95,409,0.47706056
+SaleID_287,Japan,E-mail,Direct Marketing,Personal Accessories,Lanterns,EverGlow Lamp,2018,Q3 2018,15127.86,559,0.34395107
+SaleID_288,Japan,E-mail,Direct Marketing,Personal Accessories,Lanterns,Flicker Lantern,2018,Q3 2018,7044.16,206,0.55112808
+SaleID_289,Japan,E-mail,Direct Marketing,Personal Accessories,Insect Repellents,BugShield Lotion Lite,2018,Q3 2018,2760,382,0.74142857
+SaleID_290,Japan,E-mail,Direct Marketing,Sports Equipment,First Aid,Calamine Relief,2018,Q3 2018,586,83,0.53833333
+SaleID_291,Japan,E-mail,Direct Marketing,Personal Accessories,First Aid,Aloe Relief,2018,Q3 2018,1078.01,189,0.64288719
+SaleID_292,Japan,Web,Mall,Personal Accessories,Watches,Mountain Man Analog,2018,Q3 2018,3884.1,81,0.3836952
+SaleID_293,Japan,Web,Mall,Camping Equipment,Watches,Mountain Man Combination,2018,Q3 2018,12839.38,136,0.53666456
+SaleID_294,Japan,Web,Mall,Personal Accessories,Watches,Venue,2018,Q3 2018,93248,1278,
+SaleID_295,Japan,Web,Mall,Sports Equipment,Watches,Infinity,2018,Q3 2018,101493,437,0.45991863
+SaleID_296,Japan,Web,Mall,Camping Equipment,Watches,Lux,2018,Q3 2018,20282.4,119,0.48266232
+SaleID_297,Japan,Web,Mall,Personal Accessories,Watches,Sam,2018,Q3 2018,13390.4,298,0.39229098
+SaleID_298,Japan,Web,Mall,Personal Accessories,Watches,TX,2018,Q3 2018,76980,414,0.45755749
+SaleID_299,Japan,Web,Department Store,Personal Accessories,Watches,Kodiak,2018,Q3 2018,22568.7,177,0.48371766
+SaleID_300,Japan,Web,Outdoors Shop,Mountaineering Equipment,Tents,Star Gazer 2,2018,Q3 2018,94812.31,175,0.29293788
+SaleID_301,Japan,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 3,2018,Q3 2018,157929.68,250,0.3406202
+SaleID_302,Japan,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2018,Q3 2018,27768.41,37,0.39015954
+SaleID_303,Japan,Web,Outdoors Shop,Personal Accessories,Tents,Star Peg,2018,Q3 2018,6188.5,3077,0.50494949
+SaleID_304,Japan,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2018,Q3 2018,47716.9,347,0.3869019
+SaleID_305,Japan,Web,Outdoors Shop,Sports Equipment,Sleeping Bags,Hibernator Extreme,2018,Q3 2018,229391.6,922,0.40814629
+SaleID_306,Japan,Web,Outdoors Shop,Personal Accessories,Sleeping Bags,Hibernator Self - Inflating Mat,2018,Q3 2018,60752.41,509,0.5540107
+SaleID_307,Japan,Web,Outdoors Shop,Mountaineering Equipment,Sleeping Bags,Hibernator Camp Cot,2018,Q3 2018,26616.7,278,0.33379595
+SaleID_308,Japan,Web,Outdoors Shop,Personal Accessories,Climbing Accessories,Firefly Rechargeable Battery,2018,Q3 2018,41328.32,5306,0.60475429
+SaleID_309,Japan,Web,Outdoors Shop,Camping Equipment,Climbing Accessories,Granite Chalk Bag,2018,Q3 2018,16999.12,960,0.52643991
+SaleID_310,Japan,Web,Outdoors Shop,Personal Accessories,Tools,Granite Ice,2018,Q3 2018,107560.8,1431,0.49178191
+SaleID_311,Japan,Web,Outdoors Shop,Camping Equipment,Eyewear,Dante,2018,Q3 2018,125231.65,2895,0.36029467
+SaleID_312,Japan,Web,Outdoors Shop,Mountaineering Equipment,Eyewear,Fairway,2018,Q3 2018,120798.5,5992,0.40592936
+SaleID_313,Japan,Web,Outdoors Shop,Mountaineering Equipment,Eyewear,Inferno,2018,Q3 2018,120392.7,1875,0.41617136
+SaleID_314,Japan,Web,Sports Store,Mountaineering Equipment,Eyewear,Polar Sports,2018,Q3 2018,13133.42,115,0.49950928
+SaleID_315,Japan,Web,Sports Store,Camping Equipment,Eyewear,Polar Wave,2018,Q3 2018,2012.4,22,0.57996444
+SaleID_316,Japan,Web,Sports Store,Sports Equipment,Eyewear,Bella,2018,Q3 2018,5635,84,0.45560434
+SaleID_317,Japan,Web,Sports Store,Personal Accessories,Eyewear,Capri,2018,Q3 2018,1632,42,0.34315927
+SaleID_318,Japan,Web,Sports Store,Camping Equipment,Eyewear,Cat Eye,2018,Q3 2018,51808.1,1752,0.32856788
+SaleID_319,Japan,Web,Sports Store,Outdoor Protection,Eyewear,Dante,2018,Q3 2018,99235.4,2278,0.35703426
+SaleID_320,Japan,Web,Sports Store,Outdoor Protection,Eyewear,Fairway,2018,Q3 2018,97041.65,4813,0.40648809
+SaleID_321,Japan,Web,Sports Store,Mountaineering Equipment,Navigation,Sky Pilot,2018,Q3 2018,19432,56,0.34530364
+SaleID_322,Japan,Web,Sports Store,Camping Equipment,Insect Repellents,BugShield Natural,2018,Q3 2018,13229.92,2258,0.69041237
+SaleID_323,Japan,Web,Sports Store,Mountaineering Equipment,Insect Repellents,BugShield Spray,2018,Q3 2018,12351.2,2082,0.6993039
+SaleID_324,Japan,Web,Sports Store,Camping Equipment,Insect Repellents,BugShield Lotion,2018,Q3 2018,5368.48,770,0.67034985
+SaleID_325,Japan,Web,Sports Store,Outdoor Protection,Sunscreen,Sun Blocker,2018,Q3 2018,9233.6,1866,0.61204082
+SaleID_326,Singapore,Fax,Outdoors Shop,Sports Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q3 2018,56070.46,461,
+SaleID_327,Singapore,Fax,Outdoors Shop,Personal Accessories,Tents,Star Lite,2018,Q3 2018,174060,502,0.29144401
+SaleID_328,Singapore,Fax,Outdoors Shop,Mountaineering Equipment,Sleeping Bags,Hibernator,2018,Q3 2018,63451.18,461,0.3869019
+SaleID_329,Singapore,Fax,Outdoors Shop,Personal Accessories,Sleeping Bags,Hibernator Extreme,2018,Q3 2018,71878.24,290,0.40814629
+SaleID_330,Singapore,Fax,Outdoors Shop,Camping Equipment,Packs,Canyon Mule Journey Backpack,2018,Q3 2018,89216.59,269,0.37084729
+SaleID_331,Singapore,Fax,Outdoors Shop,Mountaineering Equipment,First Aid,Compact Relief Kit,2018,Q3 2018,6659.14,293,0.61070985
+SaleID_332,Singapore,Fax,Outdoors Shop,Personal Accessories,First Aid,Aloe Relief,2018,Q3 2018,821.74,140,0.64288719
+SaleID_333,Singapore,Fax,Outdoors Shop,Mountaineering Equipment,First Aid,Insect Bite Relief,2018,Q3 2018,1036,158,0.55
+SaleID_334,Singapore,Phone,Department Store,Personal Accessories,Tents,Star Gazer 6,2018,Q3 2018,32942.74,44,0.3833775
+SaleID_335,Singapore,Phone,Department Store,Outdoor Protection,Tents,Star Peg,2018,Q3 2018,,1903,0.49453608
+SaleID_336,Singapore,Phone,Department Store,Camping Equipment,Sleeping Bags,Hibernator Lite,2018,Q3 2018,55226.68,653,0.30145017
+SaleID_337,Singapore,Phone,Department Store,Sports Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2018,Q3 2018,24624.15,207,0.5540107
+SaleID_338,Singapore,Phone,Department Store,Personal Accessories,Sleeping Bags,Hibernator Pillow,2018,Q3 2018,6314.56,365,0.53453271
+SaleID_339,Singapore,Phone,Department Store,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2018,Q3 2018,39776.84,406,0.34560737
+SaleID_340,Singapore,Web,Mall,Outdoor Protection,Watches,Mountain Man Analog,2018,Q3 2018,10242.92,215,0.3800039
+SaleID_341,Singapore,Web,Mall,Mountaineering Equipment,Watches,Mountain Man Digital,2018,Q3 2018,3810.98,93,0.51956351
+SaleID_342,Singapore,Web,Mall,Camping Equipment,Watches,Venue,2018,Q3 2018,8057,111,0.42068493
+SaleID_343,Singapore,Web,Mall,Personal Accessories,Watches,Infinity,2018,Q3 2018,18580,83,0.45931602
+SaleID_344,Singapore,Web,Mall,Camping Equipment,Watches,Lux,2018,Q3 2018,7456.8,46,0.48476077
+SaleID_345,Singapore,Web,Department Store,Personal Accessories,Tents,Star Dome,2018,Q3 2018,79027.36,131,0.36277197
+SaleID_346,Singapore,Web,Department Store,Personal Accessories,Tents,Star Gazer 2,2018,Q3 2018,135325.09,249,0.29293788
+SaleID_347,Singapore,Web,Department Store,Outdoor Protection,Tents,Star Gazer 3,2018,Q3 2018,154747.63,245,0.3406202
+SaleID_348,Singapore,Web,Department Store,Camping Equipment,Tents,Star Gazer 6,2018,Q3 2018,49580.34,64,0.39601877
+SaleID_349,Singapore,Web,Department Store,Personal Accessories,Tents,Star Peg,2018,Q3 2018,4794.2,2397,0.49979592
+SaleID_350,Singapore,Web,Department Store,Mountaineering Equipment,Eyewear,Cat Eye,2018,Q3 2018,50087.6,1628,0.33166717
+SaleID_351,Singapore,Web,Department Store,Personal Accessories,Eyewear,Dante,2018,Q3 2018,45953.2,1066,0.36178723
+SaleID_352,Singapore,Web,Department Store,Mountaineering Equipment,Eyewear,Fairway,2018,Q3 2018,11202.65,553,0.40583973
+SaleID_353,Singapore,Web,Department Store,Personal Accessories,Eyewear,Inferno,2018,Q3 2018,30692.25,475,0.40561392
+SaleID_354,Singapore,Web,Department Store,Camping Equipment,Eyewear,Maximus,2018,Q3 2018,58284,717,0.49935996
+SaleID_355,Korea,Sales visit,Department Store,Personal Accessories,Safety,Husky Harness Extreme,2018,Q3 2018,82923.4,803,0.48843327
+SaleID_356,Korea,Sales visit,Department Store,Mountaineering Equipment,Safety,Granite Signal Mirror,2018,Q3 2018,9446.26,291,0.52422387
+SaleID_357,Korea,Sales visit,Department Store,Mountaineering Equipment,Climbing Accessories,Granite Carabiner,2018,Q3 2018,14124.8,3732,0.4887234
+SaleID_358,Korea,Sales visit,Department Store,Camping Equipment,Climbing Accessories,Granite Belay,2018,Q3 2018,17142.2,261,0.48613982
+SaleID_359,Korea,Sales visit,Department Store,Mountaineering Equipment,Climbing Accessories,Granite Pulley,2018,Q3 2018,15065.16,408,0.51217037
+SaleID_360,Korea,Sales visit,Department Store,Personal Accessories,Climbing Accessories,Firefly Climbing Lamp,2018,Q3 2018,8439.85,217,0.43768755
+SaleID_361,Korea,Sales visit,Department Store,Camping Equipment,Climbing Accessories,Firefly Charger,2018,Q3 2018,14594.8,284,0.57498054
+SaleID_362,Korea,Sales visit,Department Store,Sports Equipment,Navigation,Glacier GPS Extreme,2018,Q3 2018,34240.02,103,0.4879303
+SaleID_363,Korea,Sales visit,Department Store,Personal Accessories,Insect Repellents,BugShield Natural,2018,Q3 2018,10168.48,1750,0.68708333
+SaleID_364,Korea,Sales visit,Department Store,Sports Equipment,Insect Repellents,BugShield Extreme,2018,Q3 2018,22695.72,3436,0.64221884
+SaleID_365,Korea,Sales visit,Department Store,Mountaineering Equipment,Sunscreen,Sun Shelter Stick,2018,Q3 2018,5721.15,1161,0.60587629
+SaleID_366,Korea,Sales visit,Department Store,Camping Equipment,Sunscreen,Sun Shelter 30,2018,Q3 2018,13128.4,2774,0.61638298
+SaleID_367,Korea,Sales visit,Department Store,Mountaineering Equipment,First Aid,Compact Relief Kit,2018,Q3 2018,3638.78,159,0.61070985
+SaleID_368,Korea,Other,Sports Store,Personal Accessories,Cooking Gear,TrailChef Cup,2018,Q3 2018,12132.28,3430,0.76783476
+SaleID_369,Korea,Other,Sports Store,Mountaineering Equipment,Cooking Gear,TrailChef Single Flame,2018,Q3 2018,45663.76,728,0.27099426
+SaleID_370,China,Fax,Mall,Sports Equipment,Irons,Hailstorm Steel Irons,2018,Q3 2018,144835.56,336,0.50000785
+SaleID_371,China,Fax,Mall,Personal Accessories,Irons,Lady Hailstorm Titanium Irons,2018,Q3 2018,87010.72,106,0.45955007
+SaleID_372,China,Fax,Mall,Mountaineering Equipment,Woods,Hailstorm Steel Woods Set,2018,Q3 2018,83188.48,129,0.48786745
+SaleID_373,China,Fax,Mall,Outdoor Protection,Woods,Lady Hailstorm Titanium Woods Set,2018,Q3 2018,90847.94,73,0.49311609
+SaleID_374,China,Fax,Mall,Mountaineering Equipment,Golf Accessories,Course Pro Golf and Tee Set,2018,Q3 2018,23613.63,2305,0.73575906
+SaleID_375,China,Phone,Mall,Camping Equipment,Irons,Hailstorm Titanium Irons,2018,Q3 2018,335262.88,386,0.44751289
+SaleID_376,China,Phone,Mall,Sports Equipment,Irons,Lady Hailstorm Steel Irons,2018,Q3 2018,42667.15,87,0.45535634
+SaleID_377,China,Phone,Mall,Mountaineering Equipment,Irons,Lady Hailstorm Titanium Irons,2018,Q3 2018,134644.48,163,0.45955007
+SaleID_378,China,Phone,Mall,Camping Equipment,Woods,Hailstorm Titanium Woods Set,2018,Q3 2018,431430.02,363,0.43250716
+SaleID_379,China,Phone,Mall,Personal Accessories,Woods,Hailstorm Steel Woods Set,2018,Q3 2018,170856.64,263,0.48786745
+SaleID_380,China,Phone,Mall,Camping Equipment,Woods,Lady Hailstorm Titanium Woods Set,2018,Q3 2018,89569.8,72,0.49311609
+SaleID_381,China,Phone,Mall,Personal Accessories,Woods,Lady Hailstorm Steel Woods Set,2018,Q3 2018,67737.43,81,0.45845066
+SaleID_382,China,Phone,Mall,Personal Accessories,Putters,Blue Steel Max Putter,2018,Q3 2018,48150.57,285,0.46933212
+SaleID_383,China,Phone,Mall,Personal Accessories,Golf Accessories,Course Pro Gloves,2018,Q3 2018,7726.26,736,0.7780462
+SaleID_384,China,Phone,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2018,Q3 2018,49718.93,943,0.34681016
+SaleID_385,China,Phone,Outdoors Shop,Mountaineering Equipment,Cooking Gear,TrailChef Double Flame,2018,Q3 2018,44895.24,316,0.4842745
+SaleID_386,China,Phone,Outdoors Shop,Camping Equipment,Rope,Husky Rope 200,2018,Q3 2018,100629.28,188,0.32477575
+SaleID_387,China,Phone,Outdoors Shop,Outdoor Protection,Safety,Granite Climbing Helmet,2018,Q3 2018,41766.44,601,0.25468085
+SaleID_388,China,Phone,Outdoors Shop,Camping Equipment,Safety,Husky Harness,2018,Q3 2018,21912.7,359,0.29363339
+SaleID_389,China,Phone,,Sports Equipment,Safety,Husky Harness Extreme,2018,Q3 2018,52317,507,0.48843327
+SaleID_390,China,Phone,,Camping Equipment,Eyewear,Polar Ice,2018,Q3 2018,3056.8,30,0.53945076
+SaleID_391,China,Phone,Outdoors Shop,Camping Equipment,Eyewear,,2018,Q3 2018,3379.85,37,0.57119945
+SaleID_392,China,Web,Mall,Personal Accessories,Watches,Venue,2018,Q3 2018,17036,234,0.42117501
+SaleID_393,China,Web,Mall,Mountaineering Equipment,Watches,Infinity,2018,Q3 2018,48184,212,0.46102778
+SaleID_394,China,Web,Mall,Outdoor Protection,Watches,Lux,2018,Q3 2018,5339.2,32,0.48274393
+SaleID_395,China,Web,Mall,Camping Equipment,Watches,Sam,2018,Q3 2018,14468,322,0.39173719
+SaleID_396,China,Web,Mall,Personal Accessories,Watches,TX,2018,Q3 2018,30932,166,0.45766736
+SaleID_397,China,Web,Mall,Camping Equipment,Watches,Legend,2018,Q3 2018,32508.6,123,0.44919021
+SaleID_398,China,Web,Mall,Camping Equipment,Watches,Kodiak,2018,Q3 2018,5170,41,0.49010651
+SaleID_399,Australia,Phone,Outdoors Shop,Outdoor Protection,Rope,Husky Rope 60,2018,Q3 2018,7065.4,41,0.30165733
+SaleID_400,Australia,Phone,Outdoors Shop,Camping Equipment,Rope,Husky Rope 100,2018,Q3 2018,21280.9,67,0.31126435
+SaleID_401,Australia,Phone,Outdoors Shop,Personal Accessories,Rope,Husky Rope 200,2018,Q3 2018,18476.32,36,0.32477575
+SaleID_402,Australia,Phone,Outdoors Shop,Outdoor Protection,Safety,Granite Climbing Helmet,2018,Q3 2018,15542.32,224,0.25468085
+SaleID_403,Australia,Phone,Outdoors Shop,Personal Accessories,Safety,Husky Harness,2018,Q3 2018,8165.2,134,0.29363339
+SaleID_404,Australia,Phone,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness Extreme,2018,Q3 2018,39702.2,385,0.48843327
+SaleID_405,Australia,Phone,Outdoors Shop,Sports Equipment,Safety,Granite Signal Mirror,2018,Q3 2018,4687,141,0.53393939
+SaleID_406,Australia,Phone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Carabiner,2018,Q3 2018,9673.76,2475,0.50371198
+SaleID_407,Australia,Phone,Outdoors Shop,Camping Equipment,Climbing Accessories,Granite Belay,2018,Q3 2018,16484.2,251,0.48613982
+SaleID_408,Australia,Phone,Outdoors Shop,Outdoor Protection,Climbing Accessories,Granite Pulley,2018,Q3 2018,13811.92,374,0.51217037
+SaleID_409,Australia,Web,Department Store,Outdoor Protection,Tents,Star Peg,2018,Q3 2018,4072.96,1979,0.51238613
+SaleID_410,Australia,Web,Department Store,Mountaineering Equipment,Sleeping Bags,Hibernator Lite,2018,Q3 2018,52008.84,615,0.30145017
+SaleID_411,Australia,Web,Department Store,Mountaineering Equipment,Sleeping Bags,,,Q3 2018,42334.12,308,0.3869019
+SaleID_412,Australia,Web,Department Store,Personal Accessories,Sleeping Bags,Hibernator Pad,2018,Q3 2018,25319.26,1036,0.39499385
+SaleID_413,Australia,Web,Department Store,Mountaineering Equipment,Sleeping Bags,Hibernator Pillow,2018,Q3 2018,6241.5,357,0.53947977
+SaleID_414,Australia,Web,Department Store,Personal Accessories,Sleeping Bags,Hibernator Camp Cot,2018,Q3 2018,46455.12,474,0.34560737
+SaleID_415,Australia,Web,Department Store,Outdoor Protection,Packs,Canyon Mule Climber Backpack,2018,Q3 2018,17945.75,249,0.2833564
+SaleID_416,Australia,Web,Department Store,Outdoor Protection,Packs,Canyon Mule Journey Backpack,2018,Q3 2018,94683.7,280,0.38298139
+SaleID_417,Australia,Web,Department Store,Personal Accessories,Packs,Canyon Mule Cooler,2018,Q3 2018,12346.24,374,0.52397327
+SaleID_418,Australia,Web,Department Store,Personal Accessories,Packs,Canyon Mule Carryall,2018,Q3 2018,33815.92,490,0.41396584
+SaleID_419,Australia,Web,Department Store,Camping Equipment,Lanterns,Firefly Lite,2018,Q3 2018,3630.68,246,0.54351762
+SaleID_420,Australia,Web,Department Store,Personal Accessories,Lanterns,Firefly Mapreader,2018,Q3 2018,9899.44,616,0.54007519
+SaleID_421,Australia,Sales visit,Discount Retailer,Personal Accessories,Eyewear,Polar Sun,2018,Q3 2018,26282.62,432,0.58053572
+SaleID_422,Australia,Sales visit,Discount Retailer,Camping Equipment,Eyewear,Polar Ice,2018,Q3 2018,10233.2,96,0.5490538
+SaleID_423,Australia,Sales visit,Discount Retailer,Camping Equipment,Eyewear,Polar Sports,2018,Q3 2018,8559.18,75,0.50188456
+SaleID_424,Australia,Sales visit,Discount Retailer,Personal Accessories,Eyewear,Polar Wave,2018,Q3 2018,2490.5,27,0.57996444
+SaleID_425,Netherlands,Fax,Outdoors Shop,Mountaineering Equipment,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,14767.18,2345,0.54194888
+SaleID_426,Netherlands,Fax,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Canteen,2018,Q3 2018,8119,662,0.46514403
+SaleID_427,Netherlands,Fax,Outdoors Shop,Sports Equipment,Cooking Gear,TrailChef Kettle,2018,Q3 2018,18906.58,1484,0.60732072
+SaleID_428,Netherlands,Fax,Outdoors Shop,Sports Equipment,Tents,Star Lite,2018,Q3 2018,142051.36,410,0.29144401
+SaleID_429,Netherlands,Fax,Outdoors Shop,Personal Accessories,Tents,Star Gazer 3,2018,Q3 2018,77105.61,123,0.3406202
+SaleID_430,Netherlands,Phone,Outdoors Shop,Mountaineering Equipment,Lanterns,EverGlow Double,2018,Q3 2018,621.5,12,0.45870566
+SaleID_431,Netherlands,Phone,Outdoors Shop,Outdoor Protection,Lanterns,EverGlow Kerosene,2018,Q3 2018,7644.48,246,0.36316947
+SaleID_432,Netherlands,Phone,Sports Store,Camping Equipment,Knives,Edge Extreme,2018,Q3 2018,24514.67,219,0.29895209
+SaleID_433,Netherlands,Phone,Sports Store,Camping Equipment,Knives,Bear Survival Edge,2018,Q3 2018,12765.5,148,0.49126801
+SaleID_434,Netherlands,Phone,Sports Store,Personal Accessories,Binoculars,Seeker Extreme,2018,Q3 2018,11604.57,69,0.46186652
+SaleID_435,Netherlands,Phone,Sports Store,Camping Equipment,Navigation,Glacier Deluxe,2018,Q3 2018,11703.2,130,0.38970215
+SaleID_436,Netherlands,Web,Mall,Sports Equipment,Watches,Kodiak,2018,Q3 2018,36928.9,290,0.48057338
+SaleID_437,Netherlands,Web,Mall,Camping Equipment,Eyewear,Cat Eye,2018,Q3 2018,34479,1211,0.32577446
+SaleID_438,Netherlands,Web,Outdoors Shop,Camping Equipment,Watches,Lux,2018,Q3 2018,12461.2,72,0.48155616
+SaleID_439,Netherlands,Web,Outdoors Shop,Sports Equipment,Watches,Sam,2018,Q3 2018,37816,842,0.39225156
+SaleID_440,Netherlands,Web,Outdoors Shop,Mountaineering Equipment,Watches,TX,2018,Q3 2018,83900,445,0.45356253
+SaleID_441,Netherlands,Web,Discount Retailer,Personal Accessories,Binoculars,Seeker Mini,2018,Q3 2018,5890.96,74,0.51267313
+SaleID_442,Netherlands,Web,Discount Retailer,Camping Equipment,Binoculars,Opera Vision,2018,Q3 2018,2300,22,0.55063636
+SaleID_443,Netherlands,Web,Discount Retailer,Camping Equipment,Binoculars,Ranger Vision,2018,Q3 2018,63300,397,0.4624481
+SaleID_444,Netherlands,Web,Discount Retailer,Sports Equipment,Navigation,Astro Pilot,2018,Q3 2018,27360,190,0.38764307
+SaleID_445,Netherlands,Web,Discount Retailer,Sports Equipment,Navigation,Sky Pilot,2018,Q3 2018,18358,53,0.34482638
+SaleID_446,Netherlands,Web,Sports Store,Mountaineering Equipment,Cooking Gear,TrailChef Cup,2018,Q3 2018,4388.4,1210,0.77056338
+SaleID_447,Netherlands,Web,Sports Store,Outdoor Protection,Cooking Gear,TrailChef Single Flame,2018,Q3 2018,35873.2,572,0.27099426
+SaleID_448,Sweden,E-mail,Outdoors Shop,Personal Accessories,Tents,Star Peg,2018,Q3 2018,3103.66,1519,0.50494949
+SaleID_449,Sweden,E-mail,Outdoors Shop,Personal Accessories,Sleeping Bags,Hibernator,2018,Q3 2018,31668.45,217,0.42428863
+SaleID_450,Sweden,E-mail,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2018,Q3 2018,45459.86,184,0.40814629
+SaleID_451,Sweden,E-mail,Outdoors Shop,Mountaineering Equipment,Insect Repellents,BugShield Extreme,2018,Q3 2018,27177.26,4053,0.64794638
+SaleID_452,Sweden,E-mail,Outdoors Shop,Personal Accessories,Sunscreen,Sun Shelter 15,2018,Q3 2018,4470.8,894,0.64469388
+SaleID_453,Sweden,E-mail,Outdoors Shop,Personal Accessories,First Aid,Compact Relief Kit,2018,Q3 2018,2262,96,0.61869565
+SaleID_454,Sweden,Web,Mall,Camping Equipment,Watches,Infinity,2018,Q3 2018,18379,81,0.47148367
+SaleID_455,Sweden,Web,Mall,Camping Equipment,Watches,TX,2018,Q3 2018,5700,30,0.4792
+SaleID_456,Sweden,Web,Mall,Outdoor Protection,Binoculars,Ranger Vision,2018,Q3 2018,3460,23,0.37
+SaleID_457,Sweden,Web,Department Store,Camping Equipment,Tents,Star Gazer 2,2018,Q3 2018,103571.83,191,0.29293788
+SaleID_458,Sweden,Web,Department Store,Mountaineering Equipment,Sleeping Bags,Hibernator,2018,Q3 2018,38745.6,282,0.3869019
+SaleID_459,Sweden,Web,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2018,Q3 2018,15733.99,643,0.39499385
+SaleID_460,Sweden,Web,Department Store,Personal Accessories,Navigation,Trail Scout,2018,Q3 2018,12952,56,0.35751478
+SaleID_461,Sweden,Web,Department Store,Personal Accessories,Navigation,Astro Pilot,2018,Q3 2018,26490,184,0.38863054
+SaleID_462,Sweden,Web,Department Store,Camping Equipment,Navigation,Sky Pilot,2018,Q3 2018,25518,73,0.34537808
+SaleID_463,Sweden,Web,Department Store,Personal Accessories,Irons,Hailstorm Steel Irons,2018,Q3 2018,27833.76,66,0.50000785
+SaleID_464,Sweden,Web,Department Store,Personal Accessories,Irons,Hailstorm Titanium Irons,2018,Q3 2018,57706.12,68,0.44751289
+SaleID_465,Sweden,Web,Warehouse Store,Personal Accessories,Sleeping Bags,Hibernator Extreme,2018,Q3 2018,43964.48,178,0.40814629
+SaleID_466,Sweden,Web,Outdoors Shop,Camping Equipment,Tools,Granite Grip,2018,Q3 2018,6156.4,311,0.50540816
+SaleID_467,Sweden,Web,Outdoors Shop,Personal Accessories,Tools,Granite Axe,2018,Q3 2018,18646.4,480,
+SaleID_468,Sweden,Web,Outdoors Shop,Camping Equipment,Tools,Granite Extreme,2018,Q3 2018,24464.8,326,
+SaleID_469,Sweden,Web,Outdoors Shop,Outdoor Protection,Watches,Mountain Man Extreme,2018,Q3 2018,3561.88,14,0.60724774
+SaleID_470,Sweden,Web,Outdoors Shop,Outdoor Protection,Watches,Venue,2018,Q3 2018,58500,802,0.42247089
+SaleID_471,Sweden,Web,Outdoors Shop,Mountaineering Equipment,Navigation,Astro Pilot,2018,Q3 2018,6190,44,0.388
+SaleID_472,Sweden,Web,Outdoors Shop,Camping Equipment,Navigation,Sky Pilot,2018,Q3 2018,15852,46,0.34379888
+SaleID_473,Sweden,Web,Discount Retailer,Personal Accessories,Navigation,Trail Scout,2018,Q3 2018,14142,61,0.35752101
+SaleID_474,Sweden,Web,Discount Retailer,Outdoor Protection,Navigation,Astro Pilot,2018,Q3 2018,12425,87,0.388
+SaleID_475,Sweden,Web,Discount Retailer,Outdoor Protection,Navigation,Sky Pilot,2018,Q3 2018,11914,35,0.34567039
+SaleID_476,Sweden,Web,Sports Store,Personal Accessories,Cooking Gear,TrailChef Canteen,2018,Q3 2018,7803.1,636,0.46514403
+SaleID_477,Sweden,Web,Sports Store,Outdoor Protection,Cooking Gear,TrailChef Kitchen Kit,2018,Q3 2018,12476.24,538,0.32009095
+SaleID_478,Sweden,Web,Sports Store,Sports Equipment,Cooking Gear,TrailChef Cup,2018,Q3 2018,6805.17,1881,0.77180321
+SaleID_479,Sweden,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q3 2018,36072.3,297,0.35754797
+SaleID_480,Sweden,Web,Sports Store,Personal Accessories,Cooking Gear,TrailChef Single Flame,2018,Q3 2018,23509.48,375,0.27099426
+SaleID_481,Sweden,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Double Flame,2018,Q3 2018,22212.3,157,0.4842745
+SaleID_482,Denmark,Web,Mall,Camping Equipment,Watches,Venue,2018,Q3 2018,17912,246,0.42135302
+SaleID_483,Denmark,Web,Mall,Camping Equipment,Watches,Infinity,2018,Q3 2018,30022,134,0.47080743
+SaleID_484,Denmark,Web,Department Store,Personal Accessories,Golf Accessories,Course Pro Golf and Tee Set,2018,Q3 2018,6240.4,597,0.73868217
+SaleID_485,Denmark,Web,Department Store,Camping Equipment,Golf Accessories,Course Pro Umbrella,2018,Q3 2018,7353.32,598,0.51698439
+SaleID_486,Denmark,Web,Department Store,Camping Equipment,Golf Accessories,Course Pro Golf Bag,2018,Q3 2018,12468.4,62,0.62336955
+SaleID_487,Denmark,Web,Department Store,Personal Accessories,Golf Accessories,Course Pro Gloves,2018,Q3 2018,5466.16,524,0.7755642
+SaleID_488,Denmark,Web,Online Retailer,Sports Equipment,Cooking Gear,TrailChef Cook Set,2018,Q3 2018,27519.6,522,0.34681016
+SaleID_489,Denmark,Web,Online Retailer,Camping Equipment,Cooking Gear,TrailChef Single Flame,2018,Q3 2018,27902.68,445,0.27099426
+SaleID_490,Denmark,Web,Online Retailer,Camping Equipment,Lanterns,EverGlow Butane,2018,Q3 2018,4001.2,62,0.38511535
+SaleID_491,Denmark,Web,Online Retailer,Camping Equipment,Insect Repellents,BugShield Natural,2018,Q3 2018,,924,0.69367347
+SaleID_492,Denmark,Web,Online Retailer,Personal Accessories,Sunscreen,Sun Shelter Stick,2018,Q3 2018,3775,752,0.61
+SaleID_493,Denmark,Web,Outdoors Shop,Sports Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,2018,Q3 2018,11105.96,94,0.5540107
+SaleID_494,Denmark,Web,Outdoors Shop,Sports Equipment,Rope,Husky Rope 50,2018,Q3 2018,11680.8,79,0.33905585
+SaleID_495,Denmark,Web,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 60,2018,Q3 2018,8137,47,0.30165733
+SaleID_496,Denmark,Web,Outdoors Shop,Camping Equipment,Climbing Accessories,Granite Carabiner,2018,Q3 2018,7722.4,1987,0.49958333
+SaleID_497,Denmark,Web,Outdoors Shop,Sports Equipment,Climbing Accessories,Granite Belay,2018,Q3 2018,12207.2,186,0.48613982
+SaleID_498,Denmark,Web,Outdoors Shop,Camping Equipment,Climbing Accessories,Granite Pulley,2018,Q3 2018,11305.44,306,0.51217037
+SaleID_499,Denmark,Web,Outdoors Shop,Camping Equipment,Climbing Accessories,Firefly Climbing Lamp,2018,Q3 2018,5608.18,144,0.43768755
+SaleID_500,Denmark,Web,Discount Retailer,Personal Accessories,Binoculars,Opera Vision,2018,Q3 2018,14400,132,0.55190909
+SaleID_501,Denmark,Web,Discount Retailer,Personal Accessories,Binoculars,Ranger Vision,2018,Q3 2018,43620,274,0.44093015
+SaleID_502,Denmark,Web,Discount Retailer,Sports Equipment,Navigation,Trail Scout,2018,Q3 2018,9620,42,0.35747899
+SaleID_503,Denmark,Web,Discount Retailer,Personal Accessories,Navigation,Astro Pilot,2018,Q3 2018,19240,134,0.38759352
+SaleID_504,Denmark,Web,Discount Retailer,Personal Accessories,Navigation,Sky Pilot,2018,Q3 2018,31604,90,0.34491684
+SaleID_505,Denmark,Web,Sports Store,Personal Accessories,Watches,Venue,2018,Q3 2018,7181,99,0.4239726
+SaleID_506,Denmark,Web,Sports Store,Personal Accessories,Watches,Infinity,2018,Q3 2018,17582,76,0.46446402
+SaleID_507,Denmark,Web,Sports Store,Camping Equipment,Watches,Lux,2018,Q3 2018,16449.2,96,0.48292956
+SaleID_508,Denmark,Web,Sports Store,Mountaineering Equipment,Watches,TX,2018,Q3 2018,7856,43,0.4610263
+SaleID_509,Denmark,Web,Sports Store,Outdoor Protection,Watches,Legend,2018,Q3 2018,14690.8,56,0.45594402
+SaleID_510,Denmark,Sales visit,Direct Marketing,Personal Accessories,Insect Repellents,BugShield Lotion Lite,2018,Q3 2018,2242,308,0.74142857
+SaleID_511,Denmark,Sales visit,Direct Marketing,Camping Equipment,First Aid,Calamine Relief,2018,Q3 2018,472,64,0.53833333
+SaleID_512,Denmark,Sales visit,Direct Marketing,Camping Equipment,First Aid,Aloe Relief,2018,Q3 2018,952.49,165,0.64288719
+SaleID_513,Denmark,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2018,Q3 2018,27994.17,531,0.34681016
+SaleID_514,Denmark,Sales visit,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Double Flame,2018,Q3 2018,22354.96,158,0.4842745
+SaleID_515,Finland,Web,Mall,Camping Equipment,Watches,Venue,2018,Q3 2018,7765,107,0.42289498
+SaleID_516,Finland,Web,Mall,Personal Accessories,Watches,Infinity,2018,Q3 2018,7633,34,0.46774061
+SaleID_517,Finland,Web,Mall,Personal Accessories,Watches,TX,2018,Q3 2018,15472,80,0.47673432
+SaleID_518,Finland,Web,Mall,Personal Accessories,Watches,Legend,2018,Q3 2018,3480,15,0.42615385
+SaleID_519,Finland,Web,Mall,Personal Accessories,Watches,Kodiak,2018,Q3 2018,5393.2,46,0.44491272
+SaleID_520,Finland,Web,Mall,Outdoor Protection,Eyewear,Cat Eye,2018,Q3 2018,12535.2,466,0.30980803
+SaleID_521,Finland,Web,Department Store,Camping Equipment,Sunscreen,Sun Shield,2018,Q3 2018,7735.84,1314,0.5247732
+SaleID_522,Finland,Web,Department Store,Camping Equipment,First Aid,Compact Relief Kit,2018,Q3 2018,,127,0.59970985
+SaleID_523,Finland,Web,Department Store,Mountaineering Equipment,First Aid,Deluxe Family Relief Kit,2018,Q3 2018,9130.7,268,0.58545066
+SaleID_524,Finland,Web,Department Store,Sports Equipment,First Aid,Calamine Relief,2018,Q3 2018,652,94,0.52733333
+SaleID_525,Finland,Web,Department Store,Camping Equipment,First Aid,Insect Bite Relief,2018,Q3 2018,1672,264,0.539
+SaleID_526,Finland,Web,Direct Marketing,Outdoor Protection,Cooking Gear,TrailChef Canteen,2018,Q3 2018,9248.95,755,0.45414403
+SaleID_527,Finland,Web,Direct Marketing,Personal Accessories,Cooking Gear,TrailChef Kitchen Kit,2018,Q3 2018,13399.84,578,0.30909095
+SaleID_528,Finland,Web,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q3 2018,44851.98,369,
+SaleID_529,Finland,Web,Direct Marketing,Personal Accessories,Cooking Gear,TrailChef Kettle,2018,Q3 2018,19153.52,1519,0.59215287
+SaleID_530,Finland,Web,Direct Marketing,Camping Equipment,Tents,Star Dome,2018,Q3 2018,79639.2,132,0.35177197
+SaleID_531,Finland,Web,Direct Marketing,Outdoor Protection,Packs,Canyon Mule Weekender Backpack,2018,Q3 2018,62716.42,235,0.37884669
+SaleID_532,Finland,Web,Warehouse Store,Sports Equipment,Lanterns,EverGlow Butane,2018,Q3 2018,6467,102,0.36086587
+SaleID_533,Finland,Web,Warehouse Store,Personal Accessories,Knives,Double Edge,2018,Q3 2018,8108.21,493,0.29820294
+SaleID_534,Finland,Web,Warehouse Store,Personal Accessories,Binoculars,Seeker 50,2018,Q3 2018,14470.84,116,0.26458782
+SaleID_535,Finland,Web,Warehouse Store,Mountaineering Equipment,Binoculars,Seeker Mini,2018,Q3 2018,7660.42,96,0.50167313
+SaleID_536,Finland,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,19778.01,3181,0.5256559
+SaleID_537,Finland,Web,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q3 2018,,739,0.34654797
+SaleID_538,Finland,Web,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2018,Q3 2018,22620.08,1795,0.59215287
+SaleID_539,Finland,Web,Outdoors Shop,Mountaineering Equipment,Cooking Gear,TrailChef Utensils,2018,Q3 2018,17818.37,949,0.46452646
+SaleID_540,Finland,Web,Outdoors Shop,Outdoor Protection,Tents,Star Gazer 3,2018,Q3 2018,81560.48,130,0.3296202
+SaleID_541,Finland,Web,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2018,Q3 2018,39647.69,52,0.37949479
+SaleID_542,Finland,Web,Outdoors Shop,Mountaineering Equipment,Sleeping Bags,Hibernator,2018,Q3 2018,50477.3,367,0.3759019
+SaleID_543,Finland,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2018,Q3 2018,120976.55,487,0.39714629
+SaleID_544,Finland,Web,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2018,Q3 2018,0,11,
+SaleID_545,Finland,Web,Discount Retailer,Camping Equipment,Eyewear,Zone,2018,Q3 2018,52370.3,1713,0.31714472
+SaleID_546,Finland,Web,Discount Retailer,Personal Accessories,Eyewear,Hawk Eye,2018,Q3 2018,14680,362,0.39148148
+SaleID_547,Finland,Web,Discount Retailer,Outdoor Protection,Eyewear,Retro,2018,Q3 2018,9246.9,148,0.43922346
+SaleID_548,Finland,Web,Discount Retailer,Mountaineering Equipment,Knives,Max Gizmo,2018,Q3 2018,2621.2,68,0.53826702
+SaleID_549,Finland,Web,Discount Retailer,Camping Equipment,Knives,Pocket Gizmo,2018,Q3 2018,11738.8,956,0.60071581
+SaleID_550,Finland,Web,Discount Retailer,Camping Equipment,Binoculars,Seeker Mini,2018,Q3 2018,5810.53,73,0.50167313
+SaleID_551,Finland,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,15612.28,2480,0.53094888
+SaleID_552,Finland,Web,Sports Store,Mountaineering Equipment,Cooking Gear,TrailChef Canteen,2018,Q3 2018,18057.7,1480,0.45414403
+SaleID_553,Finland,Web,Sports Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2018,Q3 2018,13907.82,600,0.30909095
+SaleID_554,Finland,Sales visit,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,15989.73,2569,
+SaleID_555,Finland,Sales visit,Outdoors Shop,Outdoor Protection,Lanterns,Firefly Extreme,2018,Q3 2018,6759.8,136,0.43320523
+SaleID_556,Finland,Sales visit,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 50,2018,Q3 2018,22359.2,150,0.32805585
+SaleID_557,Finland,Sales visit,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 60,2018,Q3 2018,13316.4,76,0.29065733
+SaleID_558,Finland,Sales visit,Outdoors Shop,Camping Equipment,Rope,Husky Rope 100,2018,Q3 2018,41810.08,130,0.30026435
+SaleID_559,Finland,Sales visit,Outdoors Shop,Personal Accessories,Rope,Husky Rope 200,2018,Q3 2018,29826.4,57,0.31377575
+SaleID_560,Finland,Sales visit,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Charger,2018,Q3 2018,16856.4,328,0.56398054
+SaleID_561,Finland,Sales visit,Outdoors Shop,Camping Equipment,Climbing Accessories,Firefly Rechargeable Battery,2018,Q3 2018,11367.52,1454,0.59307216
+SaleID_562,Finland,Sales visit,Outdoors Shop,Personal Accessories,Climbing Accessories,Granite Chalk Bag,2018,Q3 2018,3857.32,215,0.51543991
+SaleID_563,Finland,Sales visit,Outdoors Shop,Personal Accessories,Tools,Granite Ice,2018,Q3 2018,20855.2,278,0.48078191
+SaleID_564,Finland,Sales visit,Outdoors Shop,Camping Equipment,Knives,Double Edge,2018,Q3 2018,7814.63,475,0.29820294
+SaleID_565,Finland,Sales visit,Outdoors Shop,Mountaineering Equipment,Knives,Bear Edge,2018,Q3 2018,8510.2,216,0.40027226
+SaleID_566,Finland,Sales visit,Outdoors Shop,Camping Equipment,Insect Repellents,BugShield Extreme,2018,Q3 2018,17714.66,2679,0.63121884
+SaleID_567,Finland,Sales visit,Outdoors Shop,Personal Accessories,Sunscreen,Sun Shelter 15,2018,Q3 2018,6826.95,1389,0.62992784
+SaleID_568,Finland,Sales visit,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,2018,Q3 2018,8090.86,1375,0.5247732
+SaleID_569,France,Fax,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2018,Q3 2018,23116.96,434,0.34265616
+SaleID_570,France,Fax,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Double Flame,2018,Q3 2018,20643.04,146,0.4732745
+SaleID_571,France,Fax,Sports Store,Camping Equipment,Knives,Double Edge,2018,Q3 2018,7912.49,481,0.29820294
+SaleID_572,France,Fax,Sports Store,Personal Accessories,Knives,Bear Survival Edge,2018,Q3 2018,1576.64,18,0.51140654
+SaleID_573,France,Phone,Department Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,12498.57,2005,0.5256559
+SaleID_574,France,Phone,Department Store,Mountaineering Equipment,Cooking Gear,TrailChef Kitchen Kit,2018,Q3 2018,12484.7,544,0.30184464
+SaleID_575,France,Phone,Department Store,Mountaineering Equipment,Cooking Gear,TrailChef Cook Set,2018,Q3 2018,24572.42,471,0.32881985
+SaleID_576,France,Phone,Department Store,Camping Equipment,Sunscreen,Sun Shelter 30,2018,Q3 2018,12291.8,2596,0.60538298
+SaleID_577,France,Phone,Department Store,Personal Accessories,Sunscreen,Sun Shield,2018,Q3 2018,13500.64,2378,0.5096383
+SaleID_578,France,Phone,Department Store,Camping Equipment,First Aid,Deluxe Family Relief Kit,2018,Q3 2018,7297.4,214,0.58545066
+SaleID_579,France,Phone,Department Store,,First Aid,Calamine Relief,2018,Q3 2018,532,74,0.52733333
+SaleID_580,France,Phone,Department Store,Camping Equipment,,Insect Bite Relief,2018,Q3 2018,826,123,0.539
+SaleID_581,France,Phone,Department Store,Personal Accessories,Irons,Hailstorm Steel Irons,2018,Q3 2018,64667.66,151,0.48900785
+SaleID_582,France,Phone,Department Store,Outdoor Protection,Irons,Hailstorm Titanium Irons,2018,Q3 2018,47232.28,56,0.43651289
+SaleID_583,France,Phone,Department Store,Personal Accessories,Irons,Lady Hailstorm Steel Irons,2018,Q3 2018,42166.36,86,0.44435634
+SaleID_584,France,Phone,Department Store,Sports Equipment,Irons,Lady Hailstorm Titanium Irons,2018,Q3 2018,70297.12,86,0.44855007
+SaleID_585,France,Phone,Department Store,Sports Equipment,Woods,Hailstorm Titanium Woods Set,2018,Q3 2018,58597.18,51,0.42150716
+SaleID_586,France,Phone,Department Store,Sports Equipment,Woods,Hailstorm Steel Woods Set,2018,Q3 2018,113888.76,176,0.47686745
+SaleID_587,France,Phone,Outdoors Shop,Camping Equipment,Knives,Double Edge,2018,Q3 2018,6167.25,377,0.29820294
+SaleID_588,France,Phone,Outdoors Shop,Personal Accessories,Knives,Edge Extreme,2018,Q3 2018,39879.54,356,0.28795209
+SaleID_589,France,Web,Mall,Camping Equipment,Watches,Venue,2018,Q3 2018,43705,600,0.41129945
+SaleID_590,France,Web,Mall,Personal Accessories,Watches,Infinity,2018,Q3 2018,43221,189,0.45556382
+SaleID_591,France,Web,Mall,Personal Accessories,Watches,Lux,2018,Q3 2018,21986.6,126,0.47240943
+SaleID_592,France,Web,Mall,Camping Equipment,Watches,Sam,2018,Q3 2018,5977.8,134,0.38073719
+SaleID_593,France,Web,Mall,Camping Equipment,Watches,TX,2018,Q3 2018,91879,491,0.45069295
+SaleID_594,France,Web,Mall,Mountaineering Equipment,Watches,Legend,2018,Q3 2018,25370,99,0.44465188
+SaleID_595,France,Web,Mall,Camping Equipment,Watches,Zodiak,2018,Q3 2018,7087.8,68,0.42123738
+SaleID_596,France,Web,Mall,Sports Equipment,Watches,Kodiak,2018,Q3 2018,10321,81,0.47915774
+SaleID_597,France,Web,Mall,Camping Equipment,Eyewear,Bella,2018,Q3 2018,5518.5,83,0.44507407
+SaleID_598,France,Web,Direct Marketing,Camping Equipment,First Aid,Calamine Relief,2018,Q3 2018,891,142,0.52733333
+SaleID_599,France,Web,Direct Marketing,Camping Equipment,First Aid,Aloe Relief,2018,Q3 2018,1735.06,324,0.63188719
+SaleID_600,France,Web,Warehouse Store,Personal Accessories,Cooking Gear,TrailChef Cup,2018,Q3 2018,5410.87,1495,0.7622312
+SaleID_601,France,Web,Warehouse Store,Mountaineering Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q3 2018,0,242,
+SaleID_602,France,Web,Discount Retailer,Camping Equipment,Eyewear,Polar Sports,2018,Q3 2018,10431.6,92,0.48850928
+SaleID_603,France,Web,Discount Retailer,Personal Accessories,Eyewear,Polar Wave,2018,Q3 2018,2919.6,32,0.56896444
+SaleID_604,France,Web,Discount Retailer,Sports Equipment,Eyewear,Polar Extreme,2018,Q3 2018,3461.9,25,0.5101261
+SaleID_605,France,Web,Discount Retailer,Personal Accessories,Eyewear,Bella,2018,Q3 2018,8961,134,0.4467037
+SaleID_606,France,Web,Discount Retailer,Personal Accessories,Eyewear,Capri,2018,Q3 2018,9970.7,261,0.33215927
+SaleID_607,France,Web,Discount Retailer,Personal Accessories,Eyewear,Cat Eye,2018,Q3 2018,39440.4,1230,0.32410853
+SaleID_608,France,Web,Discount Retailer,Personal Accessories,Eyewear,Dante,2018,Q3 2018,21296.6,498,0.35283185
+SaleID_609,France,Web,Discount Retailer,Personal Accessories,Eyewear,Fairway,2018,Q3 2018,15647.1,776,0.39384487
+SaleID_610,France,Web,Discount Retailer,Outdoor Protection,Eyewear,Inferno,2018,Q3 2018,49916.85,776,0.40144576
+SaleID_611,France,Web,Discount Retailer,Personal Accessories,Eyewear,Maximus,2018,Q3 2018,21816,272,0.49210315
+SaleID_612,France,Web,Sports Store,Personal Accessories,Navigation,Glacier Deluxe,2018,Q3 2018,5328.06,59,0.3916334
+SaleID_613,France,Web,Sports Store,Sports Equipment,Navigation,Glacier GPS,2018,Q3 2018,41199.75,377,0.28315201
+SaleID_614,France,Web,Sports Store,Outdoor Protection,Navigation,Trail Scout,2018,Q3 2018,24327,104,0.34651607
+SaleID_615,France,Sales visit,Department Store,Personal Accessories,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,10742.37,1691,0.5361248
+SaleID_616,France,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2018,Q3 2018,9122.48,391,0.31589537
+SaleID_617,France,Sales visit,Department Store,Personal Accessories,Insect Repellents,BugShield Lotion,2018,Q3 2018,7113.44,1022,0.66248741
+SaleID_618,France,Sales visit,Department Store,Mountaineering Equipment,Sunscreen,Sun Blocker,2018,Q3 2018,2863.6,576,0.60104082
+SaleID_619,France,Sales visit,Department Store,Sports Equipment,Sunscreen,Sun Shelter 15,2018,Q3 2018,5580,1142,0.62992784
+SaleID_620,France,Sales visit,Department Store,Personal Accessories,Sunscreen,Sun Shelter 30,2018,Q3 2018,10021.25,2101,0.60952632
+SaleID_621,France,Sales visit,Outdoors Shop,Personal Accessories,Climbing Accessories,Firefly Rechargeable Battery,2018,Q3 2018,5750.68,729,0.59721429
+SaleID_622,France,Sales visit,Outdoors Shop,Sports Equipment,Climbing Accessories,Granite Chalk Bag,2018,Q3 2018,1938.48,109,0.51543991
+SaleID_623,Germany,Mail,Warehouse Store,Personal Accessories,Cooking Gear,TrailChef Cup,2018,Q3 2018,2255.55,623,0.75956338
+SaleID_624,Germany,Mail,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q3 2018,0,97,
+SaleID_625,Germany,Mail,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2018,Q3 2018,19318.32,309,0.25999426
+SaleID_626,Germany,Mail,Warehouse Store,Mountaineering Equipment,Cooking Gear,TrailChef Double Flame,2018,Q3 2018,33157.61,228,0.48701765
+SaleID_627,Germany,Mail,Warehouse Store,Camping Equipment,Tents,Star Lite,2018,Q3 2018,93989.4,272,0.28044401
+SaleID_628,Germany,Mail,Outdoors Shop,Camping Equipment,Tools,Granite Axe,2018,Q3 2018,15257.4,398,0.49066667
+SaleID_629,Germany,Mail,Outdoors Shop,Mountaineering Equipment,Tools,Granite Extreme,2018,Q3 2018,23438.2,313,0.38038298
+SaleID_630,Germany,Mail,Outdoors Shop,Sports Equipment,First Aid,Compact Relief Kit,2018,Q3 2018,1966.9,87,0.59970985
+SaleID_631,Germany,Mail,Outdoors Shop,Camping Equipment,First Aid,Insect Bite Relief,2018,Q3 2018,681,107,0.539
+SaleID_632,Germany,E-mail,Department Store,Sports Equipment,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,22217.39,3583,0.5256559
+SaleID_633,Germany,E-mail,Department Store,Personal Accessories,Cooking Gear,TrailChef Kitchen Kit,2018,Q3 2018,21570.88,934,0.30909095
+SaleID_634,Germany,E-mail,Department Store,Personal Accessories,Cooking Gear,TrailChef Cook Set,2018,Q3 2018,44238.74,840,0.33581016
+SaleID_635,Germany,E-mail,Department Store,Mountaineering Equipment,Lanterns,EverGlow Butane,2018,Q3 2018,6545.34,104,0.36086587
+SaleID_636,Germany,E-mail,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2018,Q3 2018,34800.26,1285,0.33551796
+SaleID_637,Germany,E-mail,Department Store,Personal Accessories,Lanterns,Flicker Lantern,2018,Q3 2018,12067.12,355,0.54012808
+SaleID_638,Germany,E-mail,Department Store,Camping Equipment,Watches,Mountain Man Analog,2018,Q3 2018,8899.15,188,0.3683597
+SaleID_639,Germany,E-mail,Department Store,Personal Accessories,Watches,Mountain Man Digital,2018,Q3 2018,7493.58,185,0.50723505
+SaleID_640,Germany,Web,Mall,Personal Accessories,Watches,Mountain Man Analog,2018,Q3 2018,2541.8,54,0.3726952
+SaleID_641,Germany,Web,Mall,Personal Accessories,Watches,Mountain Man Combination,2018,Q3 2018,2644.35,29,0.53049401
+SaleID_642,Germany,Web,Mall,Sports Equipment,Watches,Venue,2018,Q3 2018,22681,312,0.41066151
+SaleID_643,Germany,Web,Mall,Mountaineering Equipment,Watches,Infinity,2018,Q3 2018,18041,79,0.45459533
+SaleID_644,Germany,Web,Mall,Mountaineering Equipment,Watches,Lux,2018,Q3 2018,8411,52,0.46909569
+SaleID_645,Germany,Web,Mall,Sports Equipment,Watches,TX,2018,Q3 2018,15279,83,0.44388574
+SaleID_646,Germany,Web,Outdoors Shop,Sports Equipment,Safety,Granite Signal Mirror,2018,Q3 2018,8312.88,256,0.51601792
+SaleID_647,Germany,Web,Outdoors Shop,Personal Accessories,Climbing Accessories,Granite Carabiner,2018,Q3 2018,21833.32,5757,0.48115801
+SaleID_648,Germany,Web,Outdoors Shop,Sports Equipment,Climbing Accessories,Granite Belay,2018,Q3 2018,47163.8,718,0.47513982
+SaleID_649,Germany,Web,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Pulley,2018,Q3 2018,40620.18,1108,0.49874094
+SaleID_650,Germany,Web,Outdoors Shop,Outdoor Protection,Climbing Accessories,Firefly Climbing Lamp,2018,Q3 2018,21151.97,545,0.42771821
+SaleID_651,Germany,Web,Discount Retailer,Sports Equipment,Eyewear,Bella,2018,Q3 2018,6936,104,0.4467037
+SaleID_652,Germany,Web,Discount Retailer,Outdoor Protection,Eyewear,Cat Eye,2018,Q3 2018,21901.75,678,0.32485106
+SaleID_653,Germany,Sales visit,Direct Marketing,Personal Accessories,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,11286.75,1777,0.5361248
+SaleID_654,Germany,Sales visit,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Canteen,2018,Q3 2018,12884.22,1053,0.456843
+SaleID_655,Germany,Sales visit,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2018,Q3 2018,18800.28,806,0.31589537
+SaleID_656,Germany,Sales visit,Online Retailer,Mountaineering Equipment,Golf Accessories,Course Pro Umbrella,2018,Q3 2018,7210.68,578,0.51629686
+SaleID_657,Germany,Sales visit,Online Retailer,Personal Accessories,Golf Accessories,Course Pro Golf Bag,2018,Q3 2018,11800.98,59,0.61236955
+SaleID_658,Germany,Sales visit,Online Retailer,Sports Equipment,Golf Accessories,Course Pro Gloves,2018,Q3 2018,3715.5,351,0.76947619
+SaleID_659,Germany,Sales visit,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,14373.88,2290,0.53094888
+SaleID_660,Germany,Sales visit,Outdoors Shop,Mountaineering Equipment,Cooking Gear,TrailChef Cook Set,2018,Q3 2018,21735.96,409,0.34265616
+SaleID_661,Germany,Sales visit,Outdoors Shop,Personal Accessories,Tents,Star Peg,2018,Q3 2018,2561,1257,0.499
+SaleID_662,Germany,Sales visit,Discount Retailer,Mountaineering Equipment,Eyewear,Polar Extreme,2018,Q3 2018,3461.9,25,0.5101261
+SaleID_663,Germany,Sales visit,Discount Retailer,Personal Accessories,Binoculars,Seeker Mini,2018,Q3 2018,3785.55,47,0.51701422
+SaleID_664,Switzerland,Fax,Mall,Personal Accessories,Watches,Venue,2018,Q3 2018,9030,125,0.4129726
+SaleID_665,Switzerland,Fax,Mall,Personal Accessories,Watches,Infinity,2018,Q3 2018,4451,22,0.47172727
+SaleID_666,Switzerland,Fax,Mall,Camping Equipment,Watches,Lux,2018,Q3 2018,4231,27,0.47077033
+SaleID_667,Switzerland,Fax,Mall,Outdoor Protection,Watches,Sam,2018,Q3 2018,4271.6,96,0.37984633
+SaleID_668,Switzerland,Fax,Mall,Camping Equipment,Watches,TX,2018,Q3 2018,13363,70,0.45842909
+SaleID_669,Switzerland,Fax,Mall,Sports Equipment,Watches,Legend,2018,Q3 2018,4035,18,0.44558635
+SaleID_670,Switzerland,Web,Sports Store,Personal Accessories,Eyewear,Polar Ice,2018,Q3 2018,1151,12,0.54727273
+SaleID_671,Switzerland,Web,Sports Store,Personal Accessories,Eyewear,Bella,2018,Q3 2018,12681,180,0.43035709
+SaleID_672,Switzerland,Web,Sports Store,Sports Equipment,Eyewear,Capri,2018,Q3 2018,6447.1,169,0.33372585
+SaleID_673,Switzerland,Web,Sports Store,Outdoor Protection,Eyewear,Cat Eye,2018,Q3 2018,23310.3,777,0.31945375
+SaleID_674,Switzerland,Web,Sports Store,Camping Equipment,Eyewear,Dante,2018,Q3 2018,40741.35,941,0.34831059
+SaleID_675,Switzerland,Web,Sports Store,Camping Equipment,Eyewear,Fairway,2018,Q3 2018,36522.5,1812,0.39617643
+SaleID_676,Switzerland,Web,Sports Store,Outdoor Protection,Eyewear,Inferno,2018,Q3 2018,64831.4,1018,0.41472868
+SaleID_677,Switzerland,Sales visit,Sports Store,Camping Equipment,Lanterns,EverGlow Double,2018,Q3 2018,259.6,6,0.44770566
+SaleID_678,Switzerland,Sales visit,Sports Store,Personal Accessories,Lanterns,EverGlow Kerosene,2018,Q3 2018,6012.16,193,0.35818513
+SaleID_679,Switzerland,Sales visit,Sports Store,Outdoor Protection,Watches,Mountain Man Analog,2018,Q3 2018,4254.68,88,0.38525205
+SaleID_680,Switzerland,Sales visit,Sports Store,Camping Equipment,Watches,Mountain Man Deluxe,2018,Q3 2018,5771.62,74,0.50814411
+SaleID_681,Switzerland,Sales visit,Sports Store,Personal Accessories,Watches,Mountain Man Combination,2018,Q3 2018,1913.19,21,0.53986318
+SaleID_682,Switzerland,Sales visit,Sports Store,Sports Equipment,Eyewear,Polar Sun,2018,Q3 2018,6018.48,99,0.57393783
+SaleID_683,Switzerland,Sales visit,Sports Store,Mountaineering Equipment,Eyewear,Polar Ice,2018,Q3 2018,1041,11,0.54727273
+SaleID_684,Switzerland,Sales visit,Sports Store,Personal Accessories,Eyewear,Polar Sports,2018,Q3 2018,4318.58,39,0.48850928
+SaleID_685,Switzerland,Other,Department Store,Camping Equipment,Irons,Lady Hailstorm Steel Irons,2018,Q3 2018,12570.75,27,0.44435634
+SaleID_686,Switzerland,Other,Department Store,Personal Accessories,Putters,Blue Steel Putter,2018,Q3 2018,7142.55,87,0.50517284
+SaleID_687,Switzerland,Other,Department Store,Camping Equipment,Putters,Blue Steel Max Putter,2018,Q3 2018,12615.46,76,0.45833212
+SaleID_688,Switzerland,Other,Department Store,Camping Equipment,Golf Accessories,Course Pro Golf and Tee Set,2018,Q3 2018,3900.36,375,0.72768217
+SaleID_689,Switzerland,Other,Department Store,Personal Accessories,Golf Accessories,Course Pro Golf Bag,2018,Q3 2018,8296.6,42,0.61236955
+SaleID_690,Switzerland,Other,Outdoors Shop,Outdoor Protection,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q3 2018,21878.26,181,0.34654797
+SaleID_691,United Kingdom,Fax,Outdoors Shop,Mountaineering Equipment,Watches,Venue,2018,Q3 2018,7862,109,0.40968493
+SaleID_692,United Kingdom,Fax,Outdoors Shop,Camping Equipment,Watches,Infinity,2018,Q3 2018,25532,110,0.4410894
+SaleID_693,United Kingdom,Fax,Outdoors Shop,Camping Equipment,Watches,Lux,2018,Q3 2018,7235,42,0.47283073
+SaleID_694,United Kingdom,Fax,Outdoors Shop,Personal Accessories,Watches,TX,2018,Q3 2018,26559,143,0.4484794
+SaleID_695,United Kingdom,Fax,Outdoors Shop,Sports Equipment,Watches,Legend,2018,Q3 2018,8656.6,34,0.4418837
+SaleID_696,United Kingdom,Fax,Outdoors Shop,Sports Equipment,Eyewear,Trendi,2018,Q3 2018,21428.5,427,0.38964998
+SaleID_697,United Kingdom,Fax,Outdoors Shop,Camping Equipment,Eyewear,Zone,2018,Q3 2018,82383.5,2698,0.31648471
+SaleID_698,United Kingdom,Fax,Outdoors Shop,Mountaineering Equipment,Eyewear,Retro,2018,Q3 2018,7443.7,120,0.44369274
+SaleID_699,United Kingdom,Fax,Outdoors Shop,Camping Equipment,Knives,Max Gizmo,2018,Q3 2018,3298,87,0.53826702
+SaleID_700,United Kingdom,Fax,Outdoors Shop,Personal Accessories,Knives,Pocket Gizmo,2018,Q3 2018,5577.6,455,0.61329993
+SaleID_701,United Kingdom,Fax,Outdoors Shop,Outdoor Protection,Binoculars,Ranger Vision,2018,Q3 2018,8371,54,0.359
+SaleID_702,United Kingdom,Fax,Outdoors Shop,Personal Accessories,Navigation,Astro Pilot,2018,Q3 2018,7591,54,0.37789655
+SaleID_703,United Kingdom,Phone,Mall,Personal Accessories,Watches,Mountain Man Analog,2018,Q3 2018,2829.2,60,0.3726952
+SaleID_704,United Kingdom,Phone,Mall,Sports Equipment,Watches,Mountain Man Combination,2018,Q3 2018,3220.65,35,0.53049401
+SaleID_705,United Kingdom,Phone,Mall,Personal Accessories,Irons,Hailstorm Steel Irons,2018,Q3 2018,25184.72,60,0.48900785
+SaleID_706,United Kingdom,Phone,Mall,Personal Accessories,Irons,Lady Hailstorm Titanium Irons,2018,Q3 2018,25121.4,32,0.44855007
+SaleID_707,United Kingdom,Phone,Mall,Camping Equipment,Woods,Hailstorm Titanium Woods Set,2018,Q3 2018,44259.34,39,0.42150716
+SaleID_708,United Kingdom,Phone,Department Store,Camping Equipment,Lanterns,Firefly Multi-light,2018,Q3 2018,3328.26,128,0.31541676
+SaleID_709,United Kingdom,Phone,Department Store,Personal Accessories,Lanterns,EverGlow Double,2018,Q3 2018,1437.21,29,0.43901991
+SaleID_710,United Kingdom,Web,Mall,Personal Accessories,Watches,Venue,2018,Q3 2018,56042,769,0.41054936
+SaleID_711,United Kingdom,Web,Mall,Mountaineering Equipment,Watches,Infinity,2018,Q3 2018,77486,348,0.46689126
+SaleID_712,United Kingdom,Web,Mall,Mountaineering Equipment,Golf Accessories,Course Pro Golf and Tee Set,2018,Q3 2018,5417.4,522,0.72768217
+SaleID_713,United Kingdom,Web,Mall,Outdoor Protection,Golf Accessories,Course Pro Umbrella,2018,Q3 2018,16284.58,1308,0.51629686
+SaleID_714,United Kingdom,Web,Mall,Camping Equipment,Golf Accessories,Course Pro Golf Bag,2018,Q3 2018,44371.1,217,0.61236955
+SaleID_715,United Kingdom,Web,Department Store,Mountaineering Equipment,Lanterns,EverGlow Single,2018,Q3 2018,13692.55,405,0.46606056
+SaleID_716,United Kingdom,Web,Department Store,Outdoor Protection,Lanterns,EverGlow Double,2018,Q3 2018,5632.39,111,0.43753592
+SaleID_717,United Kingdom,Web,Department Store,Mountaineering Equipment,Eyewear,Maximus,2018,Q3 2018,76211,919,0.50693829
+SaleID_718,United Kingdom,Web,Department Store,Camping Equipment,Eyewear,Trendi,2018,Q3 2018,77915.4,1550,0.38941205
+SaleID_719,United Kingdom,Web,Department Store,Personal Accessories,Woods,Lady Hailstorm Steel Woods Set,2018,Q3 2018,,,
+SaleID_720,United Kingdom,Web,Department Store,Personal Accessories,Putters,Course Pro Putter,2018,Q3 2018,35814.75,497,0.51595502
+SaleID_721,United Kingdom,Web,Warehouse Store,Mountaineering Equipment,Cooking Gear,TrailChef Single Flame,2018,Q3 2018,21703.2,347,0.25999426
+SaleID_722,United Kingdom,Web,Warehouse Store,Personal Accessories,Cooking Gear,TrailChef Double Flame,2018,Q3 2018,31600.56,216,0.49027658
+SaleID_723,United Kingdom,Web,Discount Retailer,Camping Equipment,Eyewear,Dante,2018,Q3 2018,5619.95,129,0.34381186
+SaleID_724,United Kingdom,Web,Discount Retailer,Camping Equipment,Eyewear,Fairway,2018,Q3 2018,11335,562,0.39701489
+SaleID_725,United Kingdom,Web,Sports Store,Mountaineering Equipment,Cooking Gear,TrailChef Utensils,2018,Q3 2018,15542.88,830,0.46452646
+SaleID_726,United Kingdom,Web,Sports Store,Sports Equipment,Tents,Star Lite,2018,Q3 2018,74505.88,216,0.28044401
+SaleID_727,United Kingdom,Web,Sports Store,Camping Equipment,Tents,Star Dome,2018,Q3 2018,118747.96,196,0.35177197
+SaleID_728,United Kingdom,Sales visit,Mall,Camping Equipment,Irons,Hailstorm Steel Irons,2018,Q3 2018,40351.62,95,0.48900785
+SaleID_729,United Kingdom,Sales visit,Mall,Outdoor Protection,Irons,Hailstorm Titanium Irons,2018,Q3 2018,71622.24,84,0.43651289
+SaleID_730,United Kingdom,Sales visit,Mall,Personal Accessories,Irons,Lady Hailstorm Steel Irons,2018,Q3 2018,57141.06,116,0.44435634
+SaleID_731,Belgium,Web,Mall,Camping Equipment,Watches,Venue,2018,Q3 2018,11658,161,0.41144594
+SaleID_732,Belgium,Web,Mall,Mountaineering Equipment,Watches,Infinity,2018,Q3 2018,17242,75,0.45728864
+SaleID_733,Belgium,Web,Mall,Sports Equipment,Eyewear,Trendi,2018,Q3 2018,8400.8,168,0.38746918
+SaleID_734,Belgium,Web,Mall,Camping Equipment,Eyewear,Zone,2018,Q3 2018,8545.6,279,0.32273155
+SaleID_735,Belgium,Web,Mall,Sports Equipment,Eyewear,Hawk Eye,2018,Q3 2018,15927,394,0.39310431
+SaleID_736,Belgium,Web,Mall,Camping Equipment,Eyewear,Retro,2018,Q3 2018,17467.7,280,0.44003188
+SaleID_737,Belgium,Web,Mall,Personal Accessories,Knives,Max Gizmo,2018,Q3 2018,2954.2,78,0.5372199
+SaleID_738,Belgium,Web,Mall,Personal Accessories,Binoculars,Ranger Vision,2018,Q3 2018,20051,127,0.381744
+SaleID_739,Belgium,Web,Mall,Camping Equipment,Navigation,Sky Pilot,2018,Q3 2018,7569,23,0.33467039
+SaleID_740,Belgium,Web,Mall,Personal Accessories,Irons,Hailstorm Steel Irons,2018,Q3 2018,78918.88,184,0.48900785
+SaleID_741,Belgium,Web,Mall,Personal Accessories,Irons,Hailstorm Titanium Irons,2018,Q3 2018,36709.44,44,0.43651289
+SaleID_742,Belgium,Sales visit,Outdoors Shop,Personal Accessories,Climbing Accessories,Firefly Charger,2018,Q3 2018,16550.4,323,0.56398054
+SaleID_743,Belgium,Sales visit,Outdoors Shop,Personal Accessories,Climbing Accessories,Firefly Rechargeable Battery,2018,Q3 2018,11042.68,1404,0.59721429
+SaleID_744,Belgium,Sales visit,Outdoors Shop,Sports Equipment,Climbing Accessories,Granite Chalk Bag,2018,Q3 2018,3931.44,220,0.51979146
+SaleID_745,Belgium,Sales visit,Outdoors Shop,Mountaineering Equipment,Tools,Granite Ice,2018,Q3 2018,11105.4,149,0.48078191
+SaleID_746,Belgium,Sales visit,Outdoors Shop,Outdoor Protection,Tools,Granite Extreme,2018,Q3 2018,20129.4,269,0.38038298
+SaleID_747,Belgium,Sales visit,Outdoors Shop,Sports Equipment,Watches,Mountain Man Extreme,2018,Q3 2018,5873.81,22,0.59991434
+SaleID_748,Belgium,Sales visit,Outdoors Shop,Outdoor Protection,Eyewear,Polar Sun,2018,Q3 2018,11207.92,184,0.5724217
+SaleID_749,Belgium,Sales visit,Outdoors Shop,Outdoor Protection,Eyewear,Polar Ice,2018,Q3 2018,1668,17,0.5380538
+SaleID_750,Belgium,Sales visit,Outdoors Shop,Mountaineering Equipment,Knives,Bear Edge,2018,Q3 2018,5553,142,0.40027226
+SaleID_751,Belgium,Sales visit,Outdoors Shop,Sports Equipment,Binoculars,Seeker Extreme,2018,Q3 2018,8808.21,53,0.45086652
+SaleID_752,Belgium,Sales visit,Outdoors Shop,Sports Equipment,Navigation,Glacier Basic,2018,Q3 2018,10505.82,328,0.3753642
+SaleID_753,Belgium,Sales visit,Outdoors Shop,Sports Equipment,First Aid,Compact Relief Kit,2018,Q3 2018,1914,83,0.60769565
+SaleID_754,Belgium,Sales visit,Outdoors Shop,Personal Accessories,First Aid,Insect Bite Relief,2018,Q3 2018,645,101,0.539
+SaleID_755,Austria,Phone,Department Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,2018,Q3 2018,11818.47,1861,0.5361248
+SaleID_756,Austria,Phone,Department Store,Mountaineering Equipment,Cooking Gear,TrailChef Kitchen Kit,2018,Q3 2018,10894.8,467,0.31589537
+SaleID_757,Austria,Phone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Granite Carabiner,2018,Q3 2018,17185.2,4511,0.48321053
+SaleID_758,Austria,Phone,Outdoors Shop,Personal Accessories,Climbing Accessories,Granite Belay,2018,Q3 2018,19396.2,296,0.47513982
+SaleID_759,Austria,Phone,Outdoors Shop,Personal Accessories,Climbing Accessories,Granite Pulley,2018,Q3 2018,15900.8,432,0.50117037
+SaleID_760,Austria,Phone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Climbing Lamp,2018,Q3 2018,9321.81,241,0.42668755
+SaleID_761,Austria,Phone,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Charger,2018,Q3 2018,16447.6,321,0.56398054
+SaleID_762,Austria,Phone,Outdoors Shop,Personal Accessories,Climbing Accessories,Firefly Rechargeable Battery,2018,Q3 2018,11999.16,1526,0.59721429
+SaleID_763,Austria,Web,Mall,Mountaineering Equipment,Irons,Hailstorm Steel Irons,2018,Q3 2018,54651.84,128,0.48900785
+SaleID_764,Austria,Web,Mall,Camping Equipment,Irons,Hailstorm Titanium Irons,2018,Q3 2018,97806.84,114,0.43651289
+SaleID_765,Austria,Web,Mall,Camping Equipment,Irons,Lady Hailstorm Steel Irons,2018,Q3 2018,58643.43,119,0.44435634
+SaleID_766,Austria,Web,Mall,Camping Equipment,Irons,Lady Hailstorm Titanium Irons,2018,Q3 2018,56041.56,69,0.44855007
+SaleID_767,Italy,Fax,Outdoors Shop,Personal Accessories,Rope,Husky Rope 50,2018,Q3 2018,18099,122,0.32805585
+SaleID_768,Italy,E-mail,Sports Store,Camping Equipment,Knives,Single Edge,2018,Q3 2018,32874.33,2735,0.28626062
+SaleID_769,Italy,E-mail,Sports Store,Mountaineering Equipment,Woods,Lady Hailstorm Titanium Woods Set,2018,Q3 2018,52454.74,43,0.48211609
+SaleID_770,Italy,E-mail,Sports Store,Mountaineering Equipment,Putters,Blue Steel Max Putter,2018,Q3 2018,31292.36,186,0.45833212
+SaleID_771,United States,Fax,Outdoors Shop,Camping Equipment,Climbing Accessories,Firefly Charger,2018,Q4 2018,27780.06,533,0.57081527
+SaleID_772,United States,Fax,Outdoors Shop,Personal Accessories,Climbing Accessories,Firefly Rechargeable Battery,2018,Q4 2018,24852.44,3490,0.55599346
+SaleID_773,United States,Fax,Outdoors Shop,Camping Equipment,Climbing Accessories,Granite Chalk Bag,2018,Q4 2018,13651.44,773,0.51543991
+SaleID_774,United States,Phone,Department Store,Camping Equipment,Sleeping Bags,Hibernator Pad,2018,Q4 2018,19912.18,511,0.50771348
+SaleID_775,United States,Phone,Department Store,Outdoor Protection,Sleeping Bags,Hibernator Pillow,2018,Q4 2018,14583,842,0.52847977
+SaleID_776,United States,Phone,Department Store,Mountaineering Equipment,Sunscreen,Sun Blocker,2018,Q4 2018,4828.5,977,0.60104082
+SaleID_777,United States,Phone,Department Store,Mountaineering Equipment,Sunscreen,Sun Shelter 15,2018,Q4 2018,8115,1682,0.62608333
+SaleID_778,United States,Phone,Department Store,Personal Accessories,Sunscreen,Sun Shelter 30,2018,Q4 2018,26906.8,5716,0.60538298
+SaleID_779,United States,Phone,Outdoors Shop,Outdoor Protection,Tents,Star Dome,2018,Q4 2018,205017.4,337,0.35177197
+SaleID_780,United States,Phone,Outdoors Shop,Personal Accessories,Tents,Star Gazer 3,2018,Q4 2018,87239.17,139,0.3296202
+SaleID_781,United States,Phone,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2018,Q4 2018,260745.58,1048,0.39714629
+SaleID_782,United States,Phone,Discount Retailer,Personal Accessories,Eyewear,Polar Sun,2018,Q4 2018,7623.52,127,0.56734053
+SaleID_783,United States,Phone,Discount Retailer,Mountaineering Equipment,Eyewear,Polar Ice,2018,Q4 2018,5566.4,54,0.53051539
+SaleID_784,United States,Phone,Discount Retailer,Mountaineering Equipment,Eyewear,Polar Extreme,2018,Q4 2018,2521.61,19,0.50013535
+SaleID_785,United States,Web,Mall,Mountaineering Equipment,Watches,Mountain Man Analog,2018,Q4 2018,7257.32,154,0.36622211
+SaleID_786,United States,Web,Mall,Personal Accessories,Watches,Venue,2018,Q4 2018,84147,1154,0.41239445
+SaleID_787,United States,Web,Mall,Camping Equipment,Watches,Infinity,2018,Q4 2018,180791,805,0.46606097
+SaleID_788,United States,Web,Mall,Mountaineering Equipment,Watches,Lux,2018,Q4 2018,60975.4,358,0.47244118
+SaleID_789,United States,Web,Mall,Camping Equipment,Watches,Sam,2018,Q4 2018,12353.6,276,0.38240839
+SaleID_790,United States,Web,Department Store,Outdoor Protection,Woods,Lady Hailstorm Titanium Woods Set,2018,Q4 2018,71626.84,58,0.48211609
+SaleID_791,United States,Web,Department Store,Camping Equipment,Woods,Lady Hailstorm Steel Woods Set,2018,Q4 2018,224695.5,264,0.44825587
+SaleID_792,United States,Web,Department Store,Camping Equipment,Putters,Course Pro Putter,2018,Q4 2018,345712.31,7661,0.33052582
+SaleID_793,United States,Web,Department Store,Mountaineering Equipment,Putters,Blue Steel Putter,2018,Q4 2018,83230.71,999,0.50517284
+SaleID_794,United States,Web,Department Store,Personal Accessories,Putters,Blue Steel Max Putter,2018,Q4 2018,43347.45,257,0.45833212
+SaleID_795,United States,Web,Department Store,Outdoor Protection,Golf Accessories,Course Pro Golf and Tee Set,2018,Q4 2018,14873.26,1433,0.72867685
+SaleID_796,United States,Web,Department Store,Mountaineering Equipment,Golf Accessories,Course Pro Umbrella,2018,Q4 2018,32352.25,2612,0.51418904
+SaleID_797,United States,Web,Department Store,Camping Equipment,Golf Accessories,Course Pro Golf Bag,2018,Q4 2018,61068.44,298,0.61236955
+SaleID_798,United States,Web,Department Store,Personal Accessories,Golf Accessories,Course Pro Gloves,2018,Q4 2018,13474.19,1289,0.76793198
+SaleID_799,United States,Web,Direct Marketing,Mountaineering Equipment,Cooking Gear,TrailChef Cup,2018,Q4 2018,5297.9,1480,0.75956338
+SaleID_800,United States,Web,Direct Marketing,Sports Equipment,Cooking Gear,TrailChef Kettle,2018,Q4 2018,46999.36,3761,0.58985919
+SaleID_801,United States,Web,Direct Marketing,Personal Accessories,Sleeping Bags,Hibernator Lite,2018,Q4 2018,128679.92,1521,0.29045017
+SaleID_802,United States,Web,Direct Marketing,Sports Equipment,Lanterns,Firefly 4,2018,Q4 2018,16495.5,572,0.37508319
+SaleID_803,United States,Web,Direct Marketing,Personal Accessories,Lanterns,Firefly Multi-light,2018,Q4 2018,31289.01,1203,0.31541676
+SaleID_804,United States,Web,Direct Marketing,Camping Equipment,Lanterns,EverGlow Kerosene,2018,Q4 2018,19128.64,619,0.35216947
+SaleID_805,United States,Web,Direct Marketing,Sports Equipment,Insect Repellents,BugShield Lotion Lite,2018,Q4 2018,13855.84,1996,0.72744886
+SaleID_806,United States,Web,Direct Marketing,Personal Accessories,Sunscreen,Sun Shield,2018,Q4 2018,16841.7,2887,0.5247732
+SaleID_807,United States,Web,Direct Marketing,Personal Accessories,First Aid,Aloe Relief,2018,Q4 2018,1536.32,286,0.63188719
+SaleID_808,United States,Web,Warehouse Store,Personal Accessories,Cooking Gear,TrailChef Canteen,2018,Q4 2018,11118,932,0.44269748
+SaleID_809,United States,Web,Warehouse Store,Sports Equipment,Cooking Gear,TrailChef Cook Set,2018,Q4 2018,154274.37,2971,0.32578212
+SaleID_810,United States,Web,Warehouse Store,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q4 2018,176132.36,1446,0.34654797
+SaleID_811,United States,Web,Warehouse Store,Sports Equipment,Cooking Gear,TrailChef Single Flame,2018,Q4 2018,49380.36,788,0.25999426
+SaleID_812,United States,Web,Warehouse Store,Camping Equipment,Tents,Star Lite,2018,Q4 2018,726855.88,2091,0.28044401
+SaleID_813,United States,Web,Warehouse Store,Sports Equipment,Tents,Star Dome,2018,Q4 2018,104063.8,172,0.35177197
+SaleID_814,United States,Web,Warehouse Store,Sports Equipment,Tents,Star Gazer 2,2018,Q4 2018,944436.75,1727,0.28193788
+SaleID_815,United States,Web,Warehouse Store,Camping Equipment,Tents,Star Peg,2018,Q4 2018,15980.12,8188,0.48509842
+SaleID_816,United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Climber Backpack,2018,Q4 2018,40655.5,564,0.2723564
+SaleID_817,United States,Web,Warehouse Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2018,Q4 2018,85012.12,305,0.44505297
+SaleID_818,United States,Web,Warehouse Store,Personal Accessories,Lanterns,EverGlow Kerosene,2018,Q4 2018,42363,1378,0.3485935
+SaleID_819,United States,Other,Warehouse Store,Personal Accessories,Cooking Gear,TrailChef Canteen,2018,Q4 2018,10915.7,915,0.44269748
+SaleID_820,United States,Other,Warehouse Store,Mountaineering Equipment,Cooking Gear,TrailChef Single Flame,2018,Q4 2018,48438.96,773,0.25999426
+SaleID_821,United States,Other,Warehouse Store,Camping Equipment,Tents,Star Lite,2018,Q4 2018,166356.76,480,0.28044401
+SaleID_822,United States,Other,Warehouse Store,Camping Equipment,Tents,Star Dome,2018,Q4 2018,96109.88,159,0.35177197
+SaleID_823,United States,Other,Warehouse Store,Mountaineering Equipment,Tents,Star Gazer 2,2018,Q4 2018,371235.66,680,0.28193788
+SaleID_824,United States,Other,Warehouse Store,Personal Accessories,Sleeping Bags,Hibernator Self - Inflating Mat,2018,Q4 2018,47424.48,398,0.5430107
+SaleID_825,United States,Other,Warehouse Store,Personal Accessories,Packs,Canyon Mule Weekender Backpack,2018,Q4 2018,177880.92,635,0.4479438
+SaleID_826,United States,Other,Warehouse Store,Camping Equipment,Knives,Single Edge,2018,Q4 2018,50889.33,4235,0.28626062
+SaleID_827,United States,Other,Warehouse Store,Personal Accessories,Binoculars,Seeker Mini,2018,Q4 2018,0,452,
+SaleID_828,United States,Other,Warehouse Store,Camping Equipment,Sunscreen,Sun Shelter Stick,2018,Q4 2018,5987.1,1265,0.58197872
+SaleID_829,United States,Other,Warehouse Store,Camping Equipment,Sunscreen,Sun Shield,2018,Q4 2018,9915.36,1751,0.5096383
+SaleID_830,United States,Other,Warehouse Store,Sports Equipment,First Aid,Deluxe Family Relief Kit,2018,Q4 2018,6102.5,268,0.38185714
+SaleID_831,United States,Other,Outdoors Shop,Camping Equipment,Eyewear,Polar Sun,2018,Q4 2018,2630.14,45,0.56302134
+SaleID_832,United States,Other,Outdoors Shop,Personal Accessories,Navigation,Glacier Deluxe,2018,Q4 2018,14645.65,163,0.37870215
+SaleID_833,United States,Other,Outdoors Shop,Mountaineering Equipment,Navigation,Glacier GPS Extreme,2018,Q4 2018,46359.74,139,0.4769303
+SaleID_834,Mexico,Sales visit,Department Store,Personal Accessories,Cooking Gear,TrailChef Kitchen Kit,2018,Q4 2018,15221.13,659,0.30909095
+SaleID_835,Brazil,Web,Mall,Mountaineering Equipment,Eyewear,Cat Eye,2018,Q4 2018,33302.8,945,0.32847179
+SaleID_836,Brazil,Web,Mall,Personal Accessories,Eyewear,Dante,2018,Q4 2018,5313,122,0.34244356
+SaleID_837,Brazil,Web,Mall,Camping Equipment,Eyewear,Fairway,2018,Q4 2018,16251.6,806,0.39652108
+SaleID_838,Brazil,Web,Department Store,Personal Accessories,Lanterns,EverGlow Lamp,2018,Q4 2018,41843.02,1551,0.33295107
+SaleID_839,Brazil,Web,Sports Store,Outdoor Protection,Lanterns,Firefly Extreme,2018,Q4 2018,5073,102,0.43906372
+SaleID_840,Brazil,Web,Sports Store,Personal Accessories,Lanterns,EverGlow Kerosene,2018,Q4 2018,5431.08,176,0.35216947
+SaleID_841,Brazil,Web,Sports Store,Camping Equipment,Lanterns,Flicker Lantern,2018,Q4 2018,2217.57,65,0.5447982
+SaleID_842,Japan,E-mail,Department Store,Camping Equipment,Cooking Gear,TrailChef Water Bag,2018,Q4 2018,15581.71,2511,0.5256559
+SaleID_843,Japan,E-mail,Department Store,Personal Accessories,Cooking Gear,TrailChef Canteen,2018,Q4 2018,9685.95,795,0.45414403
+SaleID_844,Japan,E-mail,Department Store,Personal Accessories,Cooking Gear,TrailChef Kitchen Kit,2018,Q4 2018,32007.56,1386,0.30909095
+SaleID_845,Japan,E-mail,Department Store,Sports Equipment,Cooking Gear,TrailChef Cup,2018,Q4 2018,8386.8,3791,0.61263636
+SaleID_846,Japan,E-mail,Department Store,Personal Accessories,Irons,Lady Hailstorm Steel Irons,2018,Q4 2018,31099.98,64,0.44435634
+SaleID_847,Singapore,Fax,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,2018,Q4 2018,25880.23,265,0.33460737
+SaleID_848,Singapore,Fax,Outdoors Shop,Personal Accessories,Rope,Husky Rope 50,2018,Q4 2018,27423.8,184,0.32805585
+SaleID_849,Singapore,Fax,Outdoors Shop,Outdoor Protection,Rope,Husky Rope 60,2018,Q4 2018,16839.4,96,0.29065733
+SaleID_850,Singapore,Fax,Outdoors Shop,Personal Accessories,Rope,Husky Rope 100,2018,Q4 2018,50233.44,156,0.30026435
+SaleID_851,Singapore,Fax,Outdoors Shop,Mountaineering Equipment,Rope,Husky Rope 200,2018,Q4 2018,45451.32,86,0.31377575
+SaleID_852,Singapore,Fax,Outdoors Shop,Mountaineering Equipment,Safety,Granite Climbing Helmet,2018,Q4 2018,32883.32,474,0.24368085
+SaleID_853,Singapore,Fax,Outdoors Shop,Sports Equipment,Safety,Husky Harness,2018,Q4 2018,21802.6,358,0.28263339
+SaleID_854,Singapore,Fax,Outdoors Shop,Personal Accessories,Safety,Husky Harness Extreme,2018,Q4 2018,44926.6,436,0.47743327
+SaleID_855,Singapore,Fax,Outdoors Shop,Camping Equipment,Safety,Granite Signal Mirror,2018,Q4 2018,4158.18,129,0.51322387
+SaleID_856,Singapore,Fax,Outdoors Shop,Camping Equipment,Climbing Accessories,Granite Carabiner,2018,Q4 2018,9973.64,2641,0.4777234
+SaleID_857,Singapore,Fax,Outdoors Shop,Personal Accessories,Climbing Accessories,Granite Belay,2018,Q4 2018,18343.4,280,0.47513982
+SaleID_858,Singapore,Fax,Outdoors Shop,Outdoor Protection,Climbing Accessories,Granite Pulley,2018,Q4 2018,16085.1,437,0.50117037
+SaleID_859,Singapore,Fax,Outdoors Shop,Camping Equipment,Climbing Accessories,Firefly Climbing Lamp,2018,Q4 2018,9127.86,236,0.42668755
+SaleID_860,Singapore,Fax,Outdoors Shop,Personal Accessories,Tools,Granite Ice,2018,Q4 2018,30958.2,413,0.48078191
+SaleID_861,Singapore,Fax,Outdoors Shop,Camping Equipment,Watches,Mountain Man Analog,2018,Q4 2018,6640.99,141,0.36622211
+SaleID_862,Singapore,Fax,Outdoors Shop,Camping Equipment,Watches,Mountain Man Digital,2018,Q4 2018,4692.4,117,0.50345986
+SaleID_863,Singapore,Fax,Outdoors Shop,Sports Equipment,Watches,Mountain Man Deluxe,2018,Q4 2018,9020.22,119,0.49026011
+SaleID_864,Singapore,Fax,Outdoors Shop,Personal Accessories,Watches,Mountain Man Extreme,2018,Q4 2018,5985.6,23,0.5878535
+SaleID_865,Singapore,Fax,Outdoors Shop,Camping Equipment,Knives,Edge Extreme,2018,Q4 2018,24465.67,219,0.28795209
+SaleID_866,Singapore,Fax,Outdoors Shop,Sports Equipment,Binoculars,Seeker Extreme,2018,Q4 2018,13100.96,78,0.45086652
+SaleID_867,Singapore,Fax,Outdoors Shop,Mountaineering Equipment,Navigation,Glacier Deluxe,2018,Q4 2018,12107.45,135,0.37870215
+SaleID_868,Singapore,Fax,Outdoors Shop,Mountaineering Equipment,Navigation,Glacier GPS,2018,Q4 2018,35054.87,321,0.28315201
+SaleID_869,Singapore,Fax,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS Extreme,2018,Q4 2018,37909.24,114,0.4769303
+SaleID_870,Singapore,Fax,Outdoors Shop,Camping Equipment,Insect Repellents,BugShield Extreme,2018,Q4 2018,17797.26,2699,0.63121884
+SaleID_871,Singapore,Phone,Outdoors Shop,Camping Equipment,Eyewear,Polar Extreme,2018,Q4 2018,2957.6,22,0.50013535
+SaleID_872,Singapore,Phone,Outdoors Shop,Personal Accessories,Navigation,Glacier Basic,2018,Q4 2018,28218,1232,0.25664192
+SaleID_873,Singapore,Web,Mall,Camping Equipment,Watches,Mountain Man Analog,2018,Q4 2018,6261.71,133,0.36622211
+SaleID_874,Singapore,Web,Mall,Personal Accessories,Watches,Venue,2018,Q4 2018,16768,231,0.41269863
+SaleID_875,Singapore,Web,Mall,Camping Equipment,Watches,Infinity,2018,Q4 2018,7491,35,0.45574194
+SaleID_876,Singapore,Web,Mall,Camping Equipment,Watches,Lux,2018,Q4 2018,9748.6,60,0.47388038
+SaleID_877,Korea,Phone,Mall,Camping Equipment,Watches,Mountain Man Deluxe,2018,Q4 2018,9480.18,125,0.49026011
+SaleID_878,Korea,Phone,Mall,Camping Equipment,Irons,Hailstorm Titanium Irons,2018,Q4 2018,106535.04,124,0.43651289
+SaleID_879,Korea,Web,Mall,Personal Accessories,Watches,Venue,2018,Q4 2018,11804,163,0.4129726
+SaleID_880,Korea,Web,Department Store,Camping Equipment,Lanterns,EverGlow Double,2018,Q4 2018,8476.5,168,0.43256477
+SaleID_881,Korea,Web,Department Store,Personal Accessories,Lanterns,EverGlow Butane,2018,Q4 2018,17050.89,269,0.36086587
+SaleID_882,Korea,Web,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2018,Q4 2018,78896,2968,0.32300254
+SaleID_883,Korea,Other,Sports Store,Camping Equipment,Lanterns,Firefly 2,2018,Q4 2018,14680.05,553,0.37112806
+SaleID_884,Korea,Other,Sports Store,Personal Accessories,Lanterns,Firefly Extreme,2018,Q4 2018,9394.6,190,0.43320523
+SaleID_885,Korea,Other,Sports Store,Personal Accessories,Knives,Bear Edge,2018,Q4 2018,12548.4,320,0.40027226
+SaleID_886,Korea,Other,Sports Store,Personal Accessories,Golf Accessories,Course Pro Golf and Tee Set,2018,Q4 2018,10751.08,1050,0.72475906
+SaleID_887,China,Mail,Outdoors Shop,Personal Accessories,Tents,Star Dome,2018,Q4 2018,126701.88,209,0.35177197
+SaleID_888,China,Mail,Outdoors Shop,Personal Accessories,Tents,Star Gazer 3,2018,Q4 2018,113968.39,181,0.3296202
+SaleID_889,China,Mail,Outdoors Shop,Personal Accessories,Rope,Husky Rope 50,2018,Q4 2018,39305.4,263,0.32805585
+SaleID_890,China,Mail,Outdoors Shop,Camping Equipment,Tools,Granite Grip,2018,Q4 2018,15997.8,824,0.48920619
+SaleID_891,China,Mail,Outdoors Shop,Camping Equipment,Tools,Granite Axe,2018,Q4 2018,49945,1315,0.48531579
+SaleID_892,China,Mail,Outdoors Shop,Sports Equipment,Tools,Granite Extreme,2018,Q4 2018,64572.6,860,0.38038298
+SaleID_893,Netherlands,Phone,Online Retailer,Personal Accessories,First Aid,Calamine Relief,2018,Q4 2018,519,80,0.52733333
+SaleID_894,Netherlands,Phone,Outdoors Shop,Personal Accessories,Sleeping Bags,Hibernator Extreme,2018,Q4 2018,70333.86,284,0.39714629
+SaleID_895,Netherlands,Phone,Outdoors Shop,Outdoor Protection,Climbing Accessories,Granite Carabiner,2018,Q4 2018,14184.84,3761,0.4777234
+SaleID_896,Netherlands,Sales visit,Outdoors Shop,Mountaineering Equipment,Cooking Gear,TrailChef Water Bag,2018,Q4 2018,16374.03,2639,0.5256559
+SaleID_897,Netherlands,Sales visit,Outdoors Shop,Outdoor Protection,Cooking Gear,TrailChef Cook Set,2018,Q4 2018,29368.88,558,0.33581016
+SaleID_898,Netherlands,Sales visit,Outdoors Shop,Mountaineering Equipment,Tents,Star Peg,2018,Q4 2018,3773.4,1882,0.49394949
+SaleID_899,Netherlands,Sales visit,Outdoors Shop,Sports Equipment,Sleeping Bags,Hibernator,2018,Q4 2018,53464.74,389,0.3759019
+SaleID_900,Sweden,Phone,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Water Bag,2018,Q4 2018,14974.84,2386,0.53094888
+SaleID_901,Sweden,Phone,Outdoors Shop,Outdoor Protection,Cooking Gear,TrailChef Cook Set,2018,Q4 2018,28577.93,543,0.33581016
+SaleID_902,Sweden,Phone,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Deluxe Cook Set,2018,Q4 2018,34316.14,283,0.34654797
+SaleID_903,Sweden,Phone,Outdoors Shop,Sports Equipment,Sleeping Bags,Hibernator Extreme,2018,Q4 2018,51143.15,207,0.39714629
+SaleID_904,Sweden,Sales visit,Sports Store,Camping Equipment,Cooking Gear,TrailChef Kettle,2019,Q2 2019,20978.27,2641,0.48575914
+SaleID_905,Sweden,Sales visit,Sports Store,Personal Accessories,Cooking Gear,TrailChef Utensils,2019,Q2 2019,13829.1,731,0.46989947
+SaleID_906,Sweden,Sales visit,Sports Store,Camping Equipment,Tents,Star Lite,2019,Q2 2019,90768.96,260,0.28800518
+SaleID_907,Sweden,Sales visit,Sports Store,Personal Accessories,Tents,Star Gazer 2,2019,Q2 2019,86365.8,158,0.2894934
+SaleID_908,Sweden,Sales visit,Sports Store,Personal Accessories,Sunscreen,Sun Shelter 15,2019,Q2 2019,1646,321,0.641
+SaleID_909,Sweden,Sales visit,Sports Store,Outdoor Protection,First Aid,Aloe Relief,2019,Q2 2019,542.62,96,0.63188719
+SaleID_910,Sweden,Sales visit,Sports Store,Camping Equipment,Golf Accessories,Course Pro Golf and Tee Set,2019,Q2 2019,6183.84,590,0.73054362
+SaleID_911,Sweden,Sales visit,Sports Store,Mountaineering Equipment,Golf Accessories,Course Pro Gloves,2019,Q2 2019,3681.69,341,0.76090476
+SaleID_912,France,E-mail,Online Retailer,Personal Accessories,Lanterns,EverGlow Double,2019,Q2 2019,1928.4,38,0.44770566
+SaleID_913,France,E-mail,Online Retailer,Sports Equipment,Sunscreen,Sun Blocker,2019,Q2 2019,1316,255,0.609
+SaleID_914,France,E-mail,Online Retailer,Personal Accessories,Putters,Course Pro Putter,2019,Q2 2019,44812.26,615,0.61006546
+SaleID_915,France,Sales visit,Online Retailer,Mountaineering Equipment,Sunscreen,Sun Blocker,2019,Q2 2019,1011,194,0.609
+SaleID_916,France,Sales visit,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Water Bag,2019,Q2 2019,10498.94,1671,0.53094888
+SaleID_917,France,Sales visit,Outdoors Shop,Outdoor Protection,Cooking Gear,TrailChef Canteen,2019,Q2 2019,6344.7,520,0.34714815
+SaleID_918,France,Sales visit,Outdoors Shop,Camping Equipment,Knives,Double Edge,2019,Q2 2019,9249.84,566,0.29820294
+SaleID_919,France,Sales visit,Sports Store,Sports Equipment,Irons,Hailstorm Titanium Irons,2019,Q2 2019,65326.4,76,0.48783347
+SaleID_920,France,Sales visit,Sports Store,Personal Accessories,Irons,Lady Hailstorm Titanium Irons,2019,Q2 2019,41434.93,51,0.50170552
+SaleID_921,France,Sales visit,Sports Store,Camping Equipment,Golf Accessories,Course Pro Umbrella,2019,Q2 2019,8490.97,681,0.51629686
+SaleID_922,France,Sales visit,Sports Store,Outdoor Protection,Golf Accessories,Course Pro Gloves,2019,Q2 2019,4656.3,432,0.76090476
+SaleID_923,Germany,Phone,Direct Marketing,Mountaineering Equipment,Cooking Gear,TrailChef Kitchen Kit,2019,Q2 2019,14299.52,613,0.31589537
+SaleID_924,Germany,Phone,Direct Marketing,Outdoor Protection,Packs,Canyon Mule Journey Backpack,2019,Q2 2019,74390.52,213,0.39349932
+SaleID_925,Germany,Phone,Discount Retailer,Camping Equipment,Navigation,Glacier Basic,2019,Q2 2019,15252.18,476,0.3753642
+SaleID_926,Germany,Phone,Discount Retailer,Camping Equipment,Navigation,Glacier Deluxe,2019,Q2 2019,19840.92,218,0.42052368
+SaleID_927,Germany,Phone,Discount Retailer,Sports Equipment,Navigation,Glacier GPS,2019,Q2 2019,8367.75,77,0.33672207
+SaleID_928,Germany,Phone,Discount Retailer,Camping Equipment,Navigation,Glacier GPS Extreme,2019,Q2 2019,28747.08,86,0.48243188
+SaleID_929,Germany,Mail,Outdoors Shop,Camping Equipment,Knives,Bear Survival Edge,2019,Q2 2019,10221.88,118,0.46295985
+SaleID_930,Germany,Mail,Outdoors Shop,Mountaineering Equipment,Binoculars,Seeker Extreme,2019,Q2 2019,12372.34,73,0.45664665
+SaleID_931,Germany,Mail,Outdoors Shop,Outdoor Protection,Navigation,Glacier Basic,2019,Q2 2019,22051.02,688,0.3753642
+SaleID_932,Germany,Mail,Outdoors Shop,Camping Equipment,Navigation,Glacier Deluxe,2019,Q2 2019,8663.28,96,0.42052368
+SaleID_933,Germany,Mail,Outdoors Shop,Outdoor Protection,Navigation,Glacier GPS,2019,Q2 2019,38909.08,369,0.33516432
+SaleID_934,Germany,Mail,Outdoors Shop,Outdoor Protection,Navigation,Glacier GPS Extreme,2019,Q2 2019,30455.18,91,0.48243188
+SaleID_935,Germany,Mail,Outdoors Shop,Outdoor Protection,Sunscreen,Sun Shield,2019,Q2 2019,1941,317,0.539
+SaleID_936,Germany,Mail,Outdoors Shop,Outdoor Protection,First Aid,Compact Relief Kit,2019,Q2 2019,1293,56,0.60769565
+SaleID_937,Germany,E-mail,Sports Store,Outdoor Protection,Cooking Gear,TrailChef Double Flame,2019,Q2 2019,21966.36,154,0.4788169
+SaleID_938,Germany,E-mail,Sports Store,Camping Equipment,Cooking Gear,TrailChef Kettle,2019,Q2 2019,45370.95,5717,0.48575914
+SaleID_939,Germany,E-mail,Sports Store,Personal Accessories,Knives,Bear Edge,2019,Q2 2019,7556.19,191,0.40645404
+SaleID_940,Germany,E-mail,Sports Store,Personal Accessories,Knives,Bear Survival Edge,2019,Q2 2019,20392.76,234,0.46295985
+SaleID_941,Germany,E-mail,Sports Store,Personal Accessories,Binoculars,Seeker 50,2019,Q2 2019,14192.4,113,0.2723124
+SaleID_942,United Kingdom,Sales visit,Outdoors Shop,Camping Equipment,Tools,Granite Grip,2019,Q2 2019,10439,532,0.49440816
+SaleID_943,Belgium,Fax,Outdoors Shop,Outdoor Protection,Cooking Gear,TrailChef Water Bag,2019,Q2 2019,12754.32,1990,0.54047105
+SaleID_944,Belgium,Fax,Outdoors Shop,Outdoor Protection,Cooking Gear,TrailChef Canteen,2019,Q2 2019,7615.48,618,0.35404886
+SaleID_945,Italy,Fax,Department Store,Personal Accessories,Eyewear,Polar Sun,2019,Q2 2019,1658.84,28,0.57613454
+SaleID_946,Italy,Fax,Department Store,Mountaineering Equipment,Eyewear,Polar Ice,2019,Q2 2019,4753.5,47,0.52349761
+SaleID_947,United States,Fax,Sports Store,Mountaineering Equipment,Knives,Single Edge,2019,Q3 2019,43658.58,3556,0.30136349
+SaleID_948,United States,Sales visit,Online Retailer,Personal Accessories,Climbing Accessories,Granite Pulley,2019,Q3 2019,6865.92,185,0.50625027
+SaleID_949,United States,Sales visit,Online Retailer,Personal Accessories,Sunscreen,Sun Blocker,2019,Q3 2019,631,118,0.609
+SaleID_950,United States,Sales visit,Online Retailer,Sports Equipment,First Aid,Deluxe Family Relief Kit,2019,Q3 2019,1066,31,0.59785714
+SaleID_951,United States,Sales visit,Discount Retailer,Personal Accessories,Watches,Mountain Man Analog,2019,Q3 2019,70751.4,1478,0.3726952
+SaleID_952,United States,Sales visit,Discount Retailer,Personal Accessories,Watches,Mountain Man Digital,2019,Q3 2019,12040.32,296,0.50856351
+SaleID_953,United States,Sales visit,Discount Retailer,Personal Accessories,Watches,Mountain Man Deluxe,2019,Q3 2019,41574.92,538,0.49557932
+SaleID_954,Japan,E-mail,Direct Marketing,Camping Equipment,Watches,Mountain Man Deluxe,2019,Q3 2019,8107.88,106,0.49557932
+SaleID_955,Singapore,Fax,Outdoors Shop,Camping Equipment,Eyewear,Polar Sports,2019,Q3 2019,8327.47,73,0.49389577
+SaleID_956,Singapore,Fax,Outdoors Shop,Camping Equipment,Binoculars,Seeker Extreme,2019,Q3 2019,20181.64,118,0.45664665
+SaleID_957,Singapore,Fax,Outdoors Shop,Outdoor Protection,Navigation,Glacier GPS Extreme,2019,Q3 2019,49585.9,147,0.48243188
+SaleID_958,Singapore,Phone,Mall,Personal Accessories,Woods,Lady Hailstorm Titanium Woods Set,2019,Q3 2019,78846.53,63,0.52676509
+SaleID_959,Singapore,Phone,Mall,Camping Equipment,Golf Accessories,Course Pro Golf and Tee Set,2019,Q3 2019,10334.98,988,0.73054362
+SaleID_960,Singapore,Sales visit,Department Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2019,Q3 2019,12978.6,1066,0.34714815
+SaleID_961,Singapore,Sales visit,Department Store,Outdoor Protection,Cooking Gear,TrailChef Kitchen Kit,2019,Q3 2019,23184.44,994,0.31589537
+SaleID_962,Singapore,Sales visit,Department Store,Mountaineering Equipment,Cooking Gear,TrailChef Deluxe Cook Set,2019,Q3 2019,58585.25,477,0.35337799
+SaleID_963,Korea,Fax,Department Store,Outdoor Protection,Cooking Gear,TrailChef Deluxe Cook Set,2019,Q3 2019,74605.15,607,0.35337799
+SaleID_964,Korea,Fax,Department Store,Sports Equipment,Lanterns,Firefly Lite,2019,Q3 2019,8935.58,616,0.53251762
+SaleID_965,Korea,Fax,Department Store,Mountaineering Equipment,Lanterns,Firefly Extreme,2019,Q3 2019,9904.48,184,0.43952457
+SaleID_966,Korea,Fax,Department Store,Camping Equipment,Lanterns,EverGlow Kerosene,2019,Q3 2019,10778,342,0.36508558
+SaleID_967,Korea,Fax,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2019,Q3 2019,9702,152,0.36751104
+SaleID_968,Korea,Fax,Department Store,Personal Accessories,Rope,Husky Rope 50,2019,Q3 2019,34859,231,0.33511842
+SaleID_969,Korea,Fax,Department Store,Mountaineering Equipment,Rope,Husky Rope 60,2019,Q3 2019,22433,126,0.29811357
+SaleID_970,Korea,Fax,Department Store,Mountaineering Equipment,Rope,Husky Rope 100,2019,Q3 2019,65258.34,200,0.30762661
+SaleID_971,Korea,Fax,Department Store,Camping Equipment,Rope,Husky Rope 200,2019,Q3 2019,50850.39,95,0.32098891
+SaleID_972,Sweden,Phone,Direct Marketing,Personal Accessories,Cooking Gear,TrailChef Water Bag,2019,Q3 2019,12281.46,1916,0.54047105
+SaleID_973,Sweden,Phone,Direct Marketing,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2019,Q3 2019,50025.4,186,0.38537703
+SaleID_974,Sweden,Sales visit,Sports Store,Camping Equipment,Tents,Star Lite,2019,Q3 2019,88659.24,254,0.28800518
+SaleID_975,Sweden,Sales visit,Sports Store,Personal Accessories,Tents,Star Gazer 2,2019,Q3 2019,87472.4,160,0.2894934
+SaleID_976,Sweden,Sales visit,Sports Store,Personal Accessories,Golf Accessories,Course Pro Golf Bag,2019,Q3 2019,12134.72,60,0.61645224
+SaleID_977,Germany,Fax,Online Retailer,Sports Equipment,Lanterns,Firefly 2,2019,Q3 2019,9411.54,344,0.38993898
+SaleID_978,Germany,Fax,Online Retailer,Personal Accessories,Climbing Accessories,Firefly Climbing Lamp,2019,Q3 2019,6517.35,167,0.44528732
+SaleID_979,Germany,Fax,Online Retailer,Sports Equipment,Tools,Granite Grip,2019,Q3 2019,7511,375,0.5045
+SaleID_980,Germany,Phone,Direct Marketing,Personal Accessories,Cooking Gear,TrailChef Canteen,2019,Q3 2019,7517.24,610,0.35404886
+SaleID_981,Germany,Phone,Direct Marketing,Personal Accessories,Cooking Gear,TrailChef Kitchen Kit,2019,Q3 2019,12154.08,521,0.31589537
+SaleID_982,Germany,Phone,Direct Marketing,Camping Equipment,First Aid,Calamine Relief,2019,Q3 2019,285,41,0.52733333
+SaleID_983,Germany,Phone,Direct Marketing,Personal Accessories,First Aid,Aloe Relief,2019,Q3 2019,265.43,43,0.63188719
+SaleID_984,Germany,Phone,Direct Marketing,Camping Equipment,First Aid,Insect Bite Relief,2019,Q3 2019,945,151,0.539
+SaleID_985,Germany,Phone,Warehouse Store,Outdoor Protection,Cooking Gear,TrailChef Double Flame,2019,Q3 2019,19515.3,137,0.4788169
+SaleID_986,Germany,Phone,Warehouse Store,Personal Accessories,Sleeping Bags,Hibernator Self - Inflating Mat,2019,Q3 2019,23991.18,200,0.56437921
+SaleID_987,Germany,Phone,Warehouse Store,Mountaineering Equipment,Sunscreen,Sun Shelter 15,2019,Q3 2019,1171,226,0.641
+SaleID_988,Germany,Phone,Warehouse Store,Camping Equipment,First Aid,Compact Relief Kit,2019,Q3 2019,1040,45,0.60769565
+SaleID_989,Germany,E-mail,Department Store,Personal Accessories,Lanterns,Firefly Mapreader,2019,Q3 2019,6961.68,435,0.52907519
+SaleID_990,Germany,E-mail,Sports Store,Camping Equipment,Lanterns,Firefly Mapreader,2019,Q3 2019,8366.16,523,0.52907519
+SaleID_991,Germany,E-mail,Sports Store,Personal Accessories,Lanterns,Firefly 4,2019,Q3 2019,10737.72,365,0.38758696
+SaleID_992,Germany,E-mail,Sports Store,Mountaineering Equipment,Lanterns,Firefly Extreme,2019,Q3 2019,5575,102,0.45066546
+SaleID_993,Germany,E-mail,Sports Store,Mountaineering Equipment,Navigation,Glacier GPS,2019,Q3 2019,46403.02,420,0.33672207
+SaleID_994,Germany,E-mail,Sports Store,Outdoor Protection,Insect Repellents,BugShield Spray,2019,Q3 2019,2563.18,420,0.69450749
+SaleID_995,Germany,E-mail,Sports Store,Personal Accessories,Insect Repellents,BugShield Lotion,2019,Q3 2019,1598,223,0.66614286
+SaleID_996,Switzerland,E-mail,Mall,Personal Accessories,Eyewear,Polar Sun,2019,Q3 2019,3081.16,51,0.57613454
+SaleID_997,Switzerland,E-mail,Mall,Outdoor Protection,Eyewear,Polar Sports,2019,Q3 2019,2014.2,18,0.5191304
+SaleID_998,Switzerland,E-mail,Mall,Personal Accessories,Irons,Hailstorm Titanium Irons,2019,Q3 2019,63562.2,74,0.48783347
+SaleID_999,Switzerland,E-mail,Mall,Sports Equipment,Irons,Lady Hailstorm Steel Irons,2019,Q3 2019,26874.83,55,0.4501865
+SaleID_1000,Switzerland,E-mail,Mall,Personal Accessories,Irons,Lady Hailstorm Titanium Irons,2019,Q3 2019,43968.64,54,0.50170552
+SaleID_1001,Switzerland,E-mail,Mall,Camping Equipment,Woods,Hailstorm Titanium Woods Set,2019,Q3 2019,72502.8,62,0.48638334
+SaleID_1002,Switzerland,E-mail,Mall,Personal Accessories,Woods,Hailstorm Steel Woods Set,2019,Q3 2019,44351.4,69,0.48236358
+SaleID_1003,Switzerland,E-mail,Mall,Outdoor Protection,Woods,Lady Hailstorm Steel Woods Set,2019,Q3 2019,51102.52,61,0.51245229
+SaleID_1004,Switzerland,E-mail,Mall,Sports Equipment,Golf Accessories,Course Pro Golf and Tee Set,2019,Q3 2019,6694.91,639,0.73054362
+SaleID_1005,Switzerland,Web,Mall,Camping Equipment,Watches,Venue,2019,Q3 2019,7789,108,0.43078082
+SaleID_1006,Switzerland,Web,Mall,Camping Equipment,,Infinity,2019,Q3 2019,60541.4,258,0.46181493
+SaleID_1007,United Kingdom,Sales visit,,Camping Equipment,Lanterns,Firefly Extreme,2019,Q3 2019,8226.14,153,0.43952457
+SaleID_1008,Italy,Phone,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Canteen,2019,Q3 2019,11766.12,956,0.35404886
+SaleID_1009,Italy,Phone,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Deluxe Cook Set,2019,Q3 2019,61296.31,499,0.35337799
+SaleID_1010,Italy,Phone,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Kettle,2019,Q3 2019,26075.32,2074,0.59215287
+SaleID_1011,Italy,Phone,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Utensils,2019,Q3 2019,16186.44,849,0.47406854
+SaleID_1012,Italy,Phone,Outdoors Shop,Outdoor Protection,Sleeping Bags,Hibernator Lite,2019,Q3 2019,82730.94,968,0.29798353
+SaleID_1013,Italy,Phone,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator,2019,Q3 2019,,571,0.38246835
+SaleID_1014,Italy,Phone,Sports Store,Mountaineering Equipment,Sunscreen,Sun Shelter 30,2019,Q3 2019,4161,824,0.629
+SaleID_1015,United States,Fax,Sports Store,Outdoor Protection,Cooking Gear,TrailChef Deluxe Cook Set,2019,Q4 2019,18289.04,150,0.35337799
+SaleID_1016,United States,Fax,Sports Store,Camping Equipment,Cooking Gear,TrailChef Single Flame,2019,Q4 2019,16162.22,256,0.26780025
+SaleID_1017,United States,Fax,Sports Store,Personal Accessories,Insect Repellents,BugShield Lotion,2019,Q4 2019,1136,157,0.66614286
+SaleID_1018,United States,Fax,Sports Store,Personal Accessories,Sunscreen,Sun Blocker,2019,Q4 2019,581,108,0.609
+SaleID_1019,United States,Phone,Warehouse Store,Personal Accessories,Cooking Gear,TrailChef Deluxe Cook Set,2019,Q4 2019,46508.71,379,0.35337799
+SaleID_1020,United States,Phone,Warehouse Store,Mountaineering Equipment,Tents,Star Lite,2019,Q4 2019,185003.12,528,0.28800518
+SaleID_1021,United States,Phone,Sports Store,Camping Equipment,Eyewear,Hawk Eye,2019,Q4 2019,11059,258,0.43295349
+SaleID_1022,United States,Phone,Sports Store,Sports Equipment,Eyewear,Retro,2019,Q4 2019,11641.25,187,
+SaleID_1023,United States,Phone,Sports Store,Personal Accessories,Navigation,Astro Pilot,2019,Q4 2019,4836,35,0.37755172
+SaleID_1024,United States,E-mail,Warehouse Store,Personal Accessories,Eyewear,Cat Eye,2019,Q4 2019,3857.4,185,0.12976923
+SaleID_1025,United States,Sales visit,Department Store,Mountaineering Equipment,Insect Repellents,BugShield Lotion,2019,Q4 2019,2809,396,0.66614286
+SaleID_1026,United States,Sales visit,Department Store,Personal Accessories,Sunscreen,Sun Shelter 30,2019,Q4 2019,4491,890,0.629
+SaleID_1027,United States,Sales visit,Department Store,Personal Accessories,First Aid,Deluxe Family Relief Kit,2019,Q4 2019,2676,77,0.59785714
+SaleID_1028,United States,Sales visit,Department Store,Personal Accessories,First Aid,Aloe Relief,2019,Q4 2019,396.18,68,0.63188719
+SaleID_1029,United States,Sales visit,Outdoors Shop,Camping Equipment,Safety,Granite Climbing Helmet,2019,Q4 2019,109578.4,1560,0.25163158
+SaleID_1030,United States,Sales visit,Outdoors Shop,Sports Equipment,Safety,Husky Harness,2019,Q4 2019,44758,726,0.29017409
+SaleID_1031,United States,Sales visit,Outdoors Shop,Personal Accessories,Safety,Husky Harness Extreme,2019,Q4 2019,154606.5,1481,0.48292344
+SaleID_1032,United States,Sales visit,Outdoors Shop,Outdoor Protection,Safety,Granite Signal Mirror,2019,Q4 2019,17772,539,0.52293939
+SaleID_1033,United States,Sales visit,Outdoors Shop,Sports Equipment,Climbing Accessories,Granite Carabiner,2019,Q4 2019,31555.2,8057,0.49786682
+SaleID_1034,United States,Sales visit,Outdoors Shop,Camping Equipment,Climbing Accessories,Granite Belay,2019,Q4 2019,58970,888,0.48065414
+SaleID_1035,United States,Sales visit,Discount Retailer,Personal Accessories,Eyewear,Polar Sun,2019,Q4 2019,66788.41,1128,0.55779469
+SaleID_1036,United States,Sales visit,Discount Retailer,Personal Accessories,Eyewear,Polar Ice,2019,Q4 2019,20424.1,196,0.52583391
+SaleID_1037,United States,Sales visit,Discount Retailer,Personal Accessories,Eyewear,Polar Sports,2019,Q4 2019,82901.31,710,0.49583906
+SaleID_1038,United States,Sales visit,Discount Retailer,Sports Equipment,Eyewear,Polar Wave,2019,Q4 2019,2728.36,30,0.56896444
+SaleID_1039,Mexico,Sales visit,Outdoors Shop,Personal Accessories,Knives,Bear Edge,2019,Q4 2019,19270.64,486,0.40645404
+SaleID_1040,Mexico,Sales visit,Outdoors Shop,Personal Accessories,Knives,Bear Survival Edge,2019,Q4 2019,34947.64,400,0.46295985
+SaleID_1041,Mexico,Sales visit,Outdoors Shop,Camping Equipment,Navigation,Glacier Deluxe,2019,Q4 2019,16267.74,179,0.42052368
+SaleID_1042,Mexico,Sales visit,Outdoors Shop,Mountaineering Equipment,Navigation,Glacier GPS Extreme,2019,Q4 2019,52318.86,155,0.48243188
+SaleID_1043,Mexico,Sales visit,Outdoors Shop,Mountaineering Equipment,Insect Repellents,BugShield Natural,2019,Q4 2019,4737,783,0.689
+SaleID_1044,Mexico,Sales visit,Outdoors Shop,Camping Equipment,Sunscreen,Sun Blocker,2019,Q4 2019,1596,311,0.609
+SaleID_1045,Japan,Phone,Discount Retailer,Mountaineering Equipment,Eyewear,Cat Eye,2019,Q4 2019,5464.6,204,0.3228806
+SaleID_1046,Japan,Phone,Discount Retailer,Personal Accessories,Eyewear,Dante,2019,Q4 2019,5488.4,126,0.36114367
+SaleID_1047,Japan,Phone,Discount Retailer,Camping Equipment,Eyewear,Inferno,2019,Q4 2019,13955.8,193,0.43704945
+SaleID_1048,Japan,Phone,Discount Retailer,Outdoor Protection,Eyewear,Maximus,2019,Q4 2019,24028.85,269,0.51544497
+SaleID_1049,Japan,Phone,Discount Retailer,Camping Equipment,Eyewear,Zone,2019,Q4 2019,18024.3,526,0.33003771
+SaleID_1050,Japan,Sales visit,Sports Store,Personal Accessories,Insect Repellents,BugShield Spray,2019,Q4 2019,2947.82,484,0.69450749
+SaleID_1051,Japan,Sales visit,Sports Store,Camping Equipment,Sunscreen,Sun Blocker,2019,Q4 2019,1031,198,0.609
+SaleID_1052,Japan,Sales visit,Sports Store,Sports Equipment,Sunscreen,Sun Shelter Stick,2019,Q4 2019,1351,262,0.607
+SaleID_1053,Japan,Sales visit,Sports Store,Personal Accessories,First Aid,Calamine Relief,2019,Q4 2019,267,38,0.52733333
+SaleID_1054,Japan,Sales visit,Sports Store,Personal Accessories,First Aid,Insect Bite Relief,2019,Q4 2019,309,45,0.539
+SaleID_1055,Singapore,Fax,Outdoors Shop,Personal Accessories,Binoculars,Seeker 50,2019,Q4 2019,20307.6,161,0.2723124
+SaleID_1056,Singapore,Fax,Outdoors Shop,Sports Equipment,Binoculars,Seeker Extreme,2019,Q4 2019,20702.26,121,0.45664665
+SaleID_1057,Korea,Fax,Department Store,Sports Equipment,Tools,Granite Ice,2019,Q4 2019,34251,452,0.48623684
+SaleID_1058,Korea,Fax,Department Store,Sports Equipment,Tools,Granite Hammer,2019,Q4 2019,23604.8,312,0.25038194
+SaleID_1059,Korea,Fax,Department Store,Personal Accessories,Tools,Granite Shovel,2019,Q4 2019,13455.12,230,0.3846098
+SaleID_1060,Korea,Fax,Department Store,Sports Equipment,Tools,Granite Grip,2019,Q4 2019,14868.6,758,0.49440816
+SaleID_1061,Korea,Fax,Department Store,Personal Accessories,Tools,Granite Axe,2019,Q4 2019,43174.2,1125,0.49066667
+SaleID_1062,Korea,Fax,Department Store,Sports Equipment,Tools,Granite Extreme,2019,Q4 2019,73163,964,0.38689474
+SaleID_1063,Korea,Fax,Department Store,Sports Equipment,Eyewear,Polar Sports,2019,Q4 2019,5823,50,0.50935343
+SaleID_1064,China,Web,Mall,Outdoor Protection,Watches,Venue,2019,Q4 2019,64656,887,0.42743743
+SaleID_1065,China,Web,Mall,Personal Accessories,Watches,Infinity,2019,Q4 2019,77595.4,326,0.45652756
+SaleID_1066,China,Web,Mall,Personal Accessories,Watches,Lux,2019,Q4 2019,29213.8,167,0.47537881
+SaleID_1067,Sweden,Phone,Outdoors Shop,Sports Equipment,Knives,Bear Edge,2019,Q4 2019,12122.84,306,0.40645404
+SaleID_1068,Sweden,Phone,Outdoors Shop,Personal Accessories,Knives,Bear Survival Edge,2019,Q4 2019,10046.52,116,0.46295985
+SaleID_1069,Sweden,Sales visit,Outdoors Shop,Sports Equipment,Safety,Husky Harness Extreme,2019,Q4 2019,79680,764,0.48292344
+SaleID_1070,Sweden,Sales visit,Outdoors Shop,Mountaineering Equipment,Safety,Granite Signal Mirror,2019,Q4 2019,9357,284,0.52293939
+SaleID_1071,Sweden,Sales visit,Outdoors Shop,Personal Accessories,Tools,Granite Ice,2019,Q4 2019,26195,346,0.48623684
+SaleID_1072,Sweden,Sales visit,Outdoors Shop,Camping Equipment,Tools,Granite Hammer,2019,Q4 2019,17146.5,227,0.25038194
+SaleID_1073,Sweden,Sales visit,Sports Store,Sports Equipment,Cooking Gear,TrailChef Kettle,2019,Q4 2019,19441.32,1530,0.59632072
+SaleID_1074,Sweden,Sales visit,Sports Store,Camping Equipment,Cooking Gear,TrailChef Utensils,2019,Q4 2019,16002.6,846,0.46989947
+SaleID_1075,Sweden,Sales visit,Sports Store,Personal Accessories,Tents,Star Lite,2019,Q4 2019,120656.66,345,0.28800518
+SaleID_1076,Sweden,Sales visit,Sports Store,Personal Accessories,Tents,Star Dome,2019,Q4 2019,55084.15,91,0.35858599
+SaleID_1077,Germany,Fax,Online Retailer,Personal Accessories,Sleeping Bags,Hibernator Lite,2019,Q4 2019,36769.11,431,0.29798353
+SaleID_1078,Germany,Fax,Online Retailer,Camping Equipment,Sunscreen,Sun Shield,2019,Q4 2019,1725,281,0.539
+SaleID_1079,Germany,Phone,Direct Marketing,Camping Equipment,Cooking Gear,TrailChef Kettle,2019,Q4 2019,15152.96,1180,0.60040406
+SaleID_1080,Germany,Phone,Outdoors Shop,Camping Equipment,Sleeping Bags,Hibernator Extreme,2019,Q4 2019,62769.12,251,0.40347832
+SaleID_1081,Germany,Phone,Outdoors Shop,Personal Accessories,Sleeping Bags,Hibernator Self - Inflating Mat,2019,Q4 2019,34752.17,289,0.56437921
+SaleID_1082,Germany,Phone,Outdoors Shop,Personal Accessories,Sleeping Bags,Hibernator Camp Cot,2019,Q4 2019,13451.1,137,0.3416355
+SaleID_1083,Germany,Phone,Outdoors Shop,Personal Accessories,Packs,Canyon Mule Carryall,2019,Q4 2019,30706.37,441,0.40928211
+SaleID_1084,Germany,Phone,Outdoors Shop,Personal Accessories,Rope,Husky Rope 50,2019,Q4 2019,20875,139,0.33511842
+SaleID_1085,Germany,Phone,Outdoors Shop,Outdoor Protection,Rope,Husky Rope 60,2019,Q4 2019,14130,80,0.29811357
+SaleID_1086,Germany,Phone,Outdoors Shop,Camping Equipment,Rope,Husky Rope 100,2019,Q4 2019,48791.84,150,0.30762661
+SaleID_1087,Germany,Phone,Outdoors Shop,Camping Equipment,Rope,Husky Rope 200,2019,Q4 2019,38287.1,72,0.32098891
+SaleID_1088,Germany,Phone,Outdoors Shop,Personal Accessories,Safety,Granite Climbing Helmet,2019,Q4 2019,26765,382,0.25163158
+SaleID_1089,Germany,Phone,Outdoors Shop,Outdoor Protection,Safety,Husky Harness,2019,Q4 2019,15673.75,255,0.29017409
+SaleID_1090,Germany,Phone,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness Extreme,2019,Q4 2019,37462,360,0.48292344
+SaleID_1091,Germany,Phone,Outdoors Shop,Camping Equipment,Safety,Granite Signal Mirror,2019,Q4 2019,4506,137,0.52293939
+SaleID_1092,Germany,Phone,Outdoors Shop,Personal Accessories,Eyewear,Hawk Eye,2019,Q4 2019,10930,255,0.43318605
+SaleID_1093,Germany,Phone,Outdoors Shop,Camping Equipment,Eyewear,Retro,2019,Q4 2019,11891.85,191,0.45614286
+SaleID_1094,Germany,E-mail,Sports Store,Camping Equipment,Cooking Gear,TrailChef Canteen,2019,Q4 2019,7357.6,597,0.35404886
+SaleID_1095,Germany,E-mail,Sports Store,Mountaineering Equipment,Lanterns,Firefly 4,2019,Q4 2019,9589.56,326,0.38758696
+SaleID_1096,Germany,E-mail,Sports Store,Camping Equipment,Lanterns,Firefly Extreme,2019,Q4 2019,5519.14,103,0.43952457
+SaleID_1097,Germany,E-mail,Sports Store,Camping Equipment,Lanterns,EverGlow Double,2019,Q4 2019,1719.8,34,0.44770566
+SaleID_1098,United Kingdom,Sales visit,Department Store,Mountaineering Equipment,Sleeping Bags,Hibernator,2019,Q4 2019,6049.07,45,0.38246835
+SaleID_1099,United Kingdom,Sales visit,Outdoors Shop,Camping Equipment,Insect Repellents,BugShield Extreme,2019,Q4 2019,18844.53,2756,0.6443737
+SaleID_1100,United Kingdom,Sales visit,Outdoors Shop,Camping Equipment,Sunscreen,Sun Shelter 15,2019,Q4 2019,2081,408,0.641
+SaleID_1101,United Kingdom,Sales visit,Outdoors Shop,Camping Equipment,First Aid,Compact Relief Kit,2019,Q4 2019,1868,81,0.60769565
+SaleID_1102,Italy,Phone,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Utensils,2019,Q4 2019,28871.87,2493,0.43720225
+SaleID_1103,Italy,Phone,Outdoors Shop,Personal Accessories,Knives,Edge Extreme,2019,Q4 2019,79079.45,697,0.2954559
+SaleID_1104,Italy,Phone,Outdoors Shop,Outdoor Protection,Knives,Bear Edge,2019,Q4 2019,12639.07,319,0.40645404
+SaleID_1105,United States,Fax,Sports Store,Mountaineering Equipment,Irons,Hailstorm Titanium Irons,2020,Q1 2020,124427.1,143,0.49010078
+SaleID_1106,United States,Fax,Sports Store,Personal Accessories,Irons,Lady Hailstorm Steel Irons,2020,Q1 2020,,121,0.4501865
+SaleID_1107,United States,Fax,Sports Store,Mountaineering Equipment,Woods,Hailstorm Steel Woods Set,2020,Q1 2020,58897.8,91,0.48236358
+SaleID_1108,United States,Fax,Sports Store,Mountaineering Equipment,Golf Accessories,,2020,Q1 2020,14529.96,1405,0.66954264
+SaleID_1109,United States,Fax,Sports Store,Personal Accessories,Golf Accessories,Course Pro Golf Bag,2020,Q1 2020,54427.74,263,0.61645224
+SaleID_1110,United States,Fax,Sports Store,Personal Accessories,Golf Accessories,Course Pro Gloves,2020,Q1 2020,8535,810,0.75614286
+SaleID_1111,Japan,E-mail,Direct Marketing,Outdoor Protection,Insect Repellents,BugShield Natural,2020,Q1 2020,1767,288,0.689
+SaleID_1112,Japan,Sales visit,Mall,Personal Accessories,Eyewear,Polar Sun,2020,Q1 2020,1658.84,28,0.58341138
+SaleID_1113,Japan,Sales visit,Mall,Personal Accessories,Eyewear,Polar Wave,2020,Q1 2020,1052.16,20,0.31093815
+SaleID_1114,Japan,Sales visit,Sports Store,Camping Equipment,Irons,Hailstorm Titanium Irons,2020,Q1 2020,147129.36,200,0.42489053
+SaleID_1115,Singapore,Fax,Outdoors Shop,Camping Equipment,Rope,Husky Rope 100,2020,Q1 2020,225312.72,686,0.30762661
+SaleID_1116,Singapore,Fax,Outdoors Shop,Personal Accessories,Rope,Husky Rope 200,2020,Q1 2020,159003.93,293,0.32098891
+SaleID_1117,Singapore,Fax,Outdoors Shop,Outdoor Protection,Safety,Granite Climbing Helmet,2020,Q1 2020,61563.5,877,
+SaleID_1118,Singapore,Fax,Outdoors Shop,Sports Equipment,Safety,Husky Harness,2020,Q1 2020,61183.5,992,0.29017409
+SaleID_1119,Singapore,Fax,Outdoors Shop,Personal Accessories,Safety,Husky Harness Extreme,2020,Q1 2020,136737,1310,0.48292344
+SaleID_1120,Singapore,Fax,Outdoors Shop,Outdoor Protection,Safety,Granite Signal Mirror,2020,Q1 2020,16485,500,0.52293939
+SaleID_1121,Singapore,Fax,Outdoors Shop,Camping Equipment,Climbing Accessories,Firefly Climbing Lamp,2020,Q1 2020,14316.16,366,0.44528732
+SaleID_1122,Singapore,Fax,Outdoors Shop,Camping Equipment,Climbing Accessories,Firefly Charger,2020,Q1 2020,28989.2,565,0.56398054
+SaleID_1123,Singapore,Fax,Outdoors Shop,Outdoor Protection,Climbing Accessories,Firefly Rechargeable Battery,2020,Q1 2020,18344.76,2384,0.58884375
+SaleID_1124,Singapore,Fax,Outdoors Shop,Mountaineering Equipment,Tools,Granite Ice,2020,Q1 2020,109415,1441,0.48623684
+SaleID_1125,Singapore,Fax,Outdoors Shop,Personal Accessories,Tools,Granite Hammer,2020,Q1 2020,32722.4,432,0.25038194
+SaleID_1126,Singapore,Fax,Outdoors Shop,Camping Equipment,Watches,Mountain Man Deluxe,2020,Q1 2020,7178.24,94,0.49557932
+SaleID_1127,Singapore,Fax,Outdoors Shop,Camping Equipment,Eyewear,Polar Sports,2020,Q1 2020,3264.54,29,0.50429323
+SaleID_1128,Singapore,Sales visit,Warehouse Store,Camping Equipment,Sunscreen,Sun Shelter 15,2020,Q1 2020,2209.78,439,0.63665182
+SaleID_1129,Singapore,Sales visit,Warehouse Store,Camping Equipment,Sunscreen,Sun Shield,2020,Q1 2020,2565,421,0.539
+SaleID_1130,Singapore,Sales visit,Warehouse Store,Personal Accessories,First Aid,Aloe Relief,2020,Q1 2020,390.95,67,0.63188719
+SaleID_1131,Singapore,Sales visit,Warehouse Store,Mountaineering Equipment,First Aid,Insect Bite Relief,2020,Q1 2020,861,137,0.539
+SaleID_1132,Singapore,Other,Outdoors Shop,Personal Accessories,Eyewear,Polar Ice,2020,Q1 2020,3145.3,31,0.53330178
+SaleID_1133,Singapore,Other,Outdoors Shop,Outdoor Protection,Eyewear,Polar Sports,2020,Q1 2020,3502.58,31,0.50429323
+SaleID_1134,Singapore,Other,Outdoors Shop,Sports Equipment,Navigation,Glacier GPS,2020,Q1 2020,131909.1,1404,0.30787826
+SaleID_1135,Korea,Sales visit,Mall,Mountaineering Equipment,Golf Accessories,Course Pro Golf Bag,2020,Q1 2020,22398.08,108,0.62095508
+SaleID_1136,Korea,Sales visit,Mall,Personal Accessories,Golf Accessories,Course Pro Gloves,2020,Q1 2020,8251.5,783,0.75614286
+SaleID_1137,Korea,Sales visit,Sports Store,Personal Accessories,Cooking Gear,TrailChef Kitchen Kit,2020,Q1 2020,27620.46,1196,0.30909095
+SaleID_1138,Netherlands,Sales visit,Department Store,Personal Accessories,Packs,Canyon Mule Climber Backpack,2020,Q1 2020,58613.04,804,0.2800189
+SaleID_1139,Netherlands,Sales visit,Department Store,Mountaineering Equipment,Lanterns,EverGlow Double,2020,Q1 2020,2919.25,57,0.44770566
+SaleID_1140,Netherlands,Sales visit,Department Store,Camping Equipment,Lanterns,EverGlow Butane,2020,Q1 2020,17422.8,272,0.36751104
+SaleID_1141,Netherlands,Sales visit,Department Store,Mountaineering Equipment,Watches,Mountain Man Analog,2020,Q1 2020,3374.84,70,0.38525205
+SaleID_1142,Netherlands,Sales visit,Department Store,Outdoor Protection,Irons,Hailstorm Titanium Irons,2020,Q1 2020,38677.64,54,0.42489053
+SaleID_1143,Netherlands,Sales visit,Department Store,Personal Accessories,Woods,Hailstorm Titanium Woods Set,2020,Q1 2020,59537.44,54,0.4849568
+SaleID_1144,Netherlands,Sales visit,Department Store,Camping Equipment,Putters,Blue Steel Max Putter,2020,Q1 2020,0,54,
+SaleID_1145,Germany,Phone,Department Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2020,Q1 2020,68494.2,254,0.38537703
+SaleID_1146,Germany,Phone,Department Store,Personal Accessories,Packs,Canyon Mule Carryall,2020,Q1 2020,30427.05,437,0.40928211
+SaleID_1147,Germany,Phone,Department Store,Camping Equipment,Lanterns,Firefly 4,2020,Q1 2020,7587.64,258,0.38758696
+SaleID_1148,Germany,Phone,Department Store,Camping Equipment,Lanterns,EverGlow Lamp,2020,Q1 2020,44998.55,1670,0.52436412
+SaleID_1149,Germany,Phone,Department Store,Camping Equipment,Insect Repellents,BugShield Lotion Lite,2020,Q1 2020,0,31,
+SaleID_1150,Germany,Phone,Department Store,Personal Accessories,Sunscreen,Sun Shelter 30,2020,Q1 2020,0,31,
+SaleID_1151,Germany,Phone,Department Store,Sports Equipment,Irons,Hailstorm Steel Irons,2020,Q1 2020,13420,31,0.51960738
+SaleID_1152,Germany,Phone,Department Store,Personal Accessories,Woods,Hailstorm Steel Woods Set,2020,Q1 2020,20235,31,0.5081954
+SaleID_1153,Germany,Phone,Department Store,Personal Accessories,Putters,Blue Steel Putter,2020,Q1 2020,0,31,
+SaleID_1154,Germany,Phone,Outdoors Shop,Sports Equipment,Safety,Husky Harness Extreme,2020,Q1 2020,47180.5,453,0.48292344
+SaleID_1155,Germany,Phone,Outdoors Shop,Personal Accessories,Safety,Granite Signal Mirror,2020,Q1 2020,4638,141,0.52293939
+SaleID_1156,Germany,Phone,Outdoors Shop,Camping Equipment,Climbing Accessories,Granite Carabiner,2020,Q1 2020,19317,5072,0.48321053
+SaleID_1157,Germany,Phone,Outdoors Shop,Personal Accessories,Climbing Accessories,Granite Belay,2020,Q1 2020,23193,350,0.48065414
+SaleID_1158,Germany,Phone,Outdoors Shop,Personal Accessories,Climbing Accessories,Granite Pulley,2020,Q1 2020,20950.62,569,0.50117037
+SaleID_1159,Germany,Phone,Outdoors Shop,Personal Accessories,Climbing Accessories,Firefly Climbing Lamp,2020,Q1 2020,25681.26,656,0.44528732
+SaleID_1160,Germany,Phone,Outdoors Shop,Personal Accessories,Climbing Accessories,Firefly Charger,2020,Q1 2020,20511.42,396,0.56842037
+SaleID_1161,Germany,Phone,Outdoors Shop,Outdoor Protection,Climbing Accessories,Firefly Rechargeable Battery,2020,Q1 2020,16232.76,2109,0.58884375
+SaleID_1162,Germany,Sales visit,Outdoors Shop,Sports Equipment,Tools,Granite Axe,2020,Q2 2020,42291,1102,0.49066667
+SaleID_1163,Germany,Sales visit,Outdoors Shop,Outdoor Protection,Navigation,Glacier GPS Extreme,2020,Q2 2020,56418.3,167,0.48243188
+SaleID_1164,United Kingdom,E-mail,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Water Bag,2020,Q2 2020,20433.56,3258,0.51816933
+SaleID_1165,United Kingdom,E-mail,Outdoors Shop,Mountaineering Equipment,Cooking Gear,TrailChef Canteen,2020,Q2 2020,10351.54,708,0.44245442
+SaleID_1166,United Kingdom,E-mail,Outdoors Shop,Camping Equipment,Cooking Gear,TrailChef Cook Set,2020,Q2 2020,49175.16,924,0.34265616
+SaleID_1167,United Kingdom,E-mail,Outdoors Shop,Personal Accessories,Cooking Gear,TrailChef Single Flame,2020,Q2 2020,41661.08,658,0.26780025
+SaleID_1168,United Kingdom,E-mail,Outdoors Shop,Camping Equipment,Tents,Star Gazer 2,2020,Q2 2020,156081.6,284,0.2894934
+SaleID_1169,United Kingdom,E-mail,Outdoors Shop,Mountaineering Equipment,Climbing Accessories,Firefly Charger,2020,Q2 2020,27087.4,528,0.56398054
+SaleID_1170,United Kingdom,E-mail,Outdoors Shop,Personal Accessories,Climbing Accessories,Firefly Rechargeable Battery,2020,Q2 2020,18055.4,2371,0.58452632
+SaleID_1171,United Kingdom,E-mail,Outdoors Shop,Sports Equipment,Climbing Accessories,Granite Chalk Bag,2020,Q2 2020,7036.44,398,0.51543991
+SaleID_1172,United Kingdom,E-mail,Outdoors Shop,Personal Accessories,Binoculars,Seeker Extreme,2020,Q2 2020,23131.82,135,0.45664665
+SaleID_1173,United Kingdom,E-mail,Outdoors Shop,Mountaineering Equipment,Navigation,Glacier GPS Extreme,2020,Q2 2020,68716.62,203,0.48243188
+SaleID_1174,United Kingdom,Sales visit,Outdoors Shop,Sports Equipment,Lanterns,Firefly 2,2020,Q2 2020,11464.29,419,0.38993898
+SaleID_1175,Italy,Phone,Sports Store,Outdoor Protection,Woods,Lady Hailstorm Titanium Woods Set,2020,Q2 2020,120181.89,95,0.52676509
+SaleID_1176,Italy,Sales visit,Mall,Personal Accessories,Woods,Hailstorm Steel Woods Set,2020,Q2 2020,212957.4,324,0.48236358
+SaleID_1177,Italy,Sales visit,Mall,Sports Equipment,Woods,Lady Hailstorm Steel Woods Set,2020,Q2 2020,58890.04,70,0.51245229
+SaleID_1178,Italy,Sales visit,Mall,Sports Equipment,Putters,Blue Steel Putter,2020,Q2 2020,34280.86,408,0.51032724
+SaleID_1179,Italy,Sales visit,Mall,Camping Equipment,Putters,Blue Steel Max Putter,2020,Q2 2020,45696.6,268,0.52231002
+SaleID_1180,Italy,Sales visit,Mall,Sports Equipment,Golf Accessories,Course Pro Gloves,2020,Q2 2020,14437.24,2686,0.52325373
+SaleID_1181,Brazil,E-mail,Warehouse Store,Personal Accessories,Cooking Gear,TrailChef Single Flame,2020,Q3 2020,35698.66,564,0.26780025
+SaleID_1182,Brazil,E-mail,Warehouse Store,Personal Accessories,Tents,Star Dome,2020,Q3 2020,82291.55,135,0.35858599
+SaleID_1183,Brazil,E-mail,Warehouse Store,Personal Accessories,Knives,Bear Survival Edge,2020,Q3 2020,14255.16,164,0.46295985
+SaleID_1184,Brazil,E-mail,Warehouse Store,Personal Accessories,First Aid,Aloe Relief,2020,Q3 2020,265.43,43,0.63188719
+SaleID_1185,Brazil,E-mail,Warehouse Store,Camping Equipment,First Aid,Insect Bite Relief,2020,Q3 2020,525,81,0.539
+SaleID_1186,Japan,Phone,Discount Retailer,Mountaineering Equipment,Navigation,Glacier GPS Extreme,2020,Q3 2020,65983.66,195,0.48243188
+SaleID_1187,Japan,Phone,Sports Store,Mountaineering Equipment,Cooking Gear,TrailChef Canteen,2020,Q3 2020,10468.26,716,0.44245442
+SaleID_1188,Japan,Phone,Sports Store,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,2020,Q3 2020,21761.92,933,0.31589537
+SaleID_1189,Japan,Phone,Sports Store,Outdoor Protection,Tents,Star Gazer 3,2020,Q3 2020,84176.86,121,0.35679557
+SaleID_1190,Japan,Phone,Sports Store,Sports Equipment,Sleeping Bags,Hibernator Pillow,2020,Q3 2020,6334.4,358,0.50891501
+SaleID_1191,Japan,Phone,Sports Store,Personal Accessories,Packs,Canyon Mule Weekender Backpack,2020,Q3 2020,39161.4,146,0.38537703
+SaleID_1192,Japan,Phone,Sports Store,Camping Equipment,Golf Accessories,Course Pro Umbrella,2020,Q3 2020,12630.16,1014,0.47848512
+SaleID_1193,Japan,Phone,Sports Store,Camping Equipment,Golf Accessories,Course Pro Golf Bag,2020,Q3 2020,21510.02,105,0.61645224
+SaleID_1194,Japan,E-mail,Mall,Personal Accessories,Woods,Hailstorm Titanium Woods Set,2020,Q3 2020,118388.94,100,0.48638334
+SaleID_1195,Japan,E-mail,Mall,Camping Equipment,Woods,Hailstorm Steel Woods Set,2020,Q3 2020,73444.2,113,0.48236358
+SaleID_1196,Japan,E-mail,Mall,Sports Equipment,Golf Accessories,Course Pro Golf and Tee Set,2020,Q3 2020,10524.96,1038,0.66269931
+SaleID_1197,Japan,Sales visit,Direct Marketing,Mountaineering Equipment,Insect Repellents,BugShield Lotion,2020,Q3 2020,1787,250,0.66614286
+SaleID_1198,Japan,Sales visit,Direct Marketing,Sports Equipment,Insect Repellents,BugShield Extreme,2020,Q3 2020,5378,763,0.65328571
+SaleID_1199,Japan,Sales visit,Direct Marketing,Mountaineering Equipment,Sunscreen,Sun Blocker,2020,Q3 2020,896,171,0.609
+SaleID_1200,Japan,Sales visit,Direct Marketing,Personal Accessories,Sunscreen,Sun Shelter Stick,2020,Q3 2020,1246,241,0.607
+SaleID_1201,Japan,Sales visit,Direct Marketing,Personal Accessories,Sunscreen,Sun Shelter 15,2020,Q3 2020,1360.1,267,0.63665182
+SaleID_1202,Japan,Sales visit,Direct Marketing,Personal Accessories,Sunscreen,Sun Shelter 30,2020,Q3 2020,2671,526,0.629
+SaleID_1203,Japan,Sales visit,Direct Marketing,Sports Equipment,Sunscreen,Sun Shield,2020,Q3 2020,1737,283,0.539
+SaleID_1204,Japan,Sales visit,Direct Marketing,Personal Accessories,First Aid,Deluxe Family Relief Kit,2020,Q3 2020,3078.5,175,0.19671429
+SaleID_1205,Japan,Sales visit,Direct Marketing,Camping Equipment,First Aid,Calamine Relief,2020,Q3 2020,291,42,0.52733333
+SaleID_1206,Netherlands,Mail,Discount Retailer,Outdoor Protection,Watches,Mountain Man Extreme,2020,Q3 2020,9279.78,35,0.58353122
+SaleID_1207,Netherlands,Mail,Discount Retailer,Mountaineering Equipment,Eyewear,Polar Sun,2020,Q3 2020,17728.37,298,0.56866449
+SaleID_1208,Netherlands,Mail,Discount Retailer,Sports Equipment,Eyewear,Polar Ice,2020,Q3 2020,3495.7,39,0.46527282
+SaleID_1209,Netherlands,Mail,Discount Retailer,Outdoor Protection,Eyewear,Polar Sports,2020,Q3 2020,33379.95,286,0.49727642
+SaleID_1210,Netherlands,Mail,Discount Retailer,Personal Accessories,Navigation,Glacier Deluxe,2020,Q3 2020,23963.82,263,0.44235298
+SaleID_1211,Sweden,Phone,Outdoors Shop,Camping Equipment,Climbing Accessories,Firefly Rechargeable Battery,2020,Q3 2020,16186.68,2103,0.58884375
+SaleID_1212,Sweden,Phone,Outdoors Shop,Personal Accessories,Tools,Granite Axe,2020,Q3 2020,47398.2,1235,0.49066667
+SaleID_1213,Sweden,Phone,Outdoors Shop,Camping Equipment,Tools,Granite Extreme,2020,Q3 2020,56443,744,0.38689474
+SaleID_1214,Sweden,Phone,Outdoors Shop,Mountaineering Equipment,Knives,Single Edge,2020,Q3 2020,45223.94,3723,0.29389292
+SaleID_1215,Sweden,Phone,Outdoors Shop,Personal Accessories,Knives,Edge Extreme,2020,Q3 2020,34846.26,308,0.2954559
+SaleID_1216,Sweden,Phone,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS Extreme,2020,Q3 2020,49927.52,148,0.48243188
+SaleID_1217,Germany,Phone,Outdoors Shop,Camping Equipment,Climbing Accessories,Firefly Charger,2020,Q3 2020,9709.98,188,0.56842037
+SaleID_1218,Germany,Phone,Outdoors Shop,Mountaineering Equipment,,,2020,Q3 2020,40872.89,361,0.2954559
+SaleID_1219,Germany,Phone,Outdoors Shop,Sports Equipment,Navigation,Glacier GPS Extreme,2020,Q3 2020,59151.26,175,0.48243188
+SaleID_1220,Germany,E-mail,Sports Store,Sports Equipment,Cooking Gear,TrailChef Double Flame,2020,Q3 2020,27589.38,193,0.4788169
+SaleID_1221,Germany,E-mail,Sports Store,Personal Accessories,Tents,Star Gazer 3,2020,Q3 2020,59433.96,86,0.35679557
+SaleID_1222,Germany,E-mail,Sports Store,Camping Equipment,Golf Accessories,Course Pro Umbrella,2020,Q3 2020,8434.4,670,0.48346215
+SaleID_1223,Germany,E-mail,Sports Store,Personal Accessories,Golf Accessories,Course Pro Golf Bag,2020,Q3 2020,14218.12,70,0.61645224
+SaleID_1224,Germany,E-mail,Sports Store,Sports Equipment,Golf Accessories,Course Pro Gloves,2020,Q3 2020,8058.84,1496,0.52325373
+SaleID_1225,United Kingdom,Phone,Outdoors Shop,Mountaineering Equipment,Safety,Husky Harness Extreme,2020,Q3 2020,41015,394,0.48292344
+SaleID_1226,United Kingdom,Phone,Outdoors Shop,Mountaineering Equipment,Safety,Granite Signal Mirror,2020,Q3 2020,4948.2,214,0.38687879
+SaleID_1227,United Kingdom,Phone,Outdoors Shop,Personal Accessories,Tools,Granite Ice,2020,Q3 2020,26271,347,0.48623684
+SaleID_1228,United Kingdom,Phone,Outdoors Shop,Mountaineering Equipment,Tools,Granite Hammer,2020,Q3 2020,18362.18,243,0.25038194
+SaleID_1229,United Kingdom,Phone,Outdoors Shop,Personal Accessories,Tools,Granite Shovel,2020,Q3 2020,10691.99,183,0.3846098
+SaleID_1230,United Kingdom,Phone,Outdoors Shop,Personal Accessories,Tools,Granite Grip,2020,Q3 2020,9951,497,0.5045
+SaleID_1231,United Kingdom,Sales visit,Outdoors Shop,Personal Accessories,Knives,Edge Extreme,2020,Q3 2020,25863.17,229,0.2954559
+SaleID_1232,United Kingdom,Sales visit,Outdoors Shop,Camping Equipment,Navigation,Glacier Deluxe,2020,Q3 2020,15443.16,170,0.44235298
+SaleID_1233,United Kingdom,Sales visit,Outdoors Shop,Personal Accessories,Navigation,Glacier GPS Extreme,2020,Q3 2020,45144.84,134,0.48243188
+SaleID_1234,Austria,Web,Sports Store,Sports Equipment,Navigation,Sky Pilot,2020,Q3 2020,10791,32,0.35771508
+SaleID_1235,Austria,Web,Sports Store,Outdoor Protection,Navigation,Auto Pilot,2020,Q3 2020,2401,12,0.34993617
+SaleID_1236,Austria,Web,Sports Store,Camping Equipment,Irons,Hailstorm Steel Irons,2020,Q3 2020,59612.2,138,0.49437618
+SaleID_1237,Austria,Web,Sports Store,Personal Accessories,Woods,Lady Hailstorm Titanium Woods Set,2020,Q3 2020,74971.34,60,0.52676509
+SaleID_1238,Austria,Web,Sports Store,Personal Accessories,Putters,Course Pro Putter,2020,Q3 2020,50277.33,1281,0.38428139
+SaleID_1239,Austria,Web,Sports Store,Camping Equipment,Putters,Blue Steel Putter,2020,Q3 2020,12866.12,154,0.51032724
+SaleID_1240,Austria,Web,Sports Store,Mountaineering Equipment,Putters,Blue Steel Max Putter,2020,Q3 2020,28193.4,166,0.52231002
+SaleID_1241,Austria,Web,Sports Store,Personal Accessories,Golf Accessories,Course Pro Umbrella,2020,Q3 2020,12538.25,997,0.48346215
+SaleID_1242,Austria,Web,Sports Store,Personal Accessories,Golf Accessories,Course Pro Golf Bag,2020,Q3 2020,20051.64,98,0.61645224
+SaleID_1243,Austria,Web,Sports Store,Mountaineering Equipment,Golf Accessories,Course Pro Gloves,2020,Q3 2020,11810.84,2196,0.52325373
+SaleID_1244,Italy,Phone,Sports Store,Outdoor Protection,Golf Accessories,Course Pro Golf Bag,2020,Q3 2020,27968.56,136,0.61645224
+SaleID_1245,Italy,Phone,Sports Store,Personal Accessories,Golf Accessories,Course Pro Gloves,2020,Q3 2020,15809.4,2942,0.52325373
+SaleID_1246,Italy,E-mail,Sports Store,Camping Equipment,Packs,Canyon Mule Weekender Backpack,2020,Q3 2020,135276.97,475,0.41604852
+SaleID_1247,Italy,E-mail,Sports Store,Outdoor Protection,Navigation,Glacier Basic,2020,Q3 2020,10111.71,475,0.05870851
+SaleID_1248,Italy,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Multi-light,2020,Q3 2020,11038.56,416,0.32906782
+SaleID_1249,Italy,Sales visit,Outdoors Shop,Camping Equipment,Rope,Husky Rope 200,2020,Q3 2020,83077.96,154,
+SaleID_1250,Italy,Sales visit,Outdoors Shop,Camping Equipment,Safety,Granite Climbing Helmet,2020,Q3 2020,56853.4,810,0.25163158
+SaleID_1251,Spain,Web,Sports Store,Sports Equipment,Knives,Max Gizmo,2020,Q3 2020,1176.6,30,0.53556716
+SaleID_1252,Spain,Web,Sports Store,Personal Accessories,Binoculars,Seeker 35,2020,Q3 2020,49765.91,499,0.28731351
+SaleID_1253,Spain,Web,Sports Store,Outdoor Protection,Binoculars,Ranger Vision,2020,Q3 2020,,,0.53291108
+SaleID_1254,Spain,Web,Sports Store,Sports Equipment,Navigation,Astro Pilot,2020,Q3 2020,12209,55,0.35970489
+SaleID_1255,Spain,Web,Sports Store,Sports Equipment,Navigation,Auto Pilot,2020,Q3 2020,26371,114,0.34993617
+SaleID_1256,Spain,Web,Sports Store,Mountaineering Equipment,First Aid,Aloe Relief,2020,Q3 2020,359.57,61,0.63188719
+SaleID_1257,Spain,Web,Sports Store,Personal Accessories,First Aid,Insect Bite Relief,2020,Q3 2020,567,88,0.539
+SaleID_1258,Spain,Web,Sports Store,Sports Equipment,Golf Accessories,Course Pro Golf and Tee Set,2020,Q3 2020,12476.28,1206,0.66954264
+SaleID_1259,Spain,Web,Sports Store,Personal Accessories,Golf Accessories,Course Pro Umbrella,2020,Q3 2020,16222.43,1303,0.47848512
+SaleID_1260,Spain,Web,Sports Store,Outdoor Protection,Golf Accessories,Course Pro Golf Bag,2020,Q3 2020,29843.62,145,0.61645224
+SaleID_1261,Spain,Web,Sports Store,Outdoor Protection,Golf Accessories,Course Pro Gloves,2020,Q3 2020,13869.08,2580,0.52325373
+SaleID_1262,Spain,Sales visit,Outdoors Shop,Outdoor Protection,Cooking Gear,TrailChef Water Bag,2020,Q3 2020,27363.38,4365,0.51816933
+SaleID_1263,Spain,Sales visit,Outdoors Shop,Mountaineering Equipment,Cooking Gear,TrailChef Cook Set,2020,Q3 2020,49974.36,939,0.34265616
+SaleID_1264,Spain,Sales visit,Outdoors Shop,Sports Equipment,Cooking Gear,TrailChef Utensils,2020,Q3 2020,36387.24,1964,0.4590432
+SaleID_1265,Spain,Sales visit,Outdoors Shop,Camping Equipment,Tents,Star Gazer 6,2020,Q3 2020,34033.47,45,0.37897444
+SaleID_1266,Spain,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Lite,2020,Q3 2020,10440.46,720,0.53251762
+SaleID_1267,Spain,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Mapreader,2020,Q3 2020,14814,927,0.52907519
+SaleID_1268,Spain,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly 4,2020,Q3 2020,11532.6,392,0.38758696
+SaleID_1269,Spain,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,Firefly Extreme,2020,Q3 2020,11095.56,206,0.43952457
+SaleID_1270,Spain,Sales visit,Outdoors Shop,Mountaineering Equipment,Lanterns,EverGlow Single,2020,Q3 2020,25125.32,718,0.46387721
+SaleID_1271,Spain,Sales visit,Outdoors Shop,Camping Equipment,Lanterns,EverGlow Butane,2020,Q3 2020,10988.8,172,0.36751104
+SaleID_1272,Spain,Sales visit,Outdoors Shop,Personal Accessories,Rope,Husky Rope 60,2020,Q3 2020,30916.5,173,0.29811357
+SaleID_1273,Spain,Sales visit,Outdoors Shop,Outdoor Protection,Climbing Accessories,Firefly Climbing Lamp,2020,Q3 2020,7536.29,193,0.44528732
+SaleID_1274,Spain,Sales visit,Outdoors Shop,Personal Accessories,Climbing Accessories,Firefly Charger,2020,Q3 2020,12306.48,238,0.56842037
+SaleID_1275,Spain,Sales visit,Outdoors Shop,Personal Accessories,Tools,Granite Axe,2020,Q3 2020,56499,1472,0.49066667
+SaleID_1276,Spain,Sales visit,Outdoors Shop,Camping Equipment,Tools,Granite Extreme,2020,Q3 2020,89427,1178,0.38689474
